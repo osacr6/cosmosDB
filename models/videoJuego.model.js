@@ -42,7 +42,9 @@ class videoJuegoModel {
       id: CONTAINER_ID
     });
     this.container = coResponse.container;
-    console.log('Setting up the container...done!');
+    console.log('Setting up the container '+ CONTAINER_ID +' ...done!');
+
+    console.log('yeah-yeah! estamos ready.');
   }
 
   async find(querySpec) {
