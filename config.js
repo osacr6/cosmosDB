@@ -1,10 +1,10 @@
 const config = {};
 
-config.host = process.env.HOST || 'https://dmurillo.documents.azure.com:443/'; // URL
-config.authKey =
-  process.env.AUTH_KEY || 'd7XIZPcSPQTLGA8Ezyh33nRdkRacY5X2cBjOlMtukaZykkwM0fPVXEfBkDCXr69ZtMMxQLFMFG6cACDbJdDuKA=='; // PRIMARY KEY
-config.databaseId = "ToDoList";
-config.containerId = "Items";
+config.host = process.env.HOST 
+  || 'https://dmurillo.documents.azure.com:443/'; // URL
+config.authKey =  process.env.AUTH_KEY 
+  || 'd7XIZPcSPQTLGA8Ezyh33nRdkRacY5X2cBjOlMtukaZykkwM0fPVXEfBkDCXr69ZtMMxQLFMFG6cACDbJdDuKA=='; // PRIMARY KEY
+config.databaseId = "videoJuegos";
 
 if (config.host.includes("https://localhost:")) {
   console.log("Local environment detected");

@@ -1,0 +1,5004 @@
+﻿{
+    "Ventas Videojuegos": [
+        {
+            "id": "1",
+            "videoJuegoId": "1",
+            "ventasJP": "3770"
+        },
+        {
+            "id": "2",
+            "videoJuegoId": "2",
+            "ventasJP": "6810"
+        },
+        {
+            "id": "3",
+            "videoJuegoId": "3",
+            "ventasJP": "3790"
+        },
+        {
+            "id": "4",
+            "videoJuegoId": "4",
+            "ventasJP": "3280"
+        },
+        {
+            "id": "5",
+            "videoJuegoId": "5",
+            "ventasJP": "10220"
+        },
+        {
+            "id": "6",
+            "videoJuegoId": "6",
+            "ventasJP": "4220"
+        },
+        {
+            "id": "7",
+            "videoJuegoId": "7",
+            "ventasJP": "6500"
+        },
+        {
+            "id": "8",
+            "videoJuegoId": "8",
+            "ventasJP": "2930"
+        },
+        {
+            "id": "9",
+            "videoJuegoId": "9",
+            "ventasJP": "4700"
+        },
+        {
+            "id": "10",
+            "videoJuegoId": "10",
+            "ventasJP": "280"
+        },
+        {
+            "id": "11",
+            "videoJuegoId": "11",
+            "ventasJP": "1930"
+        },
+        {
+            "id": "12",
+            "videoJuegoId": "12",
+            "ventasJP": "4130"
+        },
+        {
+            "id": "13",
+            "videoJuegoId": "13",
+            "ventasJP": "7200"
+        },
+        {
+            "id": "14",
+            "videoJuegoId": "14",
+            "ventasJP": "3600"
+        },
+        {
+            "id": "15",
+            "videoJuegoId": "15",
+            "ventasJP": "2530"
+        },
+        {
+            "id": "16",
+            "videoJuegoId": "16",
+            "ventasJP": "240"
+        },
+        {
+            "id": "17",
+            "videoJuegoId": "17",
+            "ventasJP": "970"
+        },
+        {
+            "id": "18",
+            "videoJuegoId": "18",
+            "ventasJP": "410"
+        },
+        {
+            "id": "19",
+            "videoJuegoId": "19",
+            "ventasJP": "3540"
+        },
+        {
+            "id": "20",
+            "videoJuegoId": "20",
+            "ventasJP": "4160"
+        },
+        {
+            "id": "21",
+            "videoJuegoId": "21",
+            "ventasJP": "6040"
+        },
+        {
+            "id": "22",
+            "videoJuegoId": "22",
+            "ventasJP": "4180"
+        },
+        {
+            "id": "23",
+            "videoJuegoId": "23",
+            "ventasJP": "3840"
+        },
+        {
+            "id": "24",
+            "videoJuegoId": "24",
+            "ventasJP": "60"
+        },
+        {
+            "id": "25",
+            "videoJuegoId": "25",
+            "ventasJP": "470"
+        },
+        {
+            "id": "26",
+            "videoJuegoId": "26",
+            "ventasJP": "5380"
+        },
+        {
+            "id": "27",
+            "videoJuegoId": "27",
+            "ventasJP": "5650"
+        },
+        {
+            "id": "28",
+            "videoJuegoId": "28",
+            "ventasJP": "5320"
+        },
+        {
+            "id": "29",
+            "videoJuegoId": "29",
+            "ventasJP": "1870"
+        },
+        {
+            "id": "30",
+            "videoJuegoId": "30",
+            "ventasJP": "130"
+        },
+        {
+            "id": "31",
+            "videoJuegoId": "31",
+            "ventasJP": "3120"
+        },
+        {
+            "id": "32",
+            "videoJuegoId": "32",
+            "ventasJP": "110"
+        },
+        {
+            "id": "33",
+            "videoJuegoId": "33",
+            "ventasJP": "4340"
+        },
+        {
+            "id": "34",
+            "videoJuegoId": "34",
+            "ventasJP": "350"
+        },
+        {
+            "id": "35",
+            "videoJuegoId": "35",
+            "ventasJP": "650"
+        },
+        {
+            "id": "36",
+            "videoJuegoId": "36",
+            "ventasJP": "70"
+        },
+        {
+            "id": "37",
+            "videoJuegoId": "37",
+            "ventasJP": "80"
+        },
+        {
+            "id": "38",
+            "videoJuegoId": "38",
+            "ventasJP": "490"
+        },
+        {
+            "id": "39",
+            "videoJuegoId": "39",
+            "ventasJP": "300"
+        },
+        {
+            "id": "40",
+            "videoJuegoId": "40",
+            "ventasJP": "2660"
+        },
+        {
+            "id": "41",
+            "videoJuegoId": "41",
+            "ventasJP": "480"
+        },
+        {
+            "id": "42",
+            "videoJuegoId": "42",
+            "ventasJP": "5330"
+        },
+        {
+            "id": "43",
+            "videoJuegoId": "43",
+            "ventasJP": "2670"
+        },
+        {
+            "id": "44",
+            "videoJuegoId": "44",
+            "ventasJP": "130"
+        },
+        {
+            "id": "45",
+            "videoJuegoId": "45",
+            "ventasJP": "360"
+        },
+        {
+            "id": "46",
+            "videoJuegoId": "46",
+            "ventasJP": "3960"
+        },
+        {
+            "id": "47",
+            "videoJuegoId": "47",
+            "ventasJP": "1910"
+        },
+        {
+            "id": "48",
+            "videoJuegoId": "48",
+            "ventasJP": "1100"
+        },
+        {
+            "id": "49",
+            "videoJuegoId": "49",
+            "ventasJP": "1200"
+        },
+        {
+            "id": "50",
+            "videoJuegoId": "50",
+            "ventasJP": "3080"
+        },
+        {
+            "id": "51",
+            "videoJuegoId": "51",
+            "ventasJP": "2690"
+        },
+        {
+            "id": "52",
+            "videoJuegoId": "52",
+            "ventasJP": "140"
+        },
+        {
+            "id": "53",
+            "videoJuegoId": "53",
+            "ventasJP": "2540"
+        },
+        {
+            "id": "54",
+            "videoJuegoId": "54",
+            "ventasJP": "2130"
+        },
+        {
+            "id": "55",
+            "videoJuegoId": "55",
+            "ventasJP": "810"
+        },
+        {
+            "id": "56",
+            "videoJuegoId": "56",
+            "ventasJP": "380"
+        },
+        {
+            "id": "57",
+            "videoJuegoId": "57",
+            "ventasJP": "440"
+        },
+        {
+            "id": "58",
+            "videoJuegoId": "58",
+            "ventasJP": "2120"
+        },
+        {
+            "id": "59",
+            "videoJuegoId": "59",
+            "ventasJP": "3150"
+        },
+        {
+            "id": "60",
+            "videoJuegoId": "60",
+            "ventasJP": "1250"
+        },
+        {
+            "id": "61",
+            "videoJuegoId": "61",
+            "ventasJP": "0"
+        },
+        {
+            "id": "62",
+            "videoJuegoId": "62",
+            "ventasJP": "40"
+        },
+        {
+            "id": "63",
+            "videoJuegoId": "63",
+            "ventasJP": "80"
+        },
+        {
+            "id": "64",
+            "videoJuegoId": "64",
+            "ventasJP": "2230"
+        },
+        {
+            "id": "65",
+            "videoJuegoId": "65",
+            "ventasJP": "2470"
+        },
+        {
+            "id": "66",
+            "videoJuegoId": "66",
+            "ventasJP": "40"
+        },
+        {
+            "id": "67",
+            "videoJuegoId": "67",
+            "ventasJP": "3280"
+        },
+        {
+            "id": "68",
+            "videoJuegoId": "68",
+            "ventasJP": "380"
+        },
+        {
+            "id": "69",
+            "videoJuegoId": "69",
+            "ventasJP": "10"
+        },
+        {
+            "id": "70",
+            "videoJuegoId": "70",
+            "ventasJP": "1690"
+        },
+        {
+            "id": "71",
+            "videoJuegoId": "71",
+            "ventasJP": "130"
+        },
+        {
+            "id": "72",
+            "videoJuegoId": "72",
+            "ventasJP": "3000"
+        },
+        {
+            "id": "73",
+            "videoJuegoId": "73",
+            "ventasJP": "20"
+        },
+        {
+            "id": "74",
+            "videoJuegoId": "74",
+            "ventasJP": "4360"
+        },
+        {
+            "id": "75",
+            "videoJuegoId": "75",
+            "ventasJP": "1980"
+        },
+        {
+            "id": "76",
+            "videoJuegoId": "76",
+            "ventasJP": "100"
+        },
+        {
+            "id": "77",
+            "videoJuegoId": "77",
+            "ventasJP": "3810"
+        },
+        {
+            "id": "78",
+            "videoJuegoId": "78",
+            "ventasJP": "50"
+        },
+        {
+            "id": "79",
+            "videoJuegoId": "79",
+            "ventasJP": "2490"
+        },
+        {
+            "id": "80",
+            "videoJuegoId": "80",
+            "ventasJP": "60"
+        },
+        {
+            "id": "81",
+            "videoJuegoId": "81",
+            "ventasJP": "1580"
+        },
+        {
+            "id": "82",
+            "videoJuegoId": "82",
+            "ventasJP": "3140"
+        },
+        {
+            "id": "83",
+            "videoJuegoId": "83",
+            "ventasJP": "130"
+        },
+        {
+            "id": "84",
+            "videoJuegoId": "84",
+            "ventasJP": "0"
+        },
+        {
+            "id": "85",
+            "videoJuegoId": "85",
+            "ventasJP": "130"
+        },
+        {
+            "id": "86",
+            "videoJuegoId": "86",
+            "ventasJP": "660"
+        },
+        {
+            "id": "87",
+            "videoJuegoId": "87",
+            "ventasJP": "2730"
+        },
+        {
+            "id": "88",
+            "videoJuegoId": "88",
+            "ventasJP": "3630"
+        },
+        {
+            "id": "89",
+            "videoJuegoId": "89",
+            "ventasJP": "2690"
+        },
+        {
+            "id": "90",
+            "videoJuegoId": "90",
+            "ventasJP": "0"
+        },
+        {
+            "id": "91",
+            "videoJuegoId": "91",
+            "ventasJP": "240"
+        },
+        {
+            "id": "92",
+            "videoJuegoId": "92",
+            "ventasJP": "980"
+        },
+        {
+            "id": "93",
+            "videoJuegoId": "93",
+            "ventasJP": "220"
+        },
+        {
+            "id": "94",
+            "videoJuegoId": "94",
+            "ventasJP": "1450"
+        },
+        {
+            "id": "95",
+            "videoJuegoId": "95",
+            "ventasJP": "140"
+        },
+        {
+            "id": "96",
+            "videoJuegoId": "96",
+            "ventasJP": "1310"
+        },
+        {
+            "id": "97",
+            "videoJuegoId": "97",
+            "ventasJP": "700"
+        },
+        {
+            "id": "98",
+            "videoJuegoId": "98",
+            "ventasJP": "2420"
+        },
+        {
+            "id": "99",
+            "videoJuegoId": "99",
+            "ventasJP": "0"
+        },
+        {
+            "id": "100",
+            "videoJuegoId": "100",
+            "ventasJP": "60"
+        },
+        {
+            "id": "101",
+            "videoJuegoId": "101",
+            "ventasJP": "600"
+        },
+        {
+            "id": "102",
+            "videoJuegoId": "102",
+            "ventasJP": "10"
+        },
+        {
+            "id": "103",
+            "videoJuegoId": "103",
+            "ventasJP": "0"
+        },
+        {
+            "id": "104",
+            "videoJuegoId": "104",
+            "ventasJP": "350"
+        },
+        {
+            "id": "105",
+            "videoJuegoId": "105",
+            "ventasJP": "80"
+        },
+        {
+            "id": "106",
+            "videoJuegoId": "106",
+            "ventasJP": "1400"
+        },
+        {
+            "id": "107",
+            "videoJuegoId": "107",
+            "ventasJP": "1420"
+        },
+        {
+            "id": "108",
+            "videoJuegoId": "108",
+            "ventasJP": "1390"
+        },
+        {
+            "id": "109",
+            "videoJuegoId": "109",
+            "ventasJP": "1270"
+        },
+        {
+            "id": "110",
+            "videoJuegoId": "110",
+            "ventasJP": "240"
+        },
+        {
+            "id": "111",
+            "videoJuegoId": "111",
+            "ventasJP": "870"
+        },
+        {
+            "id": "112",
+            "videoJuegoId": "112",
+            "ventasJP": "0"
+        },
+        {
+            "id": "113",
+            "videoJuegoId": "113",
+            "ventasJP": "80"
+        },
+        {
+            "id": "114",
+            "videoJuegoId": "114",
+            "ventasJP": "70"
+        },
+        {
+            "id": "115",
+            "videoJuegoId": "115",
+            "ventasJP": "170"
+        },
+        {
+            "id": "116",
+            "videoJuegoId": "116",
+            "ventasJP": "190"
+        },
+        {
+            "id": "117",
+            "videoJuegoId": "117",
+            "ventasJP": "940"
+        },
+        {
+            "id": "118",
+            "videoJuegoId": "118",
+            "ventasJP": "0"
+        },
+        {
+            "id": "119",
+            "videoJuegoId": "119",
+            "ventasJP": "60"
+        },
+        {
+            "id": "120",
+            "videoJuegoId": "120",
+            "ventasJP": "210"
+        },
+        {
+            "id": "121",
+            "videoJuegoId": "121",
+            "ventasJP": "280"
+        },
+        {
+            "id": "122",
+            "videoJuegoId": "122",
+            "ventasJP": "110"
+        },
+        {
+            "id": "123",
+            "videoJuegoId": "123",
+            "ventasJP": "1600"
+        },
+        {
+            "id": "124",
+            "videoJuegoId": "124",
+            "ventasJP": "170"
+        },
+        {
+            "id": "125",
+            "videoJuegoId": "125",
+            "ventasJP": "1030"
+        },
+        {
+            "id": "126",
+            "videoJuegoId": "126",
+            "ventasJP": "50"
+        },
+        {
+            "id": "127",
+            "videoJuegoId": "127",
+            "ventasJP": "250"
+        },
+        {
+            "id": "128",
+            "videoJuegoId": "128",
+            "ventasJP": "1690"
+        },
+        {
+            "id": "129",
+            "videoJuegoId": "129",
+            "ventasJP": "160"
+        },
+        {
+            "id": "130",
+            "videoJuegoId": "130",
+            "ventasJP": "80"
+        },
+        {
+            "id": "131",
+            "videoJuegoId": "131",
+            "ventasJP": "2060"
+        },
+        {
+            "id": "132",
+            "videoJuegoId": "132",
+            "ventasJP": "1490"
+        },
+        {
+            "id": "133",
+            "videoJuegoId": "133",
+            "ventasJP": "1290"
+        },
+        {
+            "id": "134",
+            "videoJuegoId": "134",
+            "ventasJP": "60"
+        },
+        {
+            "id": "135",
+            "videoJuegoId": "135",
+            "ventasJP": "90"
+        },
+        {
+            "id": "136",
+            "videoJuegoId": "136",
+            "ventasJP": "870"
+        },
+        {
+            "id": "137",
+            "videoJuegoId": "137",
+            "ventasJP": "2870"
+        },
+        {
+            "id": "138",
+            "videoJuegoId": "138",
+            "ventasJP": "0"
+        },
+        {
+            "id": "139",
+            "videoJuegoId": "139",
+            "ventasJP": "20"
+        },
+        {
+            "id": "140",
+            "videoJuegoId": "140",
+            "ventasJP": "30"
+        },
+        {
+            "id": "141",
+            "videoJuegoId": "141",
+            "ventasJP": "70"
+        },
+        {
+            "id": "142",
+            "videoJuegoId": "142",
+            "ventasJP": "70"
+        },
+        {
+            "id": "143",
+            "videoJuegoId": "143",
+            "ventasJP": "870"
+        },
+        {
+            "id": "144",
+            "videoJuegoId": "144",
+            "ventasJP": "160"
+        },
+        {
+            "id": "145",
+            "videoJuegoId": "145",
+            "ventasJP": "780"
+        },
+        {
+            "id": "146",
+            "videoJuegoId": "146",
+            "ventasJP": "830"
+        },
+        {
+            "id": "147",
+            "videoJuegoId": "147",
+            "ventasJP": "280"
+        },
+        {
+            "id": "148",
+            "videoJuegoId": "148",
+            "ventasJP": "2330"
+        },
+        {
+            "id": "149",
+            "videoJuegoId": "149",
+            "ventasJP": "170"
+        },
+        {
+            "id": "150",
+            "videoJuegoId": "150",
+            "ventasJP": "4350"
+        },
+        {
+            "id": "151",
+            "videoJuegoId": "151",
+            "ventasJP": "0"
+        },
+        {
+            "id": "152",
+            "videoJuegoId": "152",
+            "ventasJP": "2020"
+        },
+        {
+            "id": "153",
+            "videoJuegoId": "153",
+            "ventasJP": "1360"
+        },
+        {
+            "id": "154",
+            "videoJuegoId": "154",
+            "ventasJP": "70"
+        },
+        {
+            "id": "155",
+            "videoJuegoId": "155",
+            "ventasJP": "160"
+        },
+        {
+            "id": "156",
+            "videoJuegoId": "156",
+            "ventasJP": "1810"
+        },
+        {
+            "id": "157",
+            "videoJuegoId": "157",
+            "ventasJP": "210"
+        },
+        {
+            "id": "158",
+            "videoJuegoId": "158",
+            "ventasJP": "1970"
+        },
+        {
+            "id": "159",
+            "videoJuegoId": "159",
+            "ventasJP": "70"
+        },
+        {
+            "id": "160",
+            "videoJuegoId": "160",
+            "ventasJP": "110"
+        },
+        {
+            "id": "161",
+            "videoJuegoId": "161",
+            "ventasJP": "100"
+        },
+        {
+            "id": "162",
+            "videoJuegoId": "162",
+            "ventasJP": "4130"
+        },
+        {
+            "id": "163",
+            "videoJuegoId": "163",
+            "ventasJP": "910"
+        },
+        {
+            "id": "164",
+            "videoJuegoId": "164",
+            "ventasJP": "990"
+        },
+        {
+            "id": "165",
+            "videoJuegoId": "165",
+            "ventasJP": "950"
+        },
+        {
+            "id": "166",
+            "videoJuegoId": "166",
+            "ventasJP": "940"
+        },
+        {
+            "id": "167",
+            "videoJuegoId": "167",
+            "ventasJP": "0"
+        },
+        {
+            "id": "168",
+            "videoJuegoId": "168",
+            "ventasJP": "240"
+        },
+        {
+            "id": "169",
+            "videoJuegoId": "169",
+            "ventasJP": "0"
+        },
+        {
+            "id": "170",
+            "videoJuegoId": "170",
+            "ventasJP": "1870"
+        },
+        {
+            "id": "171",
+            "videoJuegoId": "171",
+            "ventasJP": "2000"
+        },
+        {
+            "id": "172",
+            "videoJuegoId": "172",
+            "ventasJP": "1010"
+        },
+        {
+            "id": "173",
+            "videoJuegoId": "173",
+            "ventasJP": "2780"
+        },
+        {
+            "id": "174",
+            "videoJuegoId": "174",
+            "ventasJP": "30"
+        },
+        {
+            "id": "175",
+            "videoJuegoId": "175",
+            "ventasJP": "2110"
+        },
+        {
+            "id": "176",
+            "videoJuegoId": "176",
+            "ventasJP": "1090"
+        },
+        {
+            "id": "177",
+            "videoJuegoId": "177",
+            "ventasJP": "80"
+        },
+        {
+            "id": "178",
+            "videoJuegoId": "178",
+            "ventasJP": "1030"
+        },
+        {
+            "id": "179",
+            "videoJuegoId": "179",
+            "ventasJP": "200"
+        },
+        {
+            "id": "180",
+            "videoJuegoId": "180",
+            "ventasJP": "3610"
+        },
+        {
+            "id": "181",
+            "videoJuegoId": "181",
+            "ventasJP": "830"
+        },
+        {
+            "id": "182",
+            "videoJuegoId": "182",
+            "ventasJP": "0"
+        },
+        {
+            "id": "183",
+            "videoJuegoId": "183",
+            "ventasJP": "1570"
+        },
+        {
+            "id": "184",
+            "videoJuegoId": "184",
+            "ventasJP": "1270"
+        },
+        {
+            "id": "185",
+            "videoJuegoId": "185",
+            "ventasJP": "30"
+        },
+        {
+            "id": "186",
+            "videoJuegoId": "186",
+            "ventasJP": "950"
+        },
+        {
+            "id": "187",
+            "videoJuegoId": "187",
+            "ventasJP": "2200"
+        },
+        {
+            "id": "188",
+            "videoJuegoId": "188",
+            "ventasJP": "1890"
+        },
+        {
+            "id": "189",
+            "videoJuegoId": "189",
+            "ventasJP": "440"
+        },
+        {
+            "id": "190",
+            "videoJuegoId": "190",
+            "ventasJP": "1700"
+        },
+        {
+            "id": "191",
+            "videoJuegoId": "191",
+            "ventasJP": "130"
+        },
+        {
+            "id": "192",
+            "videoJuegoId": "192",
+            "ventasJP": "50"
+        },
+        {
+            "id": "193",
+            "videoJuegoId": "193",
+            "ventasJP": "10"
+        },
+        {
+            "id": "194",
+            "videoJuegoId": "194",
+            "ventasJP": "0"
+        },
+        {
+            "id": "195",
+            "videoJuegoId": "195",
+            "ventasJP": "0"
+        },
+        {
+            "id": "196",
+            "videoJuegoId": "196",
+            "ventasJP": "1080"
+        },
+        {
+            "id": "197",
+            "videoJuegoId": "197",
+            "ventasJP": "160"
+        },
+        {
+            "id": "198",
+            "videoJuegoId": "198",
+            "ventasJP": "60"
+        },
+        {
+            "id": "199",
+            "videoJuegoId": "199",
+            "ventasJP": "0"
+        },
+        {
+            "id": "200",
+            "videoJuegoId": "200",
+            "ventasJP": "150"
+        },
+        {
+            "id": "201",
+            "videoJuegoId": "201",
+            "ventasJP": "1110"
+        },
+        {
+            "id": "202",
+            "videoJuegoId": "202",
+            "ventasJP": "20"
+        },
+        {
+            "id": "203",
+            "videoJuegoId": "203",
+            "ventasJP": "800"
+        },
+        {
+            "id": "204",
+            "videoJuegoId": "204",
+            "ventasJP": "0"
+        },
+        {
+            "id": "205",
+            "videoJuegoId": "205",
+            "ventasJP": "70"
+        },
+        {
+            "id": "206",
+            "videoJuegoId": "206",
+            "ventasJP": "290"
+        },
+        {
+            "id": "207",
+            "videoJuegoId": "207",
+            "ventasJP": "10"
+        },
+        {
+            "id": "208",
+            "videoJuegoId": "208",
+            "ventasJP": "1540"
+        },
+        {
+            "id": "209",
+            "videoJuegoId": "209",
+            "ventasJP": "90"
+        },
+        {
+            "id": "210",
+            "videoJuegoId": "210",
+            "ventasJP": "120"
+        },
+        {
+            "id": "211",
+            "videoJuegoId": "211",
+            "ventasJP": "10"
+        },
+        {
+            "id": "212",
+            "videoJuegoId": "212",
+            "ventasJP": "0"
+        },
+        {
+            "id": "213",
+            "videoJuegoId": "213",
+            "ventasJP": "890"
+        },
+        {
+            "id": "214",
+            "videoJuegoId": "214",
+            "ventasJP": "4870"
+        },
+        {
+            "id": "215",
+            "videoJuegoId": "215",
+            "ventasJP": "1520"
+        },
+        {
+            "id": "216",
+            "videoJuegoId": "216",
+            "ventasJP": "120"
+        },
+        {
+            "id": "217",
+            "videoJuegoId": "217",
+            "ventasJP": "90"
+        },
+        {
+            "id": "218",
+            "videoJuegoId": "218",
+            "ventasJP": "0"
+        },
+        {
+            "id": "219",
+            "videoJuegoId": "219",
+            "ventasJP": "40"
+        },
+        {
+            "id": "220",
+            "videoJuegoId": "220",
+            "ventasJP": "440"
+        },
+        {
+            "id": "221",
+            "videoJuegoId": "221",
+            "ventasJP": "60"
+        },
+        {
+            "id": "222",
+            "videoJuegoId": "222",
+            "ventasJP": "40"
+        },
+        {
+            "id": "223",
+            "videoJuegoId": "223",
+            "ventasJP": "20"
+        },
+        {
+            "id": "224",
+            "videoJuegoId": "224",
+            "ventasJP": "0"
+        },
+        {
+            "id": "225",
+            "videoJuegoId": "225",
+            "ventasJP": "20"
+        },
+        {
+            "id": "226",
+            "videoJuegoId": "226",
+            "ventasJP": "1320"
+        },
+        {
+            "id": "227",
+            "videoJuegoId": "227",
+            "ventasJP": "80"
+        },
+        {
+            "id": "228",
+            "videoJuegoId": "228",
+            "ventasJP": "60"
+        },
+        {
+            "id": "229",
+            "videoJuegoId": "229",
+            "ventasJP": "130"
+        },
+        {
+            "id": "230",
+            "videoJuegoId": "230",
+            "ventasJP": "0"
+        },
+        {
+            "id": "231",
+            "videoJuegoId": "231",
+            "ventasJP": "1150"
+        },
+        {
+            "id": "232",
+            "videoJuegoId": "232",
+            "ventasJP": "890"
+        },
+        {
+            "id": "233",
+            "videoJuegoId": "233",
+            "ventasJP": "220"
+        },
+        {
+            "id": "234",
+            "videoJuegoId": "234",
+            "ventasJP": "1100"
+        },
+        {
+            "id": "235",
+            "videoJuegoId": "235",
+            "ventasJP": "1440"
+        },
+        {
+            "id": "236",
+            "videoJuegoId": "236",
+            "ventasJP": "70"
+        },
+        {
+            "id": "237",
+            "videoJuegoId": "237",
+            "ventasJP": "10"
+        },
+        {
+            "id": "238",
+            "videoJuegoId": "238",
+            "ventasJP": "10"
+        },
+        {
+            "id": "239",
+            "videoJuegoId": "239",
+            "ventasJP": "0"
+        },
+        {
+            "id": "240",
+            "videoJuegoId": "240",
+            "ventasJP": "10"
+        },
+        {
+            "id": "241",
+            "videoJuegoId": "241",
+            "ventasJP": "30"
+        },
+        {
+            "id": "242",
+            "videoJuegoId": "242",
+            "ventasJP": "4100"
+        },
+        {
+            "id": "243",
+            "videoJuegoId": "243",
+            "ventasJP": "80"
+        },
+        {
+            "id": "244",
+            "videoJuegoId": "244",
+            "ventasJP": "20"
+        },
+        {
+            "id": "245",
+            "videoJuegoId": "245",
+            "ventasJP": "190"
+        },
+        {
+            "id": "246",
+            "videoJuegoId": "246",
+            "ventasJP": "460"
+        },
+        {
+            "id": "247",
+            "videoJuegoId": "247",
+            "ventasJP": "10"
+        },
+        {
+            "id": "248",
+            "videoJuegoId": "248",
+            "ventasJP": "10"
+        },
+        {
+            "id": "249",
+            "videoJuegoId": "249",
+            "ventasJP": "1050"
+        },
+        {
+            "id": "250",
+            "videoJuegoId": "250",
+            "ventasJP": "130"
+        },
+        {
+            "id": "251",
+            "videoJuegoId": "251",
+            "ventasJP": "1610"
+        },
+        {
+            "id": "252",
+            "videoJuegoId": "252",
+            "ventasJP": "80"
+        },
+        {
+            "id": "253",
+            "videoJuegoId": "253",
+            "ventasJP": "140"
+        },
+        {
+            "id": "254",
+            "videoJuegoId": "254",
+            "ventasJP": "260"
+        },
+        {
+            "id": "255",
+            "videoJuegoId": "255",
+            "ventasJP": "1380"
+        },
+        {
+            "id": "256",
+            "videoJuegoId": "256",
+            "ventasJP": "0"
+        },
+        {
+            "id": "257",
+            "videoJuegoId": "257",
+            "ventasJP": "110"
+        },
+        {
+            "id": "258",
+            "videoJuegoId": "258",
+            "ventasJP": "10"
+        },
+        {
+            "id": "259",
+            "videoJuegoId": "259",
+            "ventasJP": "0"
+        },
+        {
+            "id": "260",
+            "videoJuegoId": "260",
+            "ventasJP": "30"
+        },
+        {
+            "id": "261",
+            "videoJuegoId": "261",
+            "ventasJP": "70"
+        },
+        {
+            "id": "262",
+            "videoJuegoId": "262",
+            "ventasJP": "720"
+        },
+        {
+            "id": "263",
+            "videoJuegoId": "263",
+            "ventasJP": "50"
+        },
+        {
+            "id": "264",
+            "videoJuegoId": "264",
+            "ventasJP": "100"
+        },
+        {
+            "id": "265",
+            "videoJuegoId": "265",
+            "ventasJP": "830"
+        },
+        {
+            "id": "266",
+            "videoJuegoId": "266",
+            "ventasJP": "0"
+        },
+        {
+            "id": "267",
+            "videoJuegoId": "267",
+            "ventasJP": "0"
+        },
+        {
+            "id": "268",
+            "videoJuegoId": "268",
+            "ventasJP": "40"
+        },
+        {
+            "id": "269",
+            "videoJuegoId": "269",
+            "ventasJP": "620"
+        },
+        {
+            "id": "270",
+            "videoJuegoId": "270",
+            "ventasJP": "200"
+        },
+        {
+            "id": "271",
+            "videoJuegoId": "271",
+            "ventasJP": "570"
+        },
+        {
+            "id": "272",
+            "videoJuegoId": "272",
+            "ventasJP": "180"
+        },
+        {
+            "id": "273",
+            "videoJuegoId": "273",
+            "ventasJP": "580"
+        },
+        {
+            "id": "274",
+            "videoJuegoId": "274",
+            "ventasJP": "40"
+        },
+        {
+            "id": "275",
+            "videoJuegoId": "275",
+            "ventasJP": "20"
+        },
+        {
+            "id": "276",
+            "videoJuegoId": "276",
+            "ventasJP": "310"
+        },
+        {
+            "id": "277",
+            "videoJuegoId": "277",
+            "ventasJP": "1570"
+        },
+        {
+            "id": "278",
+            "videoJuegoId": "278",
+            "ventasJP": "0"
+        },
+        {
+            "id": "279",
+            "videoJuegoId": "279",
+            "ventasJP": "10"
+        },
+        {
+            "id": "280",
+            "videoJuegoId": "280",
+            "ventasJP": "110"
+        },
+        {
+            "id": "281",
+            "videoJuegoId": "281",
+            "ventasJP": "1760"
+        },
+        {
+            "id": "282",
+            "videoJuegoId": "282",
+            "ventasJP": "90"
+        },
+        {
+            "id": "283",
+            "videoJuegoId": "283",
+            "ventasJP": "30"
+        },
+        {
+            "id": "284",
+            "videoJuegoId": "284",
+            "ventasJP": "2100"
+        },
+        {
+            "id": "285",
+            "videoJuegoId": "285",
+            "ventasJP": "50"
+        },
+        {
+            "id": "286",
+            "videoJuegoId": "286",
+            "ventasJP": "370"
+        },
+        {
+            "id": "287",
+            "videoJuegoId": "287",
+            "ventasJP": "0"
+        },
+        {
+            "id": "288",
+            "videoJuegoId": "288",
+            "ventasJP": "10"
+        },
+        {
+            "id": "289",
+            "videoJuegoId": "289",
+            "ventasJP": "40"
+        },
+        {
+            "id": "290",
+            "videoJuegoId": "290",
+            "ventasJP": "40"
+        },
+        {
+            "id": "291",
+            "videoJuegoId": "291",
+            "ventasJP": "900"
+        },
+        {
+            "id": "292",
+            "videoJuegoId": "292",
+            "ventasJP": "30"
+        },
+        {
+            "id": "293",
+            "videoJuegoId": "293",
+            "ventasJP": "160"
+        },
+        {
+            "id": "294",
+            "videoJuegoId": "294",
+            "ventasJP": "510"
+        },
+        {
+            "id": "295",
+            "videoJuegoId": "295",
+            "ventasJP": "640"
+        },
+        {
+            "id": "296",
+            "videoJuegoId": "296",
+            "ventasJP": "100"
+        },
+        {
+            "id": "297",
+            "videoJuegoId": "297",
+            "ventasJP": "120"
+        },
+        {
+            "id": "298",
+            "videoJuegoId": "298",
+            "ventasJP": "2460"
+        },
+        {
+            "id": "299",
+            "videoJuegoId": "299",
+            "ventasJP": "70"
+        },
+        {
+            "id": "300",
+            "videoJuegoId": "300",
+            "ventasJP": "920"
+        },
+        {
+            "id": "301",
+            "videoJuegoId": "301",
+            "ventasJP": "50"
+        },
+        {
+            "id": "302",
+            "videoJuegoId": "302",
+            "ventasJP": "0"
+        },
+        {
+            "id": "303",
+            "videoJuegoId": "303",
+            "ventasJP": "60"
+        },
+        {
+            "id": "304",
+            "videoJuegoId": "304",
+            "ventasJP": "80"
+        },
+        {
+            "id": "305",
+            "videoJuegoId": "305",
+            "ventasJP": "1070"
+        },
+        {
+            "id": "306",
+            "videoJuegoId": "306",
+            "ventasJP": "10"
+        },
+        {
+            "id": "307",
+            "videoJuegoId": "307",
+            "ventasJP": "130"
+        },
+        {
+            "id": "308",
+            "videoJuegoId": "308",
+            "ventasJP": "2620"
+        },
+        {
+            "id": "309",
+            "videoJuegoId": "309",
+            "ventasJP": "60"
+        },
+        {
+            "id": "310",
+            "videoJuegoId": "310",
+            "ventasJP": "0"
+        },
+        {
+            "id": "311",
+            "videoJuegoId": "311",
+            "ventasJP": "3770"
+        },
+        {
+            "id": "312",
+            "videoJuegoId": "312",
+            "ventasJP": "310"
+        },
+        {
+            "id": "313",
+            "videoJuegoId": "313",
+            "ventasJP": "100"
+        },
+        {
+            "id": "314",
+            "videoJuegoId": "314",
+            "ventasJP": "1120"
+        },
+        {
+            "id": "315",
+            "videoJuegoId": "315",
+            "ventasJP": "30"
+        },
+        {
+            "id": "316",
+            "videoJuegoId": "316",
+            "ventasJP": "220"
+        },
+        {
+            "id": "317",
+            "videoJuegoId": "317",
+            "ventasJP": "1050"
+        },
+        {
+            "id": "318",
+            "videoJuegoId": "318",
+            "ventasJP": "540"
+        },
+        {
+            "id": "319",
+            "videoJuegoId": "319",
+            "ventasJP": "810"
+        },
+        {
+            "id": "320",
+            "videoJuegoId": "320",
+            "ventasJP": "410"
+        },
+        {
+            "id": "321",
+            "videoJuegoId": "321",
+            "ventasJP": "730"
+        },
+        {
+            "id": "322",
+            "videoJuegoId": "322",
+            "ventasJP": "100"
+        },
+        {
+            "id": "323",
+            "videoJuegoId": "323",
+            "ventasJP": "0"
+        },
+        {
+            "id": "324",
+            "videoJuegoId": "324",
+            "ventasJP": "270"
+        },
+        {
+            "id": "325",
+            "videoJuegoId": "325",
+            "ventasJP": "470"
+        },
+        {
+            "id": "326",
+            "videoJuegoId": "326",
+            "ventasJP": "100"
+        },
+        {
+            "id": "327",
+            "videoJuegoId": "327",
+            "ventasJP": "0"
+        },
+        {
+            "id": "328",
+            "videoJuegoId": "328",
+            "ventasJP": "590"
+        },
+        {
+            "id": "329",
+            "videoJuegoId": "329",
+            "ventasJP": "0"
+        },
+        {
+            "id": "330",
+            "videoJuegoId": "330",
+            "ventasJP": "140"
+        },
+        {
+            "id": "331",
+            "videoJuegoId": "331",
+            "ventasJP": "210"
+        },
+        {
+            "id": "332",
+            "videoJuegoId": "332",
+            "ventasJP": "1540"
+        },
+        {
+            "id": "333",
+            "videoJuegoId": "333",
+            "ventasJP": "0"
+        },
+        {
+            "id": "334",
+            "videoJuegoId": "334",
+            "ventasJP": "1380"
+        },
+        {
+            "id": "335",
+            "videoJuegoId": "335",
+            "ventasJP": "40"
+        },
+        {
+            "id": "336",
+            "videoJuegoId": "336",
+            "ventasJP": "80"
+        },
+        {
+            "id": "337",
+            "videoJuegoId": "337",
+            "ventasJP": "270"
+        },
+        {
+            "id": "338",
+            "videoJuegoId": "338",
+            "ventasJP": "10"
+        },
+        {
+            "id": "339",
+            "videoJuegoId": "339",
+            "ventasJP": "3670"
+        },
+        {
+            "id": "340",
+            "videoJuegoId": "340",
+            "ventasJP": "0"
+        },
+        {
+            "id": "341",
+            "videoJuegoId": "341",
+            "ventasJP": "550"
+        },
+        {
+            "id": "342",
+            "videoJuegoId": "342",
+            "ventasJP": "60"
+        },
+        {
+            "id": "343",
+            "videoJuegoId": "343",
+            "ventasJP": "0"
+        },
+        {
+            "id": "344",
+            "videoJuegoId": "344",
+            "ventasJP": "150"
+        },
+        {
+            "id": "345",
+            "videoJuegoId": "345",
+            "ventasJP": "400"
+        },
+        {
+            "id": "346",
+            "videoJuegoId": "346",
+            "ventasJP": "660"
+        },
+        {
+            "id": "347",
+            "videoJuegoId": "347",
+            "ventasJP": "640"
+        },
+        {
+            "id": "348",
+            "videoJuegoId": "348",
+            "ventasJP": "50"
+        },
+        {
+            "id": "349",
+            "videoJuegoId": "349",
+            "ventasJP": "50"
+        },
+        {
+            "id": "350",
+            "videoJuegoId": "350",
+            "ventasJP": "460"
+        },
+        {
+            "id": "351",
+            "videoJuegoId": "351",
+            "ventasJP": "0"
+        },
+        {
+            "id": "352",
+            "videoJuegoId": "352",
+            "ventasJP": "0"
+        },
+        {
+            "id": "353",
+            "videoJuegoId": "353",
+            "ventasJP": "30"
+        },
+        {
+            "id": "354",
+            "videoJuegoId": "354",
+            "ventasJP": "100"
+        },
+        {
+            "id": "355",
+            "videoJuegoId": "355",
+            "ventasJP": "150"
+        },
+        {
+            "id": "356",
+            "videoJuegoId": "356",
+            "ventasJP": "460"
+        },
+        {
+            "id": "357",
+            "videoJuegoId": "357",
+            "ventasJP": "30"
+        },
+        {
+            "id": "358",
+            "videoJuegoId": "358",
+            "ventasJP": "60"
+        },
+        {
+            "id": "359",
+            "videoJuegoId": "359",
+            "ventasJP": "0"
+        },
+        {
+            "id": "360",
+            "videoJuegoId": "360",
+            "ventasJP": "120"
+        },
+        {
+            "id": "361",
+            "videoJuegoId": "361",
+            "ventasJP": "50"
+        },
+        {
+            "id": "362",
+            "videoJuegoId": "362",
+            "ventasJP": "70"
+        },
+        {
+            "id": "363",
+            "videoJuegoId": "363",
+            "ventasJP": "100"
+        },
+        {
+            "id": "364",
+            "videoJuegoId": "364",
+            "ventasJP": "10"
+        },
+        {
+            "id": "365",
+            "videoJuegoId": "365",
+            "ventasJP": "20"
+        },
+        {
+            "id": "366",
+            "videoJuegoId": "366",
+            "ventasJP": "20"
+        },
+        {
+            "id": "367",
+            "videoJuegoId": "367",
+            "ventasJP": "10"
+        },
+        {
+            "id": "368",
+            "videoJuegoId": "368",
+            "ventasJP": "0"
+        },
+        {
+            "id": "369",
+            "videoJuegoId": "369",
+            "ventasJP": "50"
+        },
+        {
+            "id": "370",
+            "videoJuegoId": "370",
+            "ventasJP": "270"
+        },
+        {
+            "id": "371",
+            "videoJuegoId": "371",
+            "ventasJP": "1750"
+        },
+        {
+            "id": "372",
+            "videoJuegoId": "372",
+            "ventasJP": "120"
+        },
+        {
+            "id": "373",
+            "videoJuegoId": "373",
+            "ventasJP": "1420"
+        },
+        {
+            "id": "374",
+            "videoJuegoId": "374",
+            "ventasJP": "730"
+        },
+        {
+            "id": "375",
+            "videoJuegoId": "375",
+            "ventasJP": "20"
+        },
+        {
+            "id": "376",
+            "videoJuegoId": "376",
+            "ventasJP": "30"
+        },
+        {
+            "id": "377",
+            "videoJuegoId": "377",
+            "ventasJP": "20"
+        },
+        {
+            "id": "378",
+            "videoJuegoId": "378",
+            "ventasJP": "10"
+        },
+        {
+            "id": "379",
+            "videoJuegoId": "379",
+            "ventasJP": "40"
+        },
+        {
+            "id": "380",
+            "videoJuegoId": "380",
+            "ventasJP": "0"
+        },
+        {
+            "id": "381",
+            "videoJuegoId": "381",
+            "ventasJP": "100"
+        },
+        {
+            "id": "382",
+            "videoJuegoId": "382",
+            "ventasJP": "330"
+        },
+        {
+            "id": "383",
+            "videoJuegoId": "383",
+            "ventasJP": "30"
+        },
+        {
+            "id": "384",
+            "videoJuegoId": "384",
+            "ventasJP": "3440"
+        },
+        {
+            "id": "385",
+            "videoJuegoId": "385",
+            "ventasJP": "170"
+        },
+        {
+            "id": "386",
+            "videoJuegoId": "386",
+            "ventasJP": "2550"
+        },
+        {
+            "id": "387",
+            "videoJuegoId": "387",
+            "ventasJP": "0"
+        },
+        {
+            "id": "388",
+            "videoJuegoId": "388",
+            "ventasJP": "60"
+        },
+        {
+            "id": "389",
+            "videoJuegoId": "389",
+            "ventasJP": "590"
+        },
+        {
+            "id": "390",
+            "videoJuegoId": "390",
+            "ventasJP": "20"
+        },
+        {
+            "id": "391",
+            "videoJuegoId": "391",
+            "ventasJP": "50"
+        },
+        {
+            "id": "392",
+            "videoJuegoId": "392",
+            "ventasJP": "190"
+        },
+        {
+            "id": "393",
+            "videoJuegoId": "393",
+            "ventasJP": "0"
+        },
+        {
+            "id": "394",
+            "videoJuegoId": "394",
+            "ventasJP": "740"
+        },
+        {
+            "id": "395",
+            "videoJuegoId": "395",
+            "ventasJP": "480"
+        },
+        {
+            "id": "396",
+            "videoJuegoId": "396",
+            "ventasJP": "0"
+        },
+        {
+            "id": "397",
+            "videoJuegoId": "397",
+            "ventasJP": "730"
+        },
+        {
+            "id": "398",
+            "videoJuegoId": "398",
+            "ventasJP": "820"
+        },
+        {
+            "id": "399",
+            "videoJuegoId": "399",
+            "ventasJP": "0"
+        },
+        {
+            "id": "400",
+            "videoJuegoId": "400",
+            "ventasJP": "10"
+        },
+        {
+            "id": "401",
+            "videoJuegoId": "401",
+            "ventasJP": "120"
+        },
+        {
+            "id": "402",
+            "videoJuegoId": "402",
+            "ventasJP": "570"
+        },
+        {
+            "id": "403",
+            "videoJuegoId": "403",
+            "ventasJP": "2320"
+        },
+        {
+            "id": "404",
+            "videoJuegoId": "404",
+            "ventasJP": "30"
+        },
+        {
+            "id": "405",
+            "videoJuegoId": "405",
+            "ventasJP": "760"
+        },
+        {
+            "id": "406",
+            "videoJuegoId": "406",
+            "ventasJP": "50"
+        },
+        {
+            "id": "407",
+            "videoJuegoId": "407",
+            "ventasJP": "50"
+        },
+        {
+            "id": "408",
+            "videoJuegoId": "408",
+            "ventasJP": "0"
+        },
+        {
+            "id": "409",
+            "videoJuegoId": "409",
+            "ventasJP": "60"
+        },
+        {
+            "id": "410",
+            "videoJuegoId": "410",
+            "ventasJP": "20"
+        },
+        {
+            "id": "411",
+            "videoJuegoId": "411",
+            "ventasJP": "460"
+        },
+        {
+            "id": "412",
+            "videoJuegoId": "412",
+            "ventasJP": "310"
+        },
+        {
+            "id": "413",
+            "videoJuegoId": "413",
+            "ventasJP": "2780"
+        },
+        {
+            "id": "414",
+            "videoJuegoId": "414",
+            "ventasJP": "770"
+        },
+        {
+            "id": "415",
+            "videoJuegoId": "415",
+            "ventasJP": "120"
+        },
+        {
+            "id": "416",
+            "videoJuegoId": "416",
+            "ventasJP": "0"
+        },
+        {
+            "id": "417",
+            "videoJuegoId": "417",
+            "ventasJP": "3180"
+        },
+        {
+            "id": "418",
+            "videoJuegoId": "418",
+            "ventasJP": "0"
+        },
+        {
+            "id": "419",
+            "videoJuegoId": "419",
+            "ventasJP": "0"
+        },
+        {
+            "id": "420",
+            "videoJuegoId": "420",
+            "ventasJP": "2350"
+        },
+        {
+            "id": "421",
+            "videoJuegoId": "421",
+            "ventasJP": "120"
+        },
+        {
+            "id": "422",
+            "videoJuegoId": "422",
+            "ventasJP": "70"
+        },
+        {
+            "id": "423",
+            "videoJuegoId": "423",
+            "ventasJP": "3190"
+        },
+        {
+            "id": "424",
+            "videoJuegoId": "424",
+            "ventasJP": "800"
+        },
+        {
+            "id": "425",
+            "videoJuegoId": "425",
+            "ventasJP": "40"
+        },
+        {
+            "id": "426",
+            "videoJuegoId": "426",
+            "ventasJP": "10"
+        },
+        {
+            "id": "427",
+            "videoJuegoId": "427",
+            "ventasJP": "90"
+        },
+        {
+            "id": "428",
+            "videoJuegoId": "428",
+            "ventasJP": "930"
+        },
+        {
+            "id": "429",
+            "videoJuegoId": "429",
+            "ventasJP": "380"
+        },
+        {
+            "id": "430",
+            "videoJuegoId": "430",
+            "ventasJP": "1930"
+        },
+        {
+            "id": "431",
+            "videoJuegoId": "431",
+            "ventasJP": "100"
+        },
+        {
+            "id": "432",
+            "videoJuegoId": "432",
+            "ventasJP": "0"
+        },
+        {
+            "id": "433",
+            "videoJuegoId": "433",
+            "ventasJP": "990"
+        },
+        {
+            "id": "434",
+            "videoJuegoId": "434",
+            "ventasJP": "60"
+        },
+        {
+            "id": "435",
+            "videoJuegoId": "435",
+            "ventasJP": "0"
+        },
+        {
+            "id": "436",
+            "videoJuegoId": "436",
+            "ventasJP": "880"
+        },
+        {
+            "id": "437",
+            "videoJuegoId": "437",
+            "ventasJP": "30"
+        },
+        {
+            "id": "438",
+            "videoJuegoId": "438",
+            "ventasJP": "0"
+        },
+        {
+            "id": "439",
+            "videoJuegoId": "439",
+            "ventasJP": "20"
+        },
+        {
+            "id": "440",
+            "videoJuegoId": "440",
+            "ventasJP": "3030"
+        },
+        {
+            "id": "441",
+            "videoJuegoId": "441",
+            "ventasJP": "0"
+        },
+        {
+            "id": "442",
+            "videoJuegoId": "442",
+            "ventasJP": "140"
+        },
+        {
+            "id": "443",
+            "videoJuegoId": "443",
+            "ventasJP": "1030"
+        },
+        {
+            "id": "444",
+            "videoJuegoId": "444",
+            "ventasJP": "140"
+        },
+        {
+            "id": "445",
+            "videoJuegoId": "445",
+            "ventasJP": "60"
+        },
+        {
+            "id": "446",
+            "videoJuegoId": "446",
+            "ventasJP": "30"
+        },
+        {
+            "id": "447",
+            "videoJuegoId": "447",
+            "ventasJP": "0"
+        },
+        {
+            "id": "448",
+            "videoJuegoId": "448",
+            "ventasJP": "550"
+        },
+        {
+            "id": "449",
+            "videoJuegoId": "449",
+            "ventasJP": "640"
+        },
+        {
+            "id": "450",
+            "videoJuegoId": "450",
+            "ventasJP": "10"
+        },
+        {
+            "id": "451",
+            "videoJuegoId": "451",
+            "ventasJP": "550"
+        },
+        {
+            "id": "452",
+            "videoJuegoId": "452",
+            "ventasJP": "0"
+        },
+        {
+            "id": "453",
+            "videoJuegoId": "453",
+            "ventasJP": "40"
+        },
+        {
+            "id": "454",
+            "videoJuegoId": "454",
+            "ventasJP": "30"
+        },
+        {
+            "id": "455",
+            "videoJuegoId": "455",
+            "ventasJP": "460"
+        },
+        {
+            "id": "456",
+            "videoJuegoId": "456",
+            "ventasJP": "0"
+        },
+        {
+            "id": "457",
+            "videoJuegoId": "457",
+            "ventasJP": "120"
+        },
+        {
+            "id": "458",
+            "videoJuegoId": "458",
+            "ventasJP": "20"
+        },
+        {
+            "id": "459",
+            "videoJuegoId": "459",
+            "ventasJP": "0"
+        },
+        {
+            "id": "460",
+            "videoJuegoId": "460",
+            "ventasJP": "20"
+        },
+        {
+            "id": "461",
+            "videoJuegoId": "461",
+            "ventasJP": "450"
+        },
+        {
+            "id": "462",
+            "videoJuegoId": "462",
+            "ventasJP": "0"
+        },
+        {
+            "id": "463",
+            "videoJuegoId": "463",
+            "ventasJP": "70"
+        },
+        {
+            "id": "464",
+            "videoJuegoId": "464",
+            "ventasJP": "80"
+        },
+        {
+            "id": "465",
+            "videoJuegoId": "465",
+            "ventasJP": "760"
+        },
+        {
+            "id": "466",
+            "videoJuegoId": "466",
+            "ventasJP": "10"
+        },
+        {
+            "id": "467",
+            "videoJuegoId": "467",
+            "ventasJP": "0"
+        },
+        {
+            "id": "468",
+            "videoJuegoId": "468",
+            "ventasJP": "800"
+        },
+        {
+            "id": "469",
+            "videoJuegoId": "469",
+            "ventasJP": "0"
+        },
+        {
+            "id": "470",
+            "videoJuegoId": "470",
+            "ventasJP": "640"
+        },
+        {
+            "id": "471",
+            "videoJuegoId": "471",
+            "ventasJP": "1160"
+        },
+        {
+            "id": "472",
+            "videoJuegoId": "472",
+            "ventasJP": "50"
+        },
+        {
+            "id": "473",
+            "videoJuegoId": "473",
+            "ventasJP": "1390"
+        },
+        {
+            "id": "474",
+            "videoJuegoId": "474",
+            "ventasJP": "80"
+        },
+        {
+            "id": "475",
+            "videoJuegoId": "475",
+            "ventasJP": "0"
+        },
+        {
+            "id": "476",
+            "videoJuegoId": "476",
+            "ventasJP": "0"
+        },
+        {
+            "id": "477",
+            "videoJuegoId": "477",
+            "ventasJP": "40"
+        },
+        {
+            "id": "478",
+            "videoJuegoId": "478",
+            "ventasJP": "60"
+        },
+        {
+            "id": "479",
+            "videoJuegoId": "479",
+            "ventasJP": "1190"
+        },
+        {
+            "id": "480",
+            "videoJuegoId": "480",
+            "ventasJP": "150"
+        },
+        {
+            "id": "481",
+            "videoJuegoId": "481",
+            "ventasJP": "340"
+        },
+        {
+            "id": "482",
+            "videoJuegoId": "482",
+            "ventasJP": "50"
+        },
+        {
+            "id": "483",
+            "videoJuegoId": "483",
+            "ventasJP": "60"
+        },
+        {
+            "id": "484",
+            "videoJuegoId": "484",
+            "ventasJP": "40"
+        },
+        {
+            "id": "485",
+            "videoJuegoId": "485",
+            "ventasJP": "120"
+        },
+        {
+            "id": "486",
+            "videoJuegoId": "486",
+            "ventasJP": "30"
+        },
+        {
+            "id": "487",
+            "videoJuegoId": "487",
+            "ventasJP": "730"
+        },
+        {
+            "id": "488",
+            "videoJuegoId": "488",
+            "ventasJP": "620"
+        },
+        {
+            "id": "489",
+            "videoJuegoId": "489",
+            "ventasJP": "50"
+        },
+        {
+            "id": "490",
+            "videoJuegoId": "490",
+            "ventasJP": "1130"
+        },
+        {
+            "id": "491",
+            "videoJuegoId": "491",
+            "ventasJP": "0"
+        },
+        {
+            "id": "492",
+            "videoJuegoId": "492",
+            "ventasJP": "0"
+        },
+        {
+            "id": "493",
+            "videoJuegoId": "493",
+            "ventasJP": "110"
+        },
+        {
+            "id": "494",
+            "videoJuegoId": "494",
+            "ventasJP": "40"
+        },
+        {
+            "id": "495",
+            "videoJuegoId": "495",
+            "ventasJP": "1380"
+        },
+        {
+            "id": "496",
+            "videoJuegoId": "496",
+            "ventasJP": "10"
+        },
+        {
+            "id": "497",
+            "videoJuegoId": "497",
+            "ventasJP": "60"
+        },
+        {
+            "id": "498",
+            "videoJuegoId": "498",
+            "ventasJP": "20"
+        },
+        {
+            "id": "499",
+            "videoJuegoId": "499",
+            "ventasJP": "0"
+        },
+        {
+            "id": "500",
+            "videoJuegoId": "500",
+            "ventasJP": "0"
+        },
+        {
+            "id": "501",
+            "videoJuegoId": "501",
+            "ventasJP": "120"
+        },
+        {
+            "id": "502",
+            "videoJuegoId": "502",
+            "ventasJP": "30"
+        },
+        {
+            "id": "503",
+            "videoJuegoId": "503",
+            "ventasJP": "0"
+        },
+        {
+            "id": "504",
+            "videoJuegoId": "504",
+            "ventasJP": "0"
+        },
+        {
+            "id": "505",
+            "videoJuegoId": "505",
+            "ventasJP": "890"
+        },
+        {
+            "id": "506",
+            "videoJuegoId": "506",
+            "ventasJP": "0"
+        },
+        {
+            "id": "507",
+            "videoJuegoId": "507",
+            "ventasJP": "980"
+        },
+        {
+            "id": "508",
+            "videoJuegoId": "508",
+            "ventasJP": "0"
+        },
+        {
+            "id": "509",
+            "videoJuegoId": "509",
+            "ventasJP": "0"
+        },
+        {
+            "id": "510",
+            "videoJuegoId": "510",
+            "ventasJP": "50"
+        },
+        {
+            "id": "511",
+            "videoJuegoId": "511",
+            "ventasJP": "110"
+        },
+        {
+            "id": "512",
+            "videoJuegoId": "512",
+            "ventasJP": "40"
+        },
+        {
+            "id": "513",
+            "videoJuegoId": "513",
+            "ventasJP": "50"
+        },
+        {
+            "id": "514",
+            "videoJuegoId": "514",
+            "ventasJP": "0"
+        },
+        {
+            "id": "515",
+            "videoJuegoId": "515",
+            "ventasJP": "70"
+        },
+        {
+            "id": "516",
+            "videoJuegoId": "516",
+            "ventasJP": "100"
+        },
+        {
+            "id": "517",
+            "videoJuegoId": "517",
+            "ventasJP": "40"
+        },
+        {
+            "id": "518",
+            "videoJuegoId": "518",
+            "ventasJP": "0"
+        },
+        {
+            "id": "519",
+            "videoJuegoId": "519",
+            "ventasJP": "0"
+        },
+        {
+            "id": "520",
+            "videoJuegoId": "520",
+            "ventasJP": "30"
+        },
+        {
+            "id": "521",
+            "videoJuegoId": "521",
+            "ventasJP": "40"
+        },
+        {
+            "id": "522",
+            "videoJuegoId": "522",
+            "ventasJP": "1100"
+        },
+        {
+            "id": "523",
+            "videoJuegoId": "523",
+            "ventasJP": "0"
+        },
+        {
+            "id": "524",
+            "videoJuegoId": "524",
+            "ventasJP": "2780"
+        },
+        {
+            "id": "525",
+            "videoJuegoId": "525",
+            "ventasJP": "0"
+        },
+        {
+            "id": "526",
+            "videoJuegoId": "526",
+            "ventasJP": "2130"
+        },
+        {
+            "id": "527",
+            "videoJuegoId": "527",
+            "ventasJP": "0"
+        },
+        {
+            "id": "528",
+            "videoJuegoId": "528",
+            "ventasJP": "40"
+        },
+        {
+            "id": "529",
+            "videoJuegoId": "529",
+            "ventasJP": "0"
+        },
+        {
+            "id": "530",
+            "videoJuegoId": "530",
+            "ventasJP": "680"
+        },
+        {
+            "id": "531",
+            "videoJuegoId": "531",
+            "ventasJP": "90"
+        },
+        {
+            "id": "532",
+            "videoJuegoId": "532",
+            "ventasJP": "0"
+        },
+        {
+            "id": "533",
+            "videoJuegoId": "533",
+            "ventasJP": "1960"
+        },
+        {
+            "id": "534",
+            "videoJuegoId": "534",
+            "ventasJP": "0"
+        },
+        {
+            "id": "535",
+            "videoJuegoId": "535",
+            "ventasJP": "260"
+        },
+        {
+            "id": "536",
+            "videoJuegoId": "536",
+            "ventasJP": "170"
+        },
+        {
+            "id": "537",
+            "videoJuegoId": "537",
+            "ventasJP": "70"
+        },
+        {
+            "id": "538",
+            "videoJuegoId": "538",
+            "ventasJP": "0"
+        },
+        {
+            "id": "539",
+            "videoJuegoId": "539",
+            "ventasJP": "40"
+        },
+        {
+            "id": "540",
+            "videoJuegoId": "540",
+            "ventasJP": "70"
+        },
+        {
+            "id": "541",
+            "videoJuegoId": "541",
+            "ventasJP": "0"
+        },
+        {
+            "id": "542",
+            "videoJuegoId": "542",
+            "ventasJP": "710"
+        },
+        {
+            "id": "543",
+            "videoJuegoId": "543",
+            "ventasJP": "60"
+        },
+        {
+            "id": "544",
+            "videoJuegoId": "544",
+            "ventasJP": "1040"
+        },
+        {
+            "id": "545",
+            "videoJuegoId": "545",
+            "ventasJP": "1130"
+        },
+        {
+            "id": "546",
+            "videoJuegoId": "546",
+            "ventasJP": "20"
+        },
+        {
+            "id": "547",
+            "videoJuegoId": "547",
+            "ventasJP": "20"
+        },
+        {
+            "id": "548",
+            "videoJuegoId": "548",
+            "ventasJP": "870"
+        },
+        {
+            "id": "549",
+            "videoJuegoId": "549",
+            "ventasJP": "1090"
+        },
+        {
+            "id": "550",
+            "videoJuegoId": "550",
+            "ventasJP": "330"
+        },
+        {
+            "id": "551",
+            "videoJuegoId": "551",
+            "ventasJP": "0"
+        },
+        {
+            "id": "552",
+            "videoJuegoId": "552",
+            "ventasJP": "10"
+        },
+        {
+            "id": "553",
+            "videoJuegoId": "553",
+            "ventasJP": "0"
+        },
+        {
+            "id": "554",
+            "videoJuegoId": "554",
+            "ventasJP": "350"
+        },
+        {
+            "id": "555",
+            "videoJuegoId": "555",
+            "ventasJP": "0"
+        },
+        {
+            "id": "556",
+            "videoJuegoId": "556",
+            "ventasJP": "0"
+        },
+        {
+            "id": "557",
+            "videoJuegoId": "557",
+            "ventasJP": "40"
+        },
+        {
+            "id": "558",
+            "videoJuegoId": "558",
+            "ventasJP": "0"
+        },
+        {
+            "id": "559",
+            "videoJuegoId": "559",
+            "ventasJP": "890"
+        },
+        {
+            "id": "560",
+            "videoJuegoId": "560",
+            "ventasJP": "2680"
+        },
+        {
+            "id": "561",
+            "videoJuegoId": "561",
+            "ventasJP": "0"
+        },
+        {
+            "id": "562",
+            "videoJuegoId": "562",
+            "ventasJP": "0"
+        },
+        {
+            "id": "563",
+            "videoJuegoId": "563",
+            "ventasJP": "10"
+        },
+        {
+            "id": "564",
+            "videoJuegoId": "564",
+            "ventasJP": "0"
+        },
+        {
+            "id": "565",
+            "videoJuegoId": "565",
+            "ventasJP": "0"
+        },
+        {
+            "id": "566",
+            "videoJuegoId": "566",
+            "ventasJP": "2650"
+        },
+        {
+            "id": "567",
+            "videoJuegoId": "567",
+            "ventasJP": "120"
+        },
+        {
+            "id": "568",
+            "videoJuegoId": "568",
+            "ventasJP": "0"
+        },
+        {
+            "id": "569",
+            "videoJuegoId": "569",
+            "ventasJP": "0"
+        },
+        {
+            "id": "570",
+            "videoJuegoId": "570",
+            "ventasJP": "10"
+        },
+        {
+            "id": "571",
+            "videoJuegoId": "571",
+            "ventasJP": "0"
+        },
+        {
+            "id": "572",
+            "videoJuegoId": "572",
+            "ventasJP": "0"
+        },
+        {
+            "id": "573",
+            "videoJuegoId": "573",
+            "ventasJP": "20"
+        },
+        {
+            "id": "574",
+            "videoJuegoId": "574",
+            "ventasJP": "120"
+        },
+        {
+            "id": "575",
+            "videoJuegoId": "575",
+            "ventasJP": "40"
+        },
+        {
+            "id": "576",
+            "videoJuegoId": "576",
+            "ventasJP": "60"
+        },
+        {
+            "id": "577",
+            "videoJuegoId": "577",
+            "ventasJP": "0"
+        },
+        {
+            "id": "578",
+            "videoJuegoId": "578",
+            "ventasJP": "240"
+        },
+        {
+            "id": "579",
+            "videoJuegoId": "579",
+            "ventasJP": "10"
+        },
+        {
+            "id": "580",
+            "videoJuegoId": "580",
+            "ventasJP": "40"
+        },
+        {
+            "id": "581",
+            "videoJuegoId": "581",
+            "ventasJP": "10"
+        },
+        {
+            "id": "582",
+            "videoJuegoId": "582",
+            "ventasJP": "40"
+        },
+        {
+            "id": "583",
+            "videoJuegoId": "583",
+            "ventasJP": "960"
+        },
+        {
+            "id": "584",
+            "videoJuegoId": "584",
+            "ventasJP": "110"
+        },
+        {
+            "id": "585",
+            "videoJuegoId": "585",
+            "ventasJP": "920"
+        },
+        {
+            "id": "586",
+            "videoJuegoId": "586",
+            "ventasJP": "0"
+        },
+        {
+            "id": "587",
+            "videoJuegoId": "587",
+            "ventasJP": "80"
+        },
+        {
+            "id": "588",
+            "videoJuegoId": "588",
+            "ventasJP": "40"
+        },
+        {
+            "id": "589",
+            "videoJuegoId": "589",
+            "ventasJP": "30"
+        },
+        {
+            "id": "590",
+            "videoJuegoId": "590",
+            "ventasJP": "1750"
+        },
+        {
+            "id": "591",
+            "videoJuegoId": "591",
+            "ventasJP": "10"
+        },
+        {
+            "id": "592",
+            "videoJuegoId": "592",
+            "ventasJP": "30"
+        },
+        {
+            "id": "593",
+            "videoJuegoId": "593",
+            "ventasJP": "70"
+        },
+        {
+            "id": "594",
+            "videoJuegoId": "594",
+            "ventasJP": "310"
+        },
+        {
+            "id": "595",
+            "videoJuegoId": "595",
+            "ventasJP": "0"
+        },
+        {
+            "id": "596",
+            "videoJuegoId": "596",
+            "ventasJP": "30"
+        },
+        {
+            "id": "597",
+            "videoJuegoId": "597",
+            "ventasJP": "330"
+        },
+        {
+            "id": "598",
+            "videoJuegoId": "598",
+            "ventasJP": "2410"
+        },
+        {
+            "id": "599",
+            "videoJuegoId": "599",
+            "ventasJP": "210"
+        },
+        {
+            "id": "600",
+            "videoJuegoId": "600",
+            "ventasJP": "0"
+        },
+        {
+            "id": "601",
+            "videoJuegoId": "601",
+            "ventasJP": "700"
+        },
+        {
+            "id": "602",
+            "videoJuegoId": "602",
+            "ventasJP": "290"
+        },
+        {
+            "id": "603",
+            "videoJuegoId": "603",
+            "ventasJP": "0"
+        },
+        {
+            "id": "604",
+            "videoJuegoId": "604",
+            "ventasJP": "520"
+        },
+        {
+            "id": "605",
+            "videoJuegoId": "605",
+            "ventasJP": "160"
+        },
+        {
+            "id": "606",
+            "videoJuegoId": "606",
+            "ventasJP": "60"
+        },
+        {
+            "id": "607",
+            "videoJuegoId": "607",
+            "ventasJP": "0"
+        },
+        {
+            "id": "608",
+            "videoJuegoId": "608",
+            "ventasJP": "80"
+        },
+        {
+            "id": "609",
+            "videoJuegoId": "609",
+            "ventasJP": "1080"
+        },
+        {
+            "id": "610",
+            "videoJuegoId": "610",
+            "ventasJP": "0"
+        },
+        {
+            "id": "611",
+            "videoJuegoId": "611",
+            "ventasJP": "260"
+        },
+        {
+            "id": "612",
+            "videoJuegoId": "612",
+            "ventasJP": "0"
+        },
+        {
+            "id": "613",
+            "videoJuegoId": "613",
+            "ventasJP": "0"
+        },
+        {
+            "id": "614",
+            "videoJuegoId": "614",
+            "ventasJP": "0"
+        },
+        {
+            "id": "615",
+            "videoJuegoId": "615",
+            "ventasJP": "180"
+        },
+        {
+            "id": "616",
+            "videoJuegoId": "616",
+            "ventasJP": "60"
+        },
+        {
+            "id": "617",
+            "videoJuegoId": "617",
+            "ventasJP": "100"
+        },
+        {
+            "id": "618",
+            "videoJuegoId": "618",
+            "ventasJP": "0"
+        },
+        {
+            "id": "619",
+            "videoJuegoId": "619",
+            "ventasJP": "50"
+        },
+        {
+            "id": "620",
+            "videoJuegoId": "620",
+            "ventasJP": "920"
+        },
+        {
+            "id": "621",
+            "videoJuegoId": "621",
+            "ventasJP": "0"
+        },
+        {
+            "id": "622",
+            "videoJuegoId": "622",
+            "ventasJP": "0"
+        },
+        {
+            "id": "623",
+            "videoJuegoId": "623",
+            "ventasJP": "2430"
+        },
+        {
+            "id": "624",
+            "videoJuegoId": "624",
+            "ventasJP": "1340"
+        },
+        {
+            "id": "625",
+            "videoJuegoId": "625",
+            "ventasJP": "50"
+        },
+        {
+            "id": "626",
+            "videoJuegoId": "626",
+            "ventasJP": "0"
+        },
+        {
+            "id": "627",
+            "videoJuegoId": "627",
+            "ventasJP": "0"
+        },
+        {
+            "id": "628",
+            "videoJuegoId": "628",
+            "ventasJP": "40"
+        },
+        {
+            "id": "629",
+            "videoJuegoId": "629",
+            "ventasJP": "0"
+        },
+        {
+            "id": "630",
+            "videoJuegoId": "630",
+            "ventasJP": "0"
+        },
+        {
+            "id": "631",
+            "videoJuegoId": "631",
+            "ventasJP": "780"
+        },
+        {
+            "id": "632",
+            "videoJuegoId": "632",
+            "ventasJP": "460"
+        },
+        {
+            "id": "633",
+            "videoJuegoId": "633",
+            "ventasJP": "20"
+        },
+        {
+            "id": "634",
+            "videoJuegoId": "634",
+            "ventasJP": "540"
+        },
+        {
+            "id": "635",
+            "videoJuegoId": "635",
+            "ventasJP": "700"
+        },
+        {
+            "id": "636",
+            "videoJuegoId": "636",
+            "ventasJP": "0"
+        },
+        {
+            "id": "637",
+            "videoJuegoId": "637",
+            "ventasJP": "510"
+        },
+        {
+            "id": "638",
+            "videoJuegoId": "638",
+            "ventasJP": "40"
+        },
+        {
+            "id": "639",
+            "videoJuegoId": "639",
+            "ventasJP": "0"
+        },
+        {
+            "id": "640",
+            "videoJuegoId": "640",
+            "ventasJP": "1420"
+        },
+        {
+            "id": "641",
+            "videoJuegoId": "641",
+            "ventasJP": "0"
+        },
+        {
+            "id": "642",
+            "videoJuegoId": "642",
+            "ventasJP": "0"
+        },
+        {
+            "id": "643",
+            "videoJuegoId": "643",
+            "ventasJP": "0"
+        },
+        {
+            "id": "644",
+            "videoJuegoId": "644",
+            "ventasJP": "0"
+        },
+        {
+            "id": "645",
+            "videoJuegoId": "645",
+            "ventasJP": "0"
+        },
+        {
+            "id": "646",
+            "videoJuegoId": "646",
+            "ventasJP": "0"
+        },
+        {
+            "id": "647",
+            "videoJuegoId": "647",
+            "ventasJP": "40"
+        },
+        {
+            "id": "648",
+            "videoJuegoId": "648",
+            "ventasJP": "50"
+        },
+        {
+            "id": "649",
+            "videoJuegoId": "649",
+            "ventasJP": "30"
+        },
+        {
+            "id": "650",
+            "videoJuegoId": "650",
+            "ventasJP": "0"
+        },
+        {
+            "id": "651",
+            "videoJuegoId": "651",
+            "ventasJP": "30"
+        },
+        {
+            "id": "652",
+            "videoJuegoId": "652",
+            "ventasJP": "0"
+        },
+        {
+            "id": "653",
+            "videoJuegoId": "653",
+            "ventasJP": "0"
+        },
+        {
+            "id": "654",
+            "videoJuegoId": "654",
+            "ventasJP": "20"
+        },
+        {
+            "id": "655",
+            "videoJuegoId": "655",
+            "ventasJP": "10"
+        },
+        {
+            "id": "656",
+            "videoJuegoId": "656",
+            "ventasJP": "260"
+        },
+        {
+            "id": "657",
+            "videoJuegoId": "657",
+            "ventasJP": "80"
+        },
+        {
+            "id": "658",
+            "videoJuegoId": "658",
+            "ventasJP": "40"
+        },
+        {
+            "id": "659",
+            "videoJuegoId": "659",
+            "ventasJP": "10"
+        },
+        {
+            "id": "660",
+            "videoJuegoId": "660",
+            "ventasJP": "0"
+        },
+        {
+            "id": "661",
+            "videoJuegoId": "661",
+            "ventasJP": "0"
+        },
+        {
+            "id": "662",
+            "videoJuegoId": "662",
+            "ventasJP": "1480"
+        },
+        {
+            "id": "663",
+            "videoJuegoId": "663",
+            "ventasJP": "20"
+        },
+        {
+            "id": "664",
+            "videoJuegoId": "664",
+            "ventasJP": "400"
+        },
+        {
+            "id": "665",
+            "videoJuegoId": "665",
+            "ventasJP": "2340"
+        },
+        {
+            "id": "666",
+            "videoJuegoId": "666",
+            "ventasJP": "10"
+        },
+        {
+            "id": "667",
+            "videoJuegoId": "667",
+            "ventasJP": "0"
+        },
+        {
+            "id": "668",
+            "videoJuegoId": "668",
+            "ventasJP": "340"
+        },
+        {
+            "id": "669",
+            "videoJuegoId": "669",
+            "ventasJP": "10"
+        },
+        {
+            "id": "670",
+            "videoJuegoId": "670",
+            "ventasJP": "0"
+        },
+        {
+            "id": "671",
+            "videoJuegoId": "671",
+            "ventasJP": "0"
+        },
+        {
+            "id": "672",
+            "videoJuegoId": "672",
+            "ventasJP": "0"
+        },
+        {
+            "id": "673",
+            "videoJuegoId": "673",
+            "ventasJP": "40"
+        },
+        {
+            "id": "674",
+            "videoJuegoId": "674",
+            "ventasJP": "1060"
+        },
+        {
+            "id": "675",
+            "videoJuegoId": "675",
+            "ventasJP": "0"
+        },
+        {
+            "id": "676",
+            "videoJuegoId": "676",
+            "ventasJP": "470"
+        },
+        {
+            "id": "677",
+            "videoJuegoId": "677",
+            "ventasJP": "0"
+        },
+        {
+            "id": "678",
+            "videoJuegoId": "678",
+            "ventasJP": "2020"
+        },
+        {
+            "id": "679",
+            "videoJuegoId": "679",
+            "ventasJP": "100"
+        },
+        {
+            "id": "680",
+            "videoJuegoId": "680",
+            "ventasJP": "0"
+        },
+        {
+            "id": "681",
+            "videoJuegoId": "681",
+            "ventasJP": "90"
+        },
+        {
+            "id": "682",
+            "videoJuegoId": "682",
+            "ventasJP": "1210"
+        },
+        {
+            "id": "683",
+            "videoJuegoId": "683",
+            "ventasJP": "620"
+        },
+        {
+            "id": "684",
+            "videoJuegoId": "684",
+            "ventasJP": "0"
+        },
+        {
+            "id": "685",
+            "videoJuegoId": "685",
+            "ventasJP": "0"
+        },
+        {
+            "id": "686",
+            "videoJuegoId": "686",
+            "ventasJP": "0"
+        },
+        {
+            "id": "687",
+            "videoJuegoId": "687",
+            "ventasJP": "150"
+        },
+        {
+            "id": "688",
+            "videoJuegoId": "688",
+            "ventasJP": "40"
+        },
+        {
+            "id": "689",
+            "videoJuegoId": "689",
+            "ventasJP": "1630"
+        },
+        {
+            "id": "690",
+            "videoJuegoId": "690",
+            "ventasJP": "20"
+        },
+        {
+            "id": "691",
+            "videoJuegoId": "691",
+            "ventasJP": "0"
+        },
+        {
+            "id": "692",
+            "videoJuegoId": "692",
+            "ventasJP": "10"
+        },
+        {
+            "id": "693",
+            "videoJuegoId": "693",
+            "ventasJP": "0"
+        },
+        {
+            "id": "694",
+            "videoJuegoId": "694",
+            "ventasJP": "460"
+        },
+        {
+            "id": "695",
+            "videoJuegoId": "695",
+            "ventasJP": "100"
+        },
+        {
+            "id": "696",
+            "videoJuegoId": "696",
+            "ventasJP": "0"
+        },
+        {
+            "id": "697",
+            "videoJuegoId": "697",
+            "ventasJP": "2280"
+        },
+        {
+            "id": "698",
+            "videoJuegoId": "698",
+            "ventasJP": "910"
+        },
+        {
+            "id": "699",
+            "videoJuegoId": "699",
+            "ventasJP": "40"
+        },
+        {
+            "id": "700",
+            "videoJuegoId": "700",
+            "ventasJP": "0"
+        },
+        {
+            "id": "701",
+            "videoJuegoId": "701",
+            "ventasJP": "640"
+        },
+        {
+            "id": "702",
+            "videoJuegoId": "702",
+            "ventasJP": "540"
+        },
+        {
+            "id": "703",
+            "videoJuegoId": "703",
+            "ventasJP": "20"
+        },
+        {
+            "id": "704",
+            "videoJuegoId": "704",
+            "ventasJP": "140"
+        },
+        {
+            "id": "705",
+            "videoJuegoId": "705",
+            "ventasJP": "200"
+        },
+        {
+            "id": "706",
+            "videoJuegoId": "706",
+            "ventasJP": "1060"
+        },
+        {
+            "id": "707",
+            "videoJuegoId": "707",
+            "ventasJP": "460"
+        },
+        {
+            "id": "708",
+            "videoJuegoId": "708",
+            "ventasJP": "910"
+        },
+        {
+            "id": "709",
+            "videoJuegoId": "709",
+            "ventasJP": "1050"
+        },
+        {
+            "id": "710",
+            "videoJuegoId": "710",
+            "ventasJP": "0"
+        },
+        {
+            "id": "711",
+            "videoJuegoId": "711",
+            "ventasJP": "870"
+        },
+        {
+            "id": "712",
+            "videoJuegoId": "712",
+            "ventasJP": "220"
+        },
+        {
+            "id": "713",
+            "videoJuegoId": "713",
+            "ventasJP": "210"
+        },
+        {
+            "id": "714",
+            "videoJuegoId": "714",
+            "ventasJP": "0"
+        },
+        {
+            "id": "715",
+            "videoJuegoId": "715",
+            "ventasJP": "0"
+        },
+        {
+            "id": "716",
+            "videoJuegoId": "716",
+            "ventasJP": "0"
+        },
+        {
+            "id": "717",
+            "videoJuegoId": "717",
+            "ventasJP": "450"
+        },
+        {
+            "id": "718",
+            "videoJuegoId": "718",
+            "ventasJP": "0"
+        },
+        {
+            "id": "719",
+            "videoJuegoId": "719",
+            "ventasJP": "20"
+        },
+        {
+            "id": "720",
+            "videoJuegoId": "720",
+            "ventasJP": "0"
+        },
+        {
+            "id": "721",
+            "videoJuegoId": "721",
+            "ventasJP": "180"
+        },
+        {
+            "id": "722",
+            "videoJuegoId": "722",
+            "ventasJP": "50"
+        },
+        {
+            "id": "723",
+            "videoJuegoId": "723",
+            "ventasJP": "20"
+        },
+        {
+            "id": "724",
+            "videoJuegoId": "724",
+            "ventasJP": "0"
+        },
+        {
+            "id": "725",
+            "videoJuegoId": "725",
+            "ventasJP": "0"
+        },
+        {
+            "id": "726",
+            "videoJuegoId": "726",
+            "ventasJP": "2050"
+        },
+        {
+            "id": "727",
+            "videoJuegoId": "727",
+            "ventasJP": "340"
+        },
+        {
+            "id": "728",
+            "videoJuegoId": "728",
+            "ventasJP": "0"
+        },
+        {
+            "id": "729",
+            "videoJuegoId": "729",
+            "ventasJP": "0"
+        },
+        {
+            "id": "730",
+            "videoJuegoId": "730",
+            "ventasJP": "0"
+        },
+        {
+            "id": "731",
+            "videoJuegoId": "731",
+            "ventasJP": "20"
+        },
+        {
+            "id": "732",
+            "videoJuegoId": "732",
+            "ventasJP": "1100"
+        },
+        {
+            "id": "733",
+            "videoJuegoId": "733",
+            "ventasJP": "300"
+        },
+        {
+            "id": "734",
+            "videoJuegoId": "734",
+            "ventasJP": "0"
+        },
+        {
+            "id": "735",
+            "videoJuegoId": "735",
+            "ventasJP": "20"
+        },
+        {
+            "id": "736",
+            "videoJuegoId": "736",
+            "ventasJP": "550"
+        },
+        {
+            "id": "737",
+            "videoJuegoId": "737",
+            "ventasJP": "70"
+        },
+        {
+            "id": "738",
+            "videoJuegoId": "738",
+            "ventasJP": "2170"
+        },
+        {
+            "id": "739",
+            "videoJuegoId": "739",
+            "ventasJP": "0"
+        },
+        {
+            "id": "740",
+            "videoJuegoId": "740",
+            "ventasJP": "730"
+        },
+        {
+            "id": "741",
+            "videoJuegoId": "741",
+            "ventasJP": "10"
+        },
+        {
+            "id": "742",
+            "videoJuegoId": "742",
+            "ventasJP": "0"
+        },
+        {
+            "id": "743",
+            "videoJuegoId": "743",
+            "ventasJP": "1560"
+        },
+        {
+            "id": "744",
+            "videoJuegoId": "744",
+            "ventasJP": "80"
+        },
+        {
+            "id": "745",
+            "videoJuegoId": "745",
+            "ventasJP": "470"
+        },
+        {
+            "id": "746",
+            "videoJuegoId": "746",
+            "ventasJP": "10"
+        },
+        {
+            "id": "747",
+            "videoJuegoId": "747",
+            "ventasJP": "0"
+        },
+        {
+            "id": "748",
+            "videoJuegoId": "748",
+            "ventasJP": "0"
+        },
+        {
+            "id": "749",
+            "videoJuegoId": "749",
+            "ventasJP": "1980"
+        },
+        {
+            "id": "750",
+            "videoJuegoId": "750",
+            "ventasJP": "20"
+        },
+        {
+            "id": "751",
+            "videoJuegoId": "751",
+            "ventasJP": "0"
+        },
+        {
+            "id": "752",
+            "videoJuegoId": "752",
+            "ventasJP": "130"
+        },
+        {
+            "id": "753",
+            "videoJuegoId": "753",
+            "ventasJP": "2130"
+        },
+        {
+            "id": "754",
+            "videoJuegoId": "754",
+            "ventasJP": "190"
+        },
+        {
+            "id": "755",
+            "videoJuegoId": "755",
+            "ventasJP": "0"
+        },
+        {
+            "id": "756",
+            "videoJuegoId": "756",
+            "ventasJP": "1450"
+        },
+        {
+            "id": "757",
+            "videoJuegoId": "757",
+            "ventasJP": "0"
+        },
+        {
+            "id": "758",
+            "videoJuegoId": "758",
+            "ventasJP": "0"
+        },
+        {
+            "id": "759",
+            "videoJuegoId": "759",
+            "ventasJP": "890"
+        },
+        {
+            "id": "760",
+            "videoJuegoId": "760",
+            "ventasJP": "0"
+        },
+        {
+            "id": "761",
+            "videoJuegoId": "761",
+            "ventasJP": "1350"
+        },
+        {
+            "id": "762",
+            "videoJuegoId": "762",
+            "ventasJP": "60"
+        },
+        {
+            "id": "763",
+            "videoJuegoId": "763",
+            "ventasJP": "920"
+        },
+        {
+            "id": "764",
+            "videoJuegoId": "764",
+            "ventasJP": "50"
+        },
+        {
+            "id": "765",
+            "videoJuegoId": "765",
+            "ventasJP": "1070"
+        },
+        {
+            "id": "766",
+            "videoJuegoId": "766",
+            "ventasJP": "20"
+        },
+        {
+            "id": "767",
+            "videoJuegoId": "767",
+            "ventasJP": "450"
+        },
+        {
+            "id": "768",
+            "videoJuegoId": "768",
+            "ventasJP": "0"
+        },
+        {
+            "id": "769",
+            "videoJuegoId": "769",
+            "ventasJP": "20"
+        },
+        {
+            "id": "770",
+            "videoJuegoId": "770",
+            "ventasJP": "1130"
+        },
+        {
+            "id": "771",
+            "videoJuegoId": "771",
+            "ventasJP": "400"
+        },
+        {
+            "id": "772",
+            "videoJuegoId": "772",
+            "ventasJP": "0"
+        },
+        {
+            "id": "773",
+            "videoJuegoId": "773",
+            "ventasJP": "630"
+        },
+        {
+            "id": "774",
+            "videoJuegoId": "774",
+            "ventasJP": "50"
+        },
+        {
+            "id": "775",
+            "videoJuegoId": "775",
+            "ventasJP": "0"
+        },
+        {
+            "id": "776",
+            "videoJuegoId": "776",
+            "ventasJP": "1050"
+        },
+        {
+            "id": "777",
+            "videoJuegoId": "777",
+            "ventasJP": "0"
+        },
+        {
+            "id": "778",
+            "videoJuegoId": "778",
+            "ventasJP": "40"
+        },
+        {
+            "id": "779",
+            "videoJuegoId": "779",
+            "ventasJP": "20"
+        },
+        {
+            "id": "780",
+            "videoJuegoId": "780",
+            "ventasJP": "10"
+        },
+        {
+            "id": "781",
+            "videoJuegoId": "781",
+            "ventasJP": "1960"
+        },
+        {
+            "id": "782",
+            "videoJuegoId": "782",
+            "ventasJP": "50"
+        },
+        {
+            "id": "783",
+            "videoJuegoId": "783",
+            "ventasJP": "290"
+        },
+        {
+            "id": "784",
+            "videoJuegoId": "784",
+            "ventasJP": "80"
+        },
+        {
+            "id": "785",
+            "videoJuegoId": "785",
+            "ventasJP": "0"
+        },
+        {
+            "id": "786",
+            "videoJuegoId": "786",
+            "ventasJP": "0"
+        },
+        {
+            "id": "787",
+            "videoJuegoId": "787",
+            "ventasJP": "10"
+        },
+        {
+            "id": "788",
+            "videoJuegoId": "788",
+            "ventasJP": "960"
+        },
+        {
+            "id": "789",
+            "videoJuegoId": "789",
+            "ventasJP": "140"
+        },
+        {
+            "id": "790",
+            "videoJuegoId": "790",
+            "ventasJP": "0"
+        },
+        {
+            "id": "791",
+            "videoJuegoId": "791",
+            "ventasJP": "0"
+        },
+        {
+            "id": "792",
+            "videoJuegoId": "792",
+            "ventasJP": "0"
+        },
+        {
+            "id": "793",
+            "videoJuegoId": "793",
+            "ventasJP": "730"
+        },
+        {
+            "id": "794",
+            "videoJuegoId": "794",
+            "ventasJP": "0"
+        },
+        {
+            "id": "795",
+            "videoJuegoId": "795",
+            "ventasJP": "50"
+        },
+        {
+            "id": "796",
+            "videoJuegoId": "796",
+            "ventasJP": "0"
+        },
+        {
+            "id": "797",
+            "videoJuegoId": "797",
+            "ventasJP": "130"
+        },
+        {
+            "id": "798",
+            "videoJuegoId": "798",
+            "ventasJP": "0"
+        },
+        {
+            "id": "799",
+            "videoJuegoId": "799",
+            "ventasJP": "0"
+        },
+        {
+            "id": "800",
+            "videoJuegoId": "800",
+            "ventasJP": "0"
+        },
+        {
+            "id": "801",
+            "videoJuegoId": "801",
+            "ventasJP": "0"
+        },
+        {
+            "id": "802",
+            "videoJuegoId": "802",
+            "ventasJP": "750"
+        },
+        {
+            "id": "803",
+            "videoJuegoId": "803",
+            "ventasJP": "540"
+        },
+        {
+            "id": "804",
+            "videoJuegoId": "804",
+            "ventasJP": "790"
+        },
+        {
+            "id": "805",
+            "videoJuegoId": "805",
+            "ventasJP": "130"
+        },
+        {
+            "id": "806",
+            "videoJuegoId": "806",
+            "ventasJP": "40"
+        },
+        {
+            "id": "807",
+            "videoJuegoId": "807",
+            "ventasJP": "740"
+        },
+        {
+            "id": "808",
+            "videoJuegoId": "808",
+            "ventasJP": "10"
+        },
+        {
+            "id": "809",
+            "videoJuegoId": "809",
+            "ventasJP": "20"
+        },
+        {
+            "id": "810",
+            "videoJuegoId": "810",
+            "ventasJP": "40"
+        },
+        {
+            "id": "811",
+            "videoJuegoId": "811",
+            "ventasJP": "460"
+        },
+        {
+            "id": "812",
+            "videoJuegoId": "812",
+            "ventasJP": "0"
+        },
+        {
+            "id": "813",
+            "videoJuegoId": "813",
+            "ventasJP": "50"
+        },
+        {
+            "id": "814",
+            "videoJuegoId": "814",
+            "ventasJP": "830"
+        },
+        {
+            "id": "815",
+            "videoJuegoId": "815",
+            "ventasJP": "40"
+        },
+        {
+            "id": "816",
+            "videoJuegoId": "816",
+            "ventasJP": "20"
+        },
+        {
+            "id": "817",
+            "videoJuegoId": "817",
+            "ventasJP": "0"
+        },
+        {
+            "id": "818",
+            "videoJuegoId": "818",
+            "ventasJP": "40"
+        },
+        {
+            "id": "819",
+            "videoJuegoId": "819",
+            "ventasJP": "150"
+        },
+        {
+            "id": "820",
+            "videoJuegoId": "820",
+            "ventasJP": "290"
+        },
+        {
+            "id": "821",
+            "videoJuegoId": "821",
+            "ventasJP": "0"
+        },
+        {
+            "id": "822",
+            "videoJuegoId": "822",
+            "ventasJP": "0"
+        },
+        {
+            "id": "823",
+            "videoJuegoId": "823",
+            "ventasJP": "0"
+        },
+        {
+            "id": "824",
+            "videoJuegoId": "824",
+            "ventasJP": "530"
+        },
+        {
+            "id": "825",
+            "videoJuegoId": "825",
+            "ventasJP": "10"
+        },
+        {
+            "id": "826",
+            "videoJuegoId": "826",
+            "ventasJP": "30"
+        },
+        {
+            "id": "827",
+            "videoJuegoId": "827",
+            "ventasJP": "130"
+        },
+        {
+            "id": "828",
+            "videoJuegoId": "828",
+            "ventasJP": "0"
+        },
+        {
+            "id": "829",
+            "videoJuegoId": "829",
+            "ventasJP": "0"
+        },
+        {
+            "id": "830",
+            "videoJuegoId": "830",
+            "ventasJP": "0"
+        },
+        {
+            "id": "831",
+            "videoJuegoId": "831",
+            "ventasJP": "10"
+        },
+        {
+            "id": "832",
+            "videoJuegoId": "832",
+            "ventasJP": "0"
+        },
+        {
+            "id": "833",
+            "videoJuegoId": "833",
+            "ventasJP": "40"
+        },
+        {
+            "id": "834",
+            "videoJuegoId": "834",
+            "ventasJP": "0"
+        },
+        {
+            "id": "835",
+            "videoJuegoId": "835",
+            "ventasJP": "0"
+        },
+        {
+            "id": "836",
+            "videoJuegoId": "836",
+            "ventasJP": "0"
+        },
+        {
+            "id": "837",
+            "videoJuegoId": "837",
+            "ventasJP": "1290"
+        },
+        {
+            "id": "838",
+            "videoJuegoId": "838",
+            "ventasJP": "0"
+        },
+        {
+            "id": "839",
+            "videoJuegoId": "839",
+            "ventasJP": "530"
+        },
+        {
+            "id": "840",
+            "videoJuegoId": "840",
+            "ventasJP": "10"
+        },
+        {
+            "id": "841",
+            "videoJuegoId": "841",
+            "ventasJP": "20"
+        },
+        {
+            "id": "842",
+            "videoJuegoId": "842",
+            "ventasJP": "900"
+        },
+        {
+            "id": "843",
+            "videoJuegoId": "843",
+            "ventasJP": "270"
+        },
+        {
+            "id": "844",
+            "videoJuegoId": "844",
+            "ventasJP": "50"
+        },
+        {
+            "id": "845",
+            "videoJuegoId": "845",
+            "ventasJP": "750"
+        },
+        {
+            "id": "846",
+            "videoJuegoId": "846",
+            "ventasJP": "20"
+        },
+        {
+            "id": "847",
+            "videoJuegoId": "847",
+            "ventasJP": "70"
+        },
+        {
+            "id": "848",
+            "videoJuegoId": "848",
+            "ventasJP": "0"
+        },
+        {
+            "id": "849",
+            "videoJuegoId": "849",
+            "ventasJP": "0"
+        },
+        {
+            "id": "850",
+            "videoJuegoId": "850",
+            "ventasJP": "0"
+        },
+        {
+            "id": "851",
+            "videoJuegoId": "851",
+            "ventasJP": "510"
+        },
+        {
+            "id": "852",
+            "videoJuegoId": "852",
+            "ventasJP": "0"
+        },
+        {
+            "id": "853",
+            "videoJuegoId": "853",
+            "ventasJP": "20"
+        },
+        {
+            "id": "854",
+            "videoJuegoId": "854",
+            "ventasJP": "0"
+        },
+        {
+            "id": "855",
+            "videoJuegoId": "855",
+            "ventasJP": "80"
+        },
+        {
+            "id": "856",
+            "videoJuegoId": "856",
+            "ventasJP": "1530"
+        },
+        {
+            "id": "857",
+            "videoJuegoId": "857",
+            "ventasJP": "410"
+        },
+        {
+            "id": "858",
+            "videoJuegoId": "858",
+            "ventasJP": "630"
+        },
+        {
+            "id": "859",
+            "videoJuegoId": "859",
+            "ventasJP": "1050"
+        },
+        {
+            "id": "860",
+            "videoJuegoId": "860",
+            "ventasJP": "20"
+        },
+        {
+            "id": "861",
+            "videoJuegoId": "861",
+            "ventasJP": "20"
+        },
+        {
+            "id": "862",
+            "videoJuegoId": "862",
+            "ventasJP": "0"
+        },
+        {
+            "id": "863",
+            "videoJuegoId": "863",
+            "ventasJP": "0"
+        },
+        {
+            "id": "864",
+            "videoJuegoId": "864",
+            "ventasJP": "0"
+        },
+        {
+            "id": "865",
+            "videoJuegoId": "865",
+            "ventasJP": "0"
+        },
+        {
+            "id": "866",
+            "videoJuegoId": "866",
+            "ventasJP": "0"
+        },
+        {
+            "id": "867",
+            "videoJuegoId": "867",
+            "ventasJP": "550"
+        },
+        {
+            "id": "868",
+            "videoJuegoId": "868",
+            "ventasJP": "30"
+        },
+        {
+            "id": "869",
+            "videoJuegoId": "869",
+            "ventasJP": "0"
+        },
+        {
+            "id": "870",
+            "videoJuegoId": "870",
+            "ventasJP": "0"
+        },
+        {
+            "id": "871",
+            "videoJuegoId": "871",
+            "ventasJP": "0"
+        },
+        {
+            "id": "872",
+            "videoJuegoId": "872",
+            "ventasJP": "0"
+        },
+        {
+            "id": "873",
+            "videoJuegoId": "873",
+            "ventasJP": "650"
+        },
+        {
+            "id": "874",
+            "videoJuegoId": "874",
+            "ventasJP": "10"
+        },
+        {
+            "id": "875",
+            "videoJuegoId": "875",
+            "ventasJP": "0"
+        },
+        {
+            "id": "876",
+            "videoJuegoId": "876",
+            "ventasJP": "1300"
+        },
+        {
+            "id": "877",
+            "videoJuegoId": "877",
+            "ventasJP": "200"
+        },
+        {
+            "id": "878",
+            "videoJuegoId": "878",
+            "ventasJP": "0"
+        },
+        {
+            "id": "879",
+            "videoJuegoId": "879",
+            "ventasJP": "0"
+        },
+        {
+            "id": "880",
+            "videoJuegoId": "880",
+            "ventasJP": "0"
+        },
+        {
+            "id": "881",
+            "videoJuegoId": "881",
+            "ventasJP": "290"
+        },
+        {
+            "id": "882",
+            "videoJuegoId": "882",
+            "ventasJP": "0"
+        },
+        {
+            "id": "883",
+            "videoJuegoId": "883",
+            "ventasJP": "100"
+        },
+        {
+            "id": "884",
+            "videoJuegoId": "884",
+            "ventasJP": "1460"
+        },
+        {
+            "id": "885",
+            "videoJuegoId": "885",
+            "ventasJP": "410"
+        },
+        {
+            "id": "886",
+            "videoJuegoId": "886",
+            "ventasJP": "0"
+        },
+        {
+            "id": "887",
+            "videoJuegoId": "887",
+            "ventasJP": "0"
+        },
+        {
+            "id": "888",
+            "videoJuegoId": "888",
+            "ventasJP": "0"
+        },
+        {
+            "id": "889",
+            "videoJuegoId": "889",
+            "ventasJP": "0"
+        },
+        {
+            "id": "890",
+            "videoJuegoId": "890",
+            "ventasJP": "10"
+        },
+        {
+            "id": "891",
+            "videoJuegoId": "891",
+            "ventasJP": "0"
+        },
+        {
+            "id": "892",
+            "videoJuegoId": "892",
+            "ventasJP": "10"
+        },
+        {
+            "id": "893",
+            "videoJuegoId": "893",
+            "ventasJP": "1010"
+        },
+        {
+            "id": "894",
+            "videoJuegoId": "894",
+            "ventasJP": "0"
+        },
+        {
+            "id": "895",
+            "videoJuegoId": "895",
+            "ventasJP": "0"
+        },
+        {
+            "id": "896",
+            "videoJuegoId": "896",
+            "ventasJP": "0"
+        },
+        {
+            "id": "897",
+            "videoJuegoId": "897",
+            "ventasJP": "40"
+        },
+        {
+            "id": "898",
+            "videoJuegoId": "898",
+            "ventasJP": "30"
+        },
+        {
+            "id": "899",
+            "videoJuegoId": "899",
+            "ventasJP": "60"
+        },
+        {
+            "id": "900",
+            "videoJuegoId": "900",
+            "ventasJP": "0"
+        },
+        {
+            "id": "901",
+            "videoJuegoId": "901",
+            "ventasJP": "30"
+        },
+        {
+            "id": "902",
+            "videoJuegoId": "902",
+            "ventasJP": "1330"
+        },
+        {
+            "id": "903",
+            "videoJuegoId": "903",
+            "ventasJP": "30"
+        },
+        {
+            "id": "904",
+            "videoJuegoId": "904",
+            "ventasJP": "0"
+        },
+        {
+            "id": "905",
+            "videoJuegoId": "905",
+            "ventasJP": "1480"
+        },
+        {
+            "id": "906",
+            "videoJuegoId": "906",
+            "ventasJP": "0"
+        },
+        {
+            "id": "907",
+            "videoJuegoId": "907",
+            "ventasJP": "90"
+        },
+        {
+            "id": "908",
+            "videoJuegoId": "908",
+            "ventasJP": "30"
+        },
+        {
+            "id": "909",
+            "videoJuegoId": "909",
+            "ventasJP": "40"
+        },
+        {
+            "id": "910",
+            "videoJuegoId": "910",
+            "ventasJP": "1070"
+        },
+        {
+            "id": "911",
+            "videoJuegoId": "911",
+            "ventasJP": "300"
+        },
+        {
+            "id": "912",
+            "videoJuegoId": "912",
+            "ventasJP": "0"
+        },
+        {
+            "id": "913",
+            "videoJuegoId": "913",
+            "ventasJP": "400"
+        },
+        {
+            "id": "914",
+            "videoJuegoId": "914",
+            "ventasJP": "40"
+        },
+        {
+            "id": "915",
+            "videoJuegoId": "915",
+            "ventasJP": "390"
+        },
+        {
+            "id": "916",
+            "videoJuegoId": "916",
+            "ventasJP": "690"
+        },
+        {
+            "id": "917",
+            "videoJuegoId": "917",
+            "ventasJP": "410"
+        },
+        {
+            "id": "918",
+            "videoJuegoId": "918",
+            "ventasJP": "0"
+        },
+        {
+            "id": "919",
+            "videoJuegoId": "919",
+            "ventasJP": "30"
+        },
+        {
+            "id": "920",
+            "videoJuegoId": "920",
+            "ventasJP": "0"
+        },
+        {
+            "id": "921",
+            "videoJuegoId": "921",
+            "ventasJP": "0"
+        },
+        {
+            "id": "922",
+            "videoJuegoId": "922",
+            "ventasJP": "0"
+        },
+        {
+            "id": "923",
+            "videoJuegoId": "923",
+            "ventasJP": "130"
+        },
+        {
+            "id": "924",
+            "videoJuegoId": "924",
+            "ventasJP": "10"
+        },
+        {
+            "id": "925",
+            "videoJuegoId": "925",
+            "ventasJP": "830"
+        },
+        {
+            "id": "926",
+            "videoJuegoId": "926",
+            "ventasJP": "0"
+        },
+        {
+            "id": "927",
+            "videoJuegoId": "927",
+            "ventasJP": "350"
+        },
+        {
+            "id": "928",
+            "videoJuegoId": "928",
+            "ventasJP": "0"
+        },
+        {
+            "id": "929",
+            "videoJuegoId": "929",
+            "ventasJP": "80"
+        },
+        {
+            "id": "930",
+            "videoJuegoId": "930",
+            "ventasJP": "550"
+        },
+        {
+            "id": "931",
+            "videoJuegoId": "931",
+            "ventasJP": "420"
+        },
+        {
+            "id": "932",
+            "videoJuegoId": "932",
+            "ventasJP": "0"
+        },
+        {
+            "id": "933",
+            "videoJuegoId": "933",
+            "ventasJP": "350"
+        },
+        {
+            "id": "934",
+            "videoJuegoId": "934",
+            "ventasJP": "1490"
+        },
+        {
+            "id": "935",
+            "videoJuegoId": "935",
+            "ventasJP": "520"
+        },
+        {
+            "id": "936",
+            "videoJuegoId": "936",
+            "ventasJP": "30"
+        },
+        {
+            "id": "937",
+            "videoJuegoId": "937",
+            "ventasJP": "930"
+        },
+        {
+            "id": "938",
+            "videoJuegoId": "938",
+            "ventasJP": "0"
+        },
+        {
+            "id": "939",
+            "videoJuegoId": "939",
+            "ventasJP": "20"
+        },
+        {
+            "id": "940",
+            "videoJuegoId": "940",
+            "ventasJP": "0"
+        },
+        {
+            "id": "941",
+            "videoJuegoId": "941",
+            "ventasJP": "70"
+        },
+        {
+            "id": "942",
+            "videoJuegoId": "942",
+            "ventasJP": "30"
+        },
+        {
+            "id": "943",
+            "videoJuegoId": "943",
+            "ventasJP": "0"
+        },
+        {
+            "id": "944",
+            "videoJuegoId": "944",
+            "ventasJP": "0"
+        },
+        {
+            "id": "945",
+            "videoJuegoId": "945",
+            "ventasJP": "70"
+        },
+        {
+            "id": "946",
+            "videoJuegoId": "946",
+            "ventasJP": "790"
+        },
+        {
+            "id": "947",
+            "videoJuegoId": "947",
+            "ventasJP": "120"
+        },
+        {
+            "id": "948",
+            "videoJuegoId": "948",
+            "ventasJP": "560"
+        },
+        {
+            "id": "949",
+            "videoJuegoId": "949",
+            "ventasJP": "0"
+        },
+        {
+            "id": "950",
+            "videoJuegoId": "950",
+            "ventasJP": "0"
+        },
+        {
+            "id": "951",
+            "videoJuegoId": "951",
+            "ventasJP": "1350"
+        },
+        {
+            "id": "952",
+            "videoJuegoId": "952",
+            "ventasJP": "110"
+        },
+        {
+            "id": "953",
+            "videoJuegoId": "953",
+            "ventasJP": "0"
+        },
+        {
+            "id": "954",
+            "videoJuegoId": "954",
+            "ventasJP": "210"
+        },
+        {
+            "id": "955",
+            "videoJuegoId": "955",
+            "ventasJP": "10"
+        },
+        {
+            "id": "956",
+            "videoJuegoId": "956",
+            "ventasJP": "0"
+        },
+        {
+            "id": "957",
+            "videoJuegoId": "957",
+            "ventasJP": "30"
+        },
+        {
+            "id": "958",
+            "videoJuegoId": "958",
+            "ventasJP": "80"
+        },
+        {
+            "id": "959",
+            "videoJuegoId": "959",
+            "ventasJP": "60"
+        },
+        {
+            "id": "960",
+            "videoJuegoId": "960",
+            "ventasJP": "70"
+        },
+        {
+            "id": "961",
+            "videoJuegoId": "961",
+            "ventasJP": "0"
+        },
+        {
+            "id": "962",
+            "videoJuegoId": "962",
+            "ventasJP": "0"
+        },
+        {
+            "id": "963",
+            "videoJuegoId": "963",
+            "ventasJP": "20"
+        },
+        {
+            "id": "964",
+            "videoJuegoId": "964",
+            "ventasJP": "1490"
+        },
+        {
+            "id": "965",
+            "videoJuegoId": "965",
+            "ventasJP": "60"
+        },
+        {
+            "id": "966",
+            "videoJuegoId": "966",
+            "ventasJP": "360"
+        },
+        {
+            "id": "967",
+            "videoJuegoId": "967",
+            "ventasJP": "30"
+        },
+        {
+            "id": "968",
+            "videoJuegoId": "968",
+            "ventasJP": "720"
+        },
+        {
+            "id": "969",
+            "videoJuegoId": "969",
+            "ventasJP": "1330"
+        },
+        {
+            "id": "970",
+            "videoJuegoId": "970",
+            "ventasJP": "1030"
+        },
+        {
+            "id": "971",
+            "videoJuegoId": "971",
+            "ventasJP": "240"
+        },
+        {
+            "id": "972",
+            "videoJuegoId": "972",
+            "ventasJP": "0"
+        },
+        {
+            "id": "973",
+            "videoJuegoId": "973",
+            "ventasJP": "0"
+        },
+        {
+            "id": "974",
+            "videoJuegoId": "974",
+            "ventasJP": "10"
+        },
+        {
+            "id": "975",
+            "videoJuegoId": "975",
+            "ventasJP": "140"
+        },
+        {
+            "id": "976",
+            "videoJuegoId": "976",
+            "ventasJP": "840"
+        },
+        {
+            "id": "977",
+            "videoJuegoId": "977",
+            "ventasJP": "0"
+        },
+        {
+            "id": "978",
+            "videoJuegoId": "978",
+            "ventasJP": "1090"
+        },
+        {
+            "id": "979",
+            "videoJuegoId": "979",
+            "ventasJP": "560"
+        },
+        {
+            "id": "980",
+            "videoJuegoId": "980",
+            "ventasJP": "200"
+        },
+        {
+            "id": "981",
+            "videoJuegoId": "981",
+            "ventasJP": "0"
+        },
+        {
+            "id": "982",
+            "videoJuegoId": "982",
+            "ventasJP": "400"
+        },
+        {
+            "id": "983",
+            "videoJuegoId": "983",
+            "ventasJP": "20"
+        },
+        {
+            "id": "984",
+            "videoJuegoId": "984",
+            "ventasJP": "0"
+        },
+        {
+            "id": "985",
+            "videoJuegoId": "985",
+            "ventasJP": "0"
+        },
+        {
+            "id": "986",
+            "videoJuegoId": "986",
+            "ventasJP": "0"
+        },
+        {
+            "id": "987",
+            "videoJuegoId": "987",
+            "ventasJP": "0"
+        },
+        {
+            "id": "988",
+            "videoJuegoId": "988",
+            "ventasJP": "0"
+        },
+        {
+            "id": "989",
+            "videoJuegoId": "989",
+            "ventasJP": "0"
+        },
+        {
+            "id": "990",
+            "videoJuegoId": "990",
+            "ventasJP": "20"
+        },
+        {
+            "id": "991",
+            "videoJuegoId": "991",
+            "ventasJP": "10"
+        },
+        {
+            "id": "992",
+            "videoJuegoId": "992",
+            "ventasJP": "40"
+        },
+        {
+            "id": "993",
+            "videoJuegoId": "993",
+            "ventasJP": "0"
+        },
+        {
+            "id": "994",
+            "videoJuegoId": "994",
+            "ventasJP": "910"
+        },
+        {
+            "id": "995",
+            "videoJuegoId": "995",
+            "ventasJP": "210"
+        },
+        {
+            "id": "996",
+            "videoJuegoId": "996",
+            "ventasJP": "800"
+        },
+        {
+            "id": "997",
+            "videoJuegoId": "997",
+            "ventasJP": "0"
+        },
+        {
+            "id": "998",
+            "videoJuegoId": "998",
+            "ventasJP": "530"
+        },
+        {
+            "id": "999",
+            "videoJuegoId": "999",
+            "ventasJP": "0"
+        },
+        {
+            "id": "1000",
+            "videoJuegoId": "1000",
+            "ventasJP": "0"
+        }
+    ]
+}

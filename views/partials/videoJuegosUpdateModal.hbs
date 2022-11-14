@@ -1,0 +1,62 @@
+<div>
+  <div class="modal fade" id="updateModal-{{juego.id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Actualizar datos de Juego</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+        </div>
+        <div class="modal-body">
+          <div class="container">
+            <form action="/videoJuegos/update" class="my-2" method="POST">
+              <input
+                type="hidden"
+                name="id"
+                value="{{juego.id}}"
+              >
+              <input
+                type="text"
+                placeholder="Nombre"
+                class="form-control my-2"
+                name="Nombre"
+                alue="{{juego.Nombre}}"
+              >
+              <input
+                type="text"
+                placeholder="Plataforma"
+                class="form-control my-2"
+                name="Plataforma"
+                alue="{{juego.Plataforma}}"
+              >
+              <input
+                type="text"
+                placeholder="Año"
+                class="form-control my-2"
+                name="Año"
+                alue="{{juego.Año}}"
+              >
+              <input
+                type="text"
+                placeholder="Genero"
+                class="form-control my-2"
+                name="Genero"
+                alue="{{juego.Genero}}"
+              >
+              <input
+                type="text"
+                placeholder="Editorial"
+                class="form-control my-2"
+                name="Editorial"
+                alue="{{juego.Editorial}}"
+              >
+              <button type="submit" class="btn btn-primary">Actulizar</button>
+            </form>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
