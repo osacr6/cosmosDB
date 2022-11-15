@@ -1,4 +1,6 @@
 // https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app#create-new-app
+// https://learn.microsoft.com/en-us/javascript/api/overview/azure/cosmos-readme?view=azure-node-latest#insert-items
+// https://learn.microsoft.com/en-us/azure/cosmos-db/index-overview
 // @ts-check
 const CosmosClient = require('@azure/cosmos').CosmosClient;
 const config = require('../config');
@@ -42,7 +44,7 @@ class videoJuegoModel {
       id: CONTAINER_ID
     });
     this.container = coResponse.container;
-    console.log('Setting up the container '+ CONTAINER_ID +' ...done!');
+    console.log('Setting up the container ' + CONTAINER_ID + ' ...done!');
 
     console.log('yeah-yeah! estamos ready.');
   }
@@ -60,32 +62,64 @@ class videoJuegoModel {
 
   async addItem(item) {
     console.log('Adding an item to the database')
-    item.date = Date.now()
-    const {
-      resource: doc
-    } = await this.container.items.create(item)
-    return doc
+    try {
+      item.id = (new Date().getTime()).toString(36);
+      console.log(item);
+      const {
+        resource: doc
+      } = await this.container.items.create(item)
+      return doc;
+    } catch (error) {
+      console.log("Theres an Error: ", error);
+      return null;
+    }
   }
 
-  async updateItem(itemId) {
-    console.log('Update an item in the database')
-    const doc = await this.getItem(itemId)
-    doc.completed = true
-
-    const {
-      resource: replaced
-    } = await this.container
-      .item(itemId, partitionKey)
-      .replace(doc)
-    return replaced
+  async updateItem(item) {
+    try {
+      console.log('Update an item in the database')
+      let doc = await this.getItem(item.id);
+      doc = {
+        ...doc,
+        ...item
+      };
+      const {
+        resource: replaced
+      } = await this.container
+        .item(item.id, partitionKey)
+        .replace(doc);
+      return replaced;
+    } catch (error) {
+      console.log("Theres an Error: ", error);
+      return null;
+    }
   }
 
   async getItem(itemId) {
-    console.log('Getting an item from the database')
-    const {
-      resource
-    } = await this.container.item(itemId, partitionKey).read()
-    return resource
+    try {
+      console.log('Getting an item from the database')
+      const {
+        resource
+      } = await this.container.item(itemId, partitionKey).read();
+      return resource;
+    } catch (error) {
+      console.log("Theres an Error: ", error);
+      return null;
+    }
+  }
+
+  async deleteItem(itemId) {
+    try {
+      console.log('Delete an item from the database')
+      const {
+        resource
+      } = await this.container.item(itemId, partitionKey).delete();
+      console.log(resource);
+      return resource;
+    } catch (error) {
+      console.log("Theres an Error: ", error);
+      return null;
+    }
   }
 }
 

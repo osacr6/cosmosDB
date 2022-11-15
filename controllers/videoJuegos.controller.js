@@ -19,7 +19,8 @@ class videoJuegoController {
   }
 
   async addVideoJuego(data, res) {
-    await this.videoJuegos.addItem(data);
+    const item = await this.videoJuegos.addItem(data);
+    console.log(item);
     res({
       status: 200, 
       message: 'OK'
@@ -27,8 +28,17 @@ class videoJuegoController {
   }
 
   async updateVideoJuego(data, res) {
-    await this.videoJuegos.updateItem(task);
+    const item = await this.videoJuegos.updateItem(data);
+    console.log(item);
+    res({
+      status: 200, 
+      message: 'OK'
+    });
+  }
 
+  async deleteVideoJuego(id, res) {
+    const item = await this.videoJuegos.deleteItem(id);
+    console.log(item);
     res({
       status: 200, 
       message: 'OK'
