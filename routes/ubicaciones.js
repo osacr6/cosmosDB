@@ -6,12 +6,16 @@ const controller = new Ubicaciones();
 
 /* GET Ventas page. */
 router.get('/', function(req, res, next) {
+  controller.listUbicaciones(({
+    data
+  }) => {
+    console.log(data);
     res.render('ubicaciones', {
       title: 'Ubicaciones',
-      videoJuegos: null
+      ubicaciones: data
     });
+  })
 });
-
 router.get('/list', function(req, res, next) {
   controller.listUbicaciones(({
     data

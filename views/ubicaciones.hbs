@@ -11,7 +11,7 @@
   <body>
     {{> navegacion }}
     <div class="container mt-2">
-      <h1>Video Juegos</h1>
+      <h1>{{title}}</h1>
       <hr>
       <div class="btn-group" role="group">
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">Agregar Video Juego</button>
@@ -23,24 +23,16 @@
           <thead>
             <tr>
               <th scope="col">Nombre</th>
-              <th scope="col">Plataforma</th>
-              <th scope="col">Año</th>
-              <th scope="col">Genero</th>
-              <th scope="col">Editorial</th>
               <th scope="col">Acciones</th>
             </tr>
           </thead>
           <tbody>
-            {{#each videoJuegos}}
+            {{#each ubicaciones}}
             <tr>
               <td>{{this.Nombre}}</td>
-              <td>{{this.Plataforma}}</td>
-              <td>{{this.Año}}</td>
-              <td>{{this.Genero}}</td>
-              <td>{{this.Editorial}}</td>
               <td>
                 <div class="btn-group" role="group">
-                  <a class="btn btn-secondary" href="/videoJuegos/delete/{{this.id}}">Eliminar</a>
+                  <a class="btn btn-secondary" href="/ubicaciones/delete/{{this.id}}">Eliminar</a>
                   <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#updateModal-{{this.id}}">Actualizar</button>
                   {{> videoJuegosUpdateModal juego=this }}
                 </div>
