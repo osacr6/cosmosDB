@@ -1,19 +1,20 @@
-// https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app#create-new-app
+// https://www.npmjs.com/package/@azure/cosmos/v/3.17.1
 // https://learn.microsoft.com/en-us/javascript/api/overview/azure/cosmos-readme?view=azure-node-latest#insert-items
+// https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app#create-new-app
 // https://learn.microsoft.com/en-us/azure/cosmos-db/index-overview
 // @ts-check
 const CosmosClient = require('@azure/cosmos').CosmosClient;
 const config = require('../config');
-const CONTAINER_ID = 'videoJuegos';
 
 // For simplicity we'll set a constant partition key
-const partitionKey = undefined;
+const partitionKey = 'id';
 
-class videoJuegoModel {
+class Model {
   /**
    * Manages reading, adding, and updating in Azure Cosmos DB
    */
-  constructor() {
+  constructor(containerId) {
+    this.containerId = containerId;
     this.container = null;
 
     this.init(err => {
@@ -29,7 +30,6 @@ class videoJuegoModel {
   }
 
   async init() {
-    console.log('Setting up the database...');
     const cosmosClient = new CosmosClient({
       endpoint: config.host,
       key: config.authKey
@@ -38,15 +38,11 @@ class videoJuegoModel {
       id: config.databaseId
     });
     const database = dbResponse.database;
-    console.log('Setting up the database...done!');
-    console.log('Setting up the container...');
     const coResponse = await database.containers.createIfNotExists({
-      id: CONTAINER_ID
+      id: this.containerId
     });
     this.container = coResponse.container;
-    console.log('Setting up the container ' + CONTAINER_ID + ' ...done!');
-
-    console.log('yeah-yeah! estamos ready.');
+    console.log('Setting up the container ' + this.containerId + ' ...done!');
   }
 
   async find(querySpec) {
@@ -110,11 +106,13 @@ class videoJuegoModel {
 
   async deleteItem(itemId) {
     try {
-      console.log('Delete an item from the database')
-      const {
-        resource
-      } = await this.container.item(itemId, partitionKey).delete();
-      console.log(resource);
+      console.log('Delete an item from the database');
+      //const readResources = await this.container.item(itemId, partitionKey).read();
+      //console.log("readResources", readResources);
+      //const deleteResource = await this.container.item(itemId, partitionKey).delete();
+      //console.log("deleteResource", deleteResource);
+      const queryResources = await this.container.items.query("DELETE * FROM root v where v.id = 'lahsjuyl'").fetchAll();
+      console.log("queryResources", queryResources);
       return resource;
     } catch (error) {
       console.log("Theres an Error: ", error);
@@ -123,4 +121,4 @@ class videoJuegoModel {
   }
 }
 
-module.exports = videoJuegoModel;
+module.exports = Model;

@@ -16,5 +16,18 @@ Ejecute el proyecto
 ```
 npm start
 ```
-el proyecto se deberá de ejecutar de manera locan en el URl http://localhost:3000
+El proyecto se deberá de ejecutar de manera locan en el URl http://localhost:3000
 
+
+Querys
+```
+SELECT * FROM videoJuegos v WHERE v.Año = "2022"
+
+
+SELECT c.givenName
+    FROM Families f
+    JOIN c IN f.children
+    WHERE f.id = 'WakefieldFamily'
+    ORDER BY f.address.city ASC
+
+```

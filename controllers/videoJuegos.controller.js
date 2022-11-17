@@ -1,11 +1,8 @@
-const videoJuegoModel = require("../models/videoJuego.model");
+const Model = require("../models/model");
 
-class videoJuegoController {
-  /**
-   * Handles the various APIs for displaying and managing
-   */
+class videoJuegosController {
   constructor() {
-    this.videoJuegos = new videoJuegoModel();
+    this.videoJuegos = new Model('videoJuegos');
   }
 
   async listVideoJuegos(res) {
@@ -46,4 +43,4 @@ class videoJuegoController {
   }
 }
 
-module.exports = videoJuegoController;
+module.exports = videoJuegosController;

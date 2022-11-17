@@ -1,11 +1,19 @@
 var express = require('express');
 var router = express.Router();
 
-const VideoJuegos = require('../controllers/videoJuegos.controller');
-const controller = new VideoJuegos();
+const Ubicaciones = require('../controllers/ubicaciones.controller');
+const controller = new Ubicaciones();
+
+/* GET Ventas page. */
+router.get('/', function(req, res, next) {
+    res.render('ubicaciones', {
+      title: 'Ubicaciones',
+      videoJuegos: null
+    });
+});
 
 router.get('/list', function(req, res, next) {
-  controller.listVideoJuegos(({
+  controller.listUbicaciones(({
     data
   }) => {
     res.setHeader('Content-Type', 'application/json');
@@ -15,7 +23,7 @@ router.get('/list', function(req, res, next) {
 
 router.post('/create', function(req, res, next) {
   console.log(req.body);
-  controller.addVideoJuego(req.body, ({status, message}) => {
+  controller.addUbicacion(req.body, ({status, message}) => {
     console.log(status, message);
     res.redirect('/');
   });
@@ -23,7 +31,7 @@ router.post('/create', function(req, res, next) {
 
 router.post('/update', function(req, res, next) {
   console.log(req.body);
-  controller.updateVideoJuego(req.body, ({status, message}) => {
+  controller.updateUbicacion(req.body, ({status, message}) => {
     console.log(status, message)
     res.redirect('/');
   });
@@ -32,7 +40,7 @@ router.post('/update', function(req, res, next) {
 router.get('/delete/:id', function(req, res, next) {
   const id = req.params.id;
   console.log('delete: ', id)
-  controller.deleteVideoJuego(id, ({status, message}) => {
+  controller.deleteUbicacion(id, ({status, message}) => {
     console.log(status, message)
     res.redirect('/');
   });

@@ -25,6 +25,8 @@ app.use(express.static(path.join(__dirname, 'public')))
 // definicion de rutas
 app.use('/', require('./routes/index'));
 app.use('/videoJuegos', require('./routes/videoJuegos'));
+app.use('/ubicaciones', require('./routes/ubicaciones'));
+app.use('/ventas', require('./routes/ventas'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) { 
