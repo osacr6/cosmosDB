@@ -6,10 +6,14 @@ const controller = new Ventas();
 
 /* GET Ventas page. */
 router.get('/', function(req, res, next) {
+  controller.listVentas(({
+    data
+  }) => {
     res.render('ventas', {
       title: 'Ventas',
-      videoJuegos: null
+      ventas: data
     });
+  })
 });
 
 router.get('/list', function(req, res, next) {
@@ -23,7 +27,10 @@ router.get('/list', function(req, res, next) {
 
 router.post('/create', function(req, res, next) {
   console.log(req.body);
-  controller.addVenta(req.body, ({status, message}) => {
+  controller.addVenta(req.body, ({
+    status,
+    message
+  }) => {
     console.log(status, message);
     res.redirect('/');
   });
@@ -31,7 +38,10 @@ router.post('/create', function(req, res, next) {
 
 router.post('/update', function(req, res, next) {
   console.log(req.body);
-  controller.updateVenta(req.body, ({status, message}) => {
+  controller.updateVenta(req.body, ({
+    status,
+    message
+  }) => {
     console.log(status, message)
     res.redirect('/');
   });
@@ -40,7 +50,10 @@ router.post('/update', function(req, res, next) {
 router.get('/delete/:id', function(req, res, next) {
   const id = req.params.id;
   console.log('delete: ', id)
-  controller.deleteVenta(id, ({status, message}) => {
+  controller.deleteVenta(id, ({
+    status,
+    message
+  }) => {
     console.log(status, message)
     res.redirect('/');
   });

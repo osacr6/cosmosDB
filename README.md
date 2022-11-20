@@ -21,13 +21,6 @@ El proyecto se deberá de ejecutar de manera locan en el URl http://localhost:30
 
 Querys
 ```
-SELECT * FROM videoJuegos v WHERE v.Año = "2022"
-
-
-SELECT c.givenName
-    FROM Families f
-    JOIN c IN f.children
-    WHERE f.id = 'WakefieldFamily'
-    ORDER BY f.address.city ASC
-
+SELECT * FROM videoJuegos
+SELECT * FROM videoJuegos vj WHERE vj.Plataforma = "Wii"
 ```

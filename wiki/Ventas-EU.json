@@ -1,0 +1,9001 @@
+﻿[{
+  "id": "1001",
+  "videoJuegoId": "1",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "29020"
+}, {
+  "id": "1002",
+  "videoJuegoId": "2",
+  "ubicacionId": "2",
+  "Año": "1985",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "3580"
+}, {
+  "id": "1003",
+  "videoJuegoId": "3",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "12880"
+}, {
+  "id": "1004",
+  "videoJuegoId": "4",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "11010"
+}, {
+  "id": "1005",
+  "videoJuegoId": "5",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "8890"
+}, {
+  "id": "1006",
+  "videoJuegoId": "6",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "2260"
+}, {
+  "id": "1007",
+  "videoJuegoId": "7",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "9230"
+}, {
+  "id": "1008",
+  "videoJuegoId": "8",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "9200"
+}, {
+  "id": "1009",
+  "videoJuegoId": "9",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "7060"
+}, {
+  "id": "1010",
+  "videoJuegoId": "10",
+  "ubicacionId": "2",
+  "Año": "1984",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "630"
+}, {
+  "id": "1011",
+  "videoJuegoId": "11",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "11000"
+}, {
+  "id": "1012",
+  "videoJuegoId": "12",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "7570"
+}, {
+  "id": "1013",
+  "videoJuegoId": "13",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "6180"
+}, {
+  "id": "1014",
+  "videoJuegoId": "14",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "8030"
+}, {
+  "id": "1015",
+  "videoJuegoId": "15",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "8590"
+}, {
+  "id": "1016",
+  "videoJuegoId": "16",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "4940"
+}, {
+  "id": "1017",
+  "videoJuegoId": "17",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "9270"
+}, {
+  "id": "1018",
+  "videoJuegoId": "18",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "400"
+}, {
+  "id": "1019",
+  "videoJuegoId": "19",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "3750"
+}, {
+  "id": "1020",
+  "videoJuegoId": "20",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "9260"
+}, {
+  "id": "1021",
+  "videoJuegoId": "21",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "4520"
+}, {
+  "id": "1022",
+  "videoJuegoId": "22",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "2710"
+}, {
+  "id": "1023",
+  "videoJuegoId": "23",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "3440"
+}, {
+  "id": "1024",
+  "videoJuegoId": "24",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "5310"
+}, {
+  "id": "1025",
+  "videoJuegoId": "25",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "5490"
+}, {
+  "id": "1026",
+  "videoJuegoId": "26",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "3900"
+}, {
+  "id": "1027",
+  "videoJuegoId": "27",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "3280"
+}, {
+  "id": "1028",
+  "videoJuegoId": "28",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "5360"
+}, {
+  "id": "1029",
+  "videoJuegoId": "29",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "5090"
+}, {
+  "id": "1030",
+  "videoJuegoId": "30",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "4280"
+}, {
+  "id": "1031",
+  "videoJuegoId": "31",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "5040"
+}, {
+  "id": "1032",
+  "videoJuegoId": "32",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "3730"
+}, {
+  "id": "1033",
+  "videoJuegoId": "33",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "4050"
+}, {
+  "id": "1034",
+  "videoJuegoId": "34",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "5810"
+}, {
+  "id": "1035",
+  "videoJuegoId": "35",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "5880"
+}, {
+  "id": "1036",
+  "videoJuegoId": "36",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "4300"
+}, {
+  "id": "1037",
+  "videoJuegoId": "37",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "3630"
+}, {
+  "id": "1038",
+  "videoJuegoId": "38",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "5820"
+}, {
+  "id": "1039",
+  "videoJuegoId": "39",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "4510"
+}, {
+  "id": "1040",
+  "videoJuegoId": "40",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "2610"
+}, {
+  "id": "1041",
+  "videoJuegoId": "41",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "4440"
+}, {
+  "id": "1042",
+  "videoJuegoId": "42",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "3520"
+}, {
+  "id": "1043",
+  "videoJuegoId": "43",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "3910"
+}, {
+  "id": "1044",
+  "videoJuegoId": "44",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "2830"
+}, {
+  "id": "1045",
+  "videoJuegoId": "45",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "5810"
+}, {
+  "id": "1046",
+  "videoJuegoId": "46",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "2770"
+}, {
+  "id": "1047",
+  "videoJuegoId": "47",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "2850"
+}, {
+  "id": "1048",
+  "videoJuegoId": "48",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "10"
+}, {
+  "id": "1049",
+  "videoJuegoId": "49",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "3400"
+}, {
+  "id": "1050",
+  "videoJuegoId": "50",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "3370"
+}, {
+  "id": "1051",
+  "videoJuegoId": "51",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2040"
+}, {
+  "id": "1052",
+  "videoJuegoId": "52",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "3100"
+}, {
+  "id": "1053",
+  "videoJuegoId": "53",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "3870"
+}, {
+  "id": "1054",
+  "videoJuegoId": "54",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "2990"
+}, {
+  "id": "1055",
+  "videoJuegoId": "55",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "4880"
+}, {
+  "id": "1056",
+  "videoJuegoId": "56",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "3690"
+}, {
+  "id": "1057",
+  "videoJuegoId": "57",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "3760"
+}, {
+  "id": "1058",
+  "videoJuegoId": "58",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "2150"
+}, {
+  "id": "1059",
+  "videoJuegoId": "59",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "2650"
+}, {
+  "id": "1060",
+  "videoJuegoId": "60",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "3110"
+}, {
+  "id": "1061",
+  "videoJuegoId": "61",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "3150"
+}, {
+  "id": "1062",
+  "videoJuegoId": "62",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "2630"
+}, {
+  "id": "1063",
+  "videoJuegoId": "63",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1980"
+}, {
+  "id": "1064",
+  "videoJuegoId": "64",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1940"
+}, {
+  "id": "1065",
+  "videoJuegoId": "65",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "3070"
+}, {
+  "id": "1066",
+  "videoJuegoId": "66",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "2360"
+}, {
+  "id": "1067",
+  "videoJuegoId": "67",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2470"
+}, {
+  "id": "1068",
+  "videoJuegoId": "68",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "3730"
+}, {
+  "id": "1069",
+  "videoJuegoId": "69",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "2890"
+}, {
+  "id": "1070",
+  "videoJuegoId": "70",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "3420"
+}, {
+  "id": "1071",
+  "videoJuegoId": "71",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "2380"
+}, {
+  "id": "1072",
+  "videoJuegoId": "72",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1710"
+}, {
+  "id": "1073",
+  "videoJuegoId": "73",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "2830"
+}, {
+  "id": "1074",
+  "videoJuegoId": "74",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "2320"
+}, {
+  "id": "1075",
+  "videoJuegoId": "75",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1880"
+}, {
+  "id": "1076",
+  "videoJuegoId": "76",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "2860"
+}, {
+  "id": "1077",
+  "videoJuegoId": "77",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1240"
+}, {
+  "id": "1078",
+  "videoJuegoId": "78",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1530"
+}, {
+  "id": "1079",
+  "videoJuegoId": "79",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "3530"
+}, {
+  "id": "1080",
+  "videoJuegoId": "80",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "6060"
+}, {
+  "id": "1081",
+  "videoJuegoId": "81",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "2300"
+}, {
+  "id": "1082",
+  "videoJuegoId": "82",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1860"
+}, {
+  "id": "1083",
+  "videoJuegoId": "83",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "5050"
+}, {
+  "id": "1084",
+  "videoJuegoId": "84",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "6420"
+}, {
+  "id": "1085",
+  "videoJuegoId": "85",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "2010"
+}, {
+  "id": "1086",
+  "videoJuegoId": "86",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "3900"
+}, {
+  "id": "1087",
+  "videoJuegoId": "87",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "2070"
+}, {
+  "id": "1088",
+  "videoJuegoId": "88",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1720"
+}, {
+  "id": "1089",
+  "videoJuegoId": "89",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1780"
+}, {
+  "id": "1090",
+  "videoJuegoId": "90",
+  "ubicacionId": "2",
+  "Año": "1982",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "450"
+}, {
+  "id": "1091",
+  "videoJuegoId": "91",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2830"
+}, {
+  "id": "1092",
+  "videoJuegoId": "92",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "2420"
+}, {
+  "id": "1093",
+  "videoJuegoId": "93",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "3290"
+}, {
+  "id": "1094",
+  "videoJuegoId": "94",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1890"
+}, {
+  "id": "1095",
+  "videoJuegoId": "95",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "3300"
+}, {
+  "id": "1096",
+  "videoJuegoId": "96",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "2170"
+}, {
+  "id": "1097",
+  "videoJuegoId": "97",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1180"
+}, {
+  "id": "1098",
+  "videoJuegoId": "98",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1350"
+}, {
+  "id": "1099",
+  "videoJuegoId": "99",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1900"
+}, {
+  "id": "1100",
+  "videoJuegoId": "100",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "2130"
+}, {
+  "id": "1101",
+  "videoJuegoId": "101",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "2190"
+}, {
+  "id": "1102",
+  "videoJuegoId": "102",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "2090"
+}, {
+  "id": "1103",
+  "videoJuegoId": "103",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "3030"
+}, {
+  "id": "1104",
+  "videoJuegoId": "104",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "2930"
+}, {
+  "id": "1105",
+  "videoJuegoId": "105",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "2830"
+}, {
+  "id": "1106",
+  "videoJuegoId": "106",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "2220"
+}, {
+  "id": "1107",
+  "videoJuegoId": "107",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1750"
+}, {
+  "id": "1108",
+  "videoJuegoId": "108",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1040"
+}, {
+  "id": "1109",
+  "videoJuegoId": "109",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "2070"
+}, {
+  "id": "1110",
+  "videoJuegoId": "110",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "3150"
+}, {
+  "id": "1111",
+  "videoJuegoId": "111",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1770"
+}, {
+  "id": "1112",
+  "videoJuegoId": "112",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "2210"
+}, {
+  "id": "1113",
+  "videoJuegoId": "113",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "3020"
+}, {
+  "id": "1114",
+  "videoJuegoId": "114",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "4320"
+}, {
+  "id": "1115",
+  "videoJuegoId": "115",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2750"
+}, {
+  "id": "1116",
+  "videoJuegoId": "116",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "2800"
+}, {
+  "id": "1117",
+  "videoJuegoId": "117",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "2350"
+}, {
+  "id": "1118",
+  "videoJuegoId": "118",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "2640"
+}, {
+  "id": "1119",
+  "videoJuegoId": "119",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1920"
+}, {
+  "id": "1120",
+  "videoJuegoId": "120",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "2250"
+}, {
+  "id": "1121",
+  "videoJuegoId": "121",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "2300"
+}, {
+  "id": "1122",
+  "videoJuegoId": "122",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "4320"
+}, {
+  "id": "1123",
+  "videoJuegoId": "123",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2780"
+}, {
+  "id": "1124",
+  "videoJuegoId": "124",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "2610"
+}, {
+  "id": "1125",
+  "videoJuegoId": "125",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1840"
+}, {
+  "id": "1126",
+  "videoJuegoId": "126",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "4290"
+}, {
+  "id": "1127",
+  "videoJuegoId": "127",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "2710"
+}, {
+  "id": "1128",
+  "videoJuegoId": "128",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "930"
+}, {
+  "id": "1129",
+  "videoJuegoId": "129",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "2560"
+}, {
+  "id": "1130",
+  "videoJuegoId": "130",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1300"
+}, {
+  "id": "1131",
+  "videoJuegoId": "131",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1580"
+}, {
+  "id": "1132",
+  "videoJuegoId": "132",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1200"
+}, {
+  "id": "1133",
+  "videoJuegoId": "133",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1560"
+}, {
+  "id": "1134",
+  "videoJuegoId": "134",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1350"
+}, {
+  "id": "1135",
+  "videoJuegoId": "135",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1970"
+}, {
+  "id": "1136",
+  "videoJuegoId": "136",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1260"
+}, {
+  "id": "1137",
+  "videoJuegoId": "137",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "830"
+}, {
+  "id": "1138",
+  "videoJuegoId": "138",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "6210"
+}, {
+  "id": "1139",
+  "videoJuegoId": "139",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2800"
+}, {
+  "id": "1140",
+  "videoJuegoId": "140",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1780"
+}, {
+  "id": "1141",
+  "videoJuegoId": "141",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1620"
+}, {
+  "id": "1142",
+  "videoJuegoId": "142",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1900"
+}, {
+  "id": "1143",
+  "videoJuegoId": "143",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "2010"
+}, {
+  "id": "1144",
+  "videoJuegoId": "144",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1200"
+}, {
+  "id": "1145",
+  "videoJuegoId": "145",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1830"
+}, {
+  "id": "1146",
+  "videoJuegoId": "146",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1740"
+}, {
+  "id": "1147",
+  "videoJuegoId": "147",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2280"
+}, {
+  "id": "1148",
+  "videoJuegoId": "148",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "0"
+}, {
+  "id": "1149",
+  "videoJuegoId": "149",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "2050"
+}, {
+  "id": "1150",
+  "videoJuegoId": "150",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "690"
+}, {
+  "id": "1151",
+  "videoJuegoId": "151",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1630"
+}, {
+  "id": "1152",
+  "videoJuegoId": "152",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1470"
+}, {
+  "id": "1153",
+  "videoJuegoId": "153",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1890"
+}, {
+  "id": "1154",
+  "videoJuegoId": "154",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1940"
+}, {
+  "id": "1155",
+  "videoJuegoId": "155",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "2050"
+}, {
+  "id": "1156",
+  "videoJuegoId": "156",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "690"
+}, {
+  "id": "1157",
+  "videoJuegoId": "157",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1950"
+}, {
+  "id": "1158",
+  "videoJuegoId": "158",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "600"
+}, {
+  "id": "1159",
+  "videoJuegoId": "159",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1650"
+}, {
+  "id": "1160",
+  "videoJuegoId": "160",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1910"
+}, {
+  "id": "1161",
+  "videoJuegoId": "161",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1920"
+}, {
+  "id": "1162",
+  "videoJuegoId": "162",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "570"
+}, {
+  "id": "1163",
+  "videoJuegoId": "163",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1240"
+}, {
+  "id": "1164",
+  "videoJuegoId": "164",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1640"
+}, {
+  "id": "1165",
+  "videoJuegoId": "165",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1110"
+}, {
+  "id": "1166",
+  "videoJuegoId": "166",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1240"
+}, {
+  "id": "1167",
+  "videoJuegoId": "167",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1870"
+}, {
+  "id": "1168",
+  "videoJuegoId": "168",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "2290"
+}, {
+  "id": "1169",
+  "videoJuegoId": "169",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "2510"
+}, {
+  "id": "1170",
+  "videoJuegoId": "170",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1240"
+}, {
+  "id": "1171",
+  "videoJuegoId": "171",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "960"
+}, {
+  "id": "1172",
+  "videoJuegoId": "172",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1120"
+}, {
+  "id": "1173",
+  "videoJuegoId": "173",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "770"
+}, {
+  "id": "1174",
+  "videoJuegoId": "174",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1710"
+}, {
+  "id": "1175",
+  "videoJuegoId": "175",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1080"
+}, {
+  "id": "1176",
+  "videoJuegoId": "176",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "790"
+}, {
+  "id": "1177",
+  "videoJuegoId": "177",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1560"
+}, {
+  "id": "1178",
+  "videoJuegoId": "178",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "2480"
+}, {
+  "id": "1179",
+  "videoJuegoId": "179",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "2460"
+}, {
+  "id": "1180",
+  "videoJuegoId": "180",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "750"
+}, {
+  "id": "1181",
+  "videoJuegoId": "181",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1250"
+}, {
+  "id": "1182",
+  "videoJuegoId": "182",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "2150"
+}, {
+  "id": "1183",
+  "videoJuegoId": "183",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "980"
+}, {
+  "id": "1184",
+  "videoJuegoId": "184",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1300"
+}, {
+  "id": "1185",
+  "videoJuegoId": "185",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "3480"
+}, {
+  "id": "1186",
+  "videoJuegoId": "186",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1830"
+}, {
+  "id": "1187",
+  "videoJuegoId": "187",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "740"
+}, {
+  "id": "1188",
+  "videoJuegoId": "188",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "2020"
+}, {
+  "id": "1189",
+  "videoJuegoId": "189",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "2480"
+}, {
+  "id": "1190",
+  "videoJuegoId": "190",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "610"
+}, {
+  "id": "1191",
+  "videoJuegoId": "191",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "2230"
+}, {
+  "id": "1192",
+  "videoJuegoId": "192",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1110"
+}, {
+  "id": "1193",
+  "videoJuegoId": "193",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1530"
+}, {
+  "id": "1194",
+  "videoJuegoId": "194",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1690"
+}, {
+  "id": "1195",
+  "videoJuegoId": "195",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "630"
+}, {
+  "id": "1196",
+  "videoJuegoId": "196",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1430"
+}, {
+  "id": "1197",
+  "videoJuegoId": "197",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "2020"
+}, {
+  "id": "1198",
+  "videoJuegoId": "198",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "3290"
+}, {
+  "id": "1199",
+  "videoJuegoId": "199",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "2010"
+}, {
+  "id": "1200",
+  "videoJuegoId": "200",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1300"
+}, {
+  "id": "1201",
+  "videoJuegoId": "201",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1160"
+}, {
+  "id": "1202",
+  "videoJuegoId": "202",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1380"
+}, {
+  "id": "1203",
+  "videoJuegoId": "203",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1060"
+}, {
+  "id": "1204",
+  "videoJuegoId": "204",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1890"
+}, {
+  "id": "1205",
+  "videoJuegoId": "205",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1360"
+}, {
+  "id": "1206",
+  "videoJuegoId": "206",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1180"
+}, {
+  "id": "1207",
+  "videoJuegoId": "207",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "10"
+}, {
+  "id": "1208",
+  "videoJuegoId": "208",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1200"
+}, {
+  "id": "1209",
+  "videoJuegoId": "209",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1030"
+}, {
+  "id": "1210",
+  "videoJuegoId": "210",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1730"
+}, {
+  "id": "1211",
+  "videoJuegoId": "211",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "260"
+}, {
+  "id": "1212",
+  "videoJuegoId": "212",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1540"
+}, {
+  "id": "1213",
+  "videoJuegoId": "213",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "990"
+}, {
+  "id": "1214",
+  "videoJuegoId": "214",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "0"
+}, {
+  "id": "1215",
+  "videoJuegoId": "215",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "600"
+}, {
+  "id": "1216",
+  "videoJuegoId": "216",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1360"
+}, {
+  "id": "1217",
+  "videoJuegoId": "217",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "2000"
+}, {
+  "id": "1218",
+  "videoJuegoId": "218",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1680"
+}, {
+  "id": "1219",
+  "videoJuegoId": "219",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "3140"
+}, {
+  "id": "1220",
+  "videoJuegoId": "220",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1570"
+}, {
+  "id": "1221",
+  "videoJuegoId": "221",
+  "ubicacionId": "2",
+  "Año": "2016",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "3750"
+}, {
+  "id": "1222",
+  "videoJuegoId": "222",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1310"
+}, {
+  "id": "1223",
+  "videoJuegoId": "223",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "2100"
+}, {
+  "id": "1224",
+  "videoJuegoId": "224",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "2190"
+}, {
+  "id": "1225",
+  "videoJuegoId": "225",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1410"
+}, {
+  "id": "1226",
+  "videoJuegoId": "226",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1120"
+}, {
+  "id": "1227",
+  "videoJuegoId": "227",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1950"
+}, {
+  "id": "1228",
+  "videoJuegoId": "228",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "2040"
+}, {
+  "id": "1229",
+  "videoJuegoId": "229",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1970"
+}, {
+  "id": "1230",
+  "videoJuegoId": "230",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1120"
+}, {
+  "id": "1231",
+  "videoJuegoId": "231",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "910"
+}, {
+  "id": "1232",
+  "videoJuegoId": "232",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "990"
+}, {
+  "id": "1233",
+  "videoJuegoId": "233",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1990"
+}, {
+  "id": "1234",
+  "videoJuegoId": "234",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1390"
+}, {
+  "id": "1235",
+  "videoJuegoId": "235",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1150"
+}, {
+  "id": "1236",
+  "videoJuegoId": "236",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1870"
+}, {
+  "id": "1237",
+  "videoJuegoId": "237",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "260"
+}, {
+  "id": "1238",
+  "videoJuegoId": "238",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "920"
+}, {
+  "id": "1239",
+  "videoJuegoId": "239",
+  "ubicacionId": "2",
+  "Año": "1981",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "240"
+}, {
+  "id": "1240",
+  "videoJuegoId": "240",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "240"
+}, {
+  "id": "1241",
+  "videoJuegoId": "241",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1510"
+}, {
+  "id": "1242",
+  "videoJuegoId": "242",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "140"
+}, {
+  "id": "1243",
+  "videoJuegoId": "243",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1690"
+}, {
+  "id": "1244",
+  "videoJuegoId": "244",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1290"
+}, {
+  "id": "1245",
+  "videoJuegoId": "245",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1940"
+}, {
+  "id": "1246",
+  "videoJuegoId": "246",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1110"
+}, {
+  "id": "1247",
+  "videoJuegoId": "247",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1350"
+}, {
+  "id": "1248",
+  "videoJuegoId": "248",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1290"
+}, {
+  "id": "1249",
+  "videoJuegoId": "249",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "2390"
+}, {
+  "id": "1250",
+  "videoJuegoId": "250",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1050"
+}, {
+  "id": "1251",
+  "videoJuegoId": "251",
+  "ubicacionId": "2",
+  "Año": "1987",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "500"
+}, {
+  "id": "1252",
+  "videoJuegoId": "252",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1790"
+}, {
+  "id": "1253",
+  "videoJuegoId": "253",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1730"
+}, {
+  "id": "1254",
+  "videoJuegoId": "254",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "910"
+}, {
+  "id": "1255",
+  "videoJuegoId": "255",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "580"
+}, {
+  "id": "1256",
+  "videoJuegoId": "256",
+  "ubicacionId": "2",
+  "Año": "1980",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "260"
+}, {
+  "id": "1257",
+  "videoJuegoId": "257",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1270"
+}, {
+  "id": "1258",
+  "videoJuegoId": "258",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "2930"
+}, {
+  "id": "1259",
+  "videoJuegoId": "259",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1180"
+}, {
+  "id": "1260",
+  "videoJuegoId": "260",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1200"
+}, {
+  "id": "1261",
+  "videoJuegoId": "261",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1340"
+}, {
+  "id": "1262",
+  "videoJuegoId": "262",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1110"
+}, {
+  "id": "1263",
+  "videoJuegoId": "263",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1110"
+}, {
+  "id": "1264",
+  "videoJuegoId": "264",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "2020"
+}, {
+  "id": "1265",
+  "videoJuegoId": "265",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "0"
+}, {
+  "id": "1266",
+  "videoJuegoId": "266",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1020"
+}, {
+  "id": "1267",
+  "videoJuegoId": "267",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2270"
+}, {
+  "id": "1268",
+  "videoJuegoId": "268",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "2550"
+}, {
+  "id": "1269",
+  "videoJuegoId": "269",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1270"
+}, {
+  "id": "1270",
+  "videoJuegoId": "270",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "2300"
+}, {
+  "id": "1271",
+  "videoJuegoId": "271",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1830"
+}, {
+  "id": "1272",
+  "videoJuegoId": "272",
+  "ubicacionId": "2",
+  "Año": "2016",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "2070"
+}, {
+  "id": "1273",
+  "videoJuegoId": "273",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1060"
+}, {
+  "id": "1274",
+  "videoJuegoId": "274",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1470"
+}, {
+  "id": "1275",
+  "videoJuegoId": "275",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "2790"
+}, {
+  "id": "1276",
+  "videoJuegoId": "276",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "440"
+}, {
+  "id": "1277",
+  "videoJuegoId": "277",
+  "ubicacionId": "2",
+  "Año": "1984",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "480"
+}, {
+  "id": "1278",
+  "videoJuegoId": "278",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "270"
+}, {
+  "id": "1279",
+  "videoJuegoId": "279",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "210"
+}, {
+  "id": "1280",
+  "videoJuegoId": "280",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1860"
+}, {
+  "id": "1281",
+  "videoJuegoId": "281",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "610"
+}, {
+  "id": "1282",
+  "videoJuegoId": "282",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "0"
+}, {
+  "id": "1283",
+  "videoJuegoId": "283",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2480"
+}, {
+  "id": "1284",
+  "videoJuegoId": "284",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "510"
+}, {
+  "id": "1285",
+  "videoJuegoId": "285",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1500"
+}, {
+  "id": "1286",
+  "videoJuegoId": "286",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1200"
+}, {
+  "id": "1287",
+  "videoJuegoId": "287",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1520"
+}, {
+  "id": "1288",
+  "videoJuegoId": "288",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1260"
+}, {
+  "id": "1289",
+  "videoJuegoId": "289",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1060"
+}, {
+  "id": "1290",
+  "videoJuegoId": "290",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "40"
+}, {
+  "id": "1291",
+  "videoJuegoId": "291",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2260"
+}, {
+  "id": "1292",
+  "videoJuegoId": "292",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1280"
+}, {
+  "id": "1293",
+  "videoJuegoId": "293",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1550"
+}, {
+  "id": "1294",
+  "videoJuegoId": "294",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1510"
+}, {
+  "id": "1295",
+  "videoJuegoId": "295",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "580"
+}, {
+  "id": "1296",
+  "videoJuegoId": "296",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "2120"
+}, {
+  "id": "1297",
+  "videoJuegoId": "297",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1870"
+}, {
+  "id": "1298",
+  "videoJuegoId": "298",
+  "ubicacionId": "2",
+  "Año": "1984",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "280"
+}, {
+  "id": "1299",
+  "videoJuegoId": "299",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1200"
+}, {
+  "id": "1300",
+  "videoJuegoId": "300",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1780"
+}, {
+  "id": "1301",
+  "videoJuegoId": "301",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "890"
+}, {
+  "id": "1302",
+  "videoJuegoId": "302",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1350"
+}, {
+  "id": "1303",
+  "videoJuegoId": "303",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1360"
+}, {
+  "id": "1304",
+  "videoJuegoId": "304",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1960"
+}, {
+  "id": "1305",
+  "videoJuegoId": "305",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "760"
+}, {
+  "id": "1306",
+  "videoJuegoId": "306",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1170"
+}, {
+  "id": "1307",
+  "videoJuegoId": "307",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1710"
+}, {
+  "id": "1308",
+  "videoJuegoId": "308",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "490"
+}, {
+  "id": "1309",
+  "videoJuegoId": "309",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1610"
+}, {
+  "id": "1310",
+  "videoJuegoId": "310",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "2090"
+}, {
+  "id": "1311",
+  "videoJuegoId": "311",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "0"
+}, {
+  "id": "1312",
+  "videoJuegoId": "312",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1940"
+}, {
+  "id": "1313",
+  "videoJuegoId": "313",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1140"
+}, {
+  "id": "1314",
+  "videoJuegoId": "314",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1890"
+}, {
+  "id": "1315",
+  "videoJuegoId": "315",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "650"
+}, {
+  "id": "1316",
+  "videoJuegoId": "316",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1440"
+}, {
+  "id": "1317",
+  "videoJuegoId": "317",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1570"
+}, {
+  "id": "1318",
+  "videoJuegoId": "318",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "960"
+}, {
+  "id": "1319",
+  "videoJuegoId": "319",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "480"
+}, {
+  "id": "1320",
+  "videoJuegoId": "320",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1930"
+}, {
+  "id": "1321",
+  "videoJuegoId": "321",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1370"
+}, {
+  "id": "1322",
+  "videoJuegoId": "322",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1580"
+}, {
+  "id": "1323",
+  "videoJuegoId": "323",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1030"
+}, {
+  "id": "1324",
+  "videoJuegoId": "324",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1910"
+}, {
+  "id": "1325",
+  "videoJuegoId": "325",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1240"
+}, {
+  "id": "1326",
+  "videoJuegoId": "326",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1400"
+}, {
+  "id": "1327",
+  "videoJuegoId": "327",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1560"
+}, {
+  "id": "1328",
+  "videoJuegoId": "328",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "880"
+}, {
+  "id": "1329",
+  "videoJuegoId": "329",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1470"
+}, {
+  "id": "1330",
+  "videoJuegoId": "330",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "2000"
+}, {
+  "id": "1331",
+  "videoJuegoId": "331",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "2000"
+}, {
+  "id": "1332",
+  "videoJuegoId": "332",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "770"
+}, {
+  "id": "1333",
+  "videoJuegoId": "333",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1580"
+}, {
+  "id": "1334",
+  "videoJuegoId": "334",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "730"
+}, {
+  "id": "1335",
+  "videoJuegoId": "335",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "2480"
+}, {
+  "id": "1336",
+  "videoJuegoId": "336",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1610"
+}, {
+  "id": "1337",
+  "videoJuegoId": "337",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1510"
+}, {
+  "id": "1338",
+  "videoJuegoId": "338",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1180"
+}, {
+  "id": "1339",
+  "videoJuegoId": "339",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "0"
+}, {
+  "id": "1340",
+  "videoJuegoId": "340",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1220"
+}, {
+  "id": "1341",
+  "videoJuegoId": "341",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1130"
+}, {
+  "id": "1342",
+  "videoJuegoId": "342",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "810"
+}, {
+  "id": "1343",
+  "videoJuegoId": "343",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "970"
+}, {
+  "id": "1344",
+  "videoJuegoId": "344",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1090"
+}, {
+  "id": "1345",
+  "videoJuegoId": "345",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1800"
+}, {
+  "id": "1346",
+  "videoJuegoId": "346",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "680"
+}, {
+  "id": "1347",
+  "videoJuegoId": "347",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "0"
+}, {
+  "id": "1348",
+  "videoJuegoId": "348",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "2460"
+}, {
+  "id": "1349",
+  "videoJuegoId": "349",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1420"
+}, {
+  "id": "1350",
+  "videoJuegoId": "350",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "830"
+}, {
+  "id": "1351",
+  "videoJuegoId": "351",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1400"
+}, {
+  "id": "1352",
+  "videoJuegoId": "352",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1170"
+}, {
+  "id": "1353",
+  "videoJuegoId": "353",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1220"
+}, {
+  "id": "1354",
+  "videoJuegoId": "354",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1500"
+}, {
+  "id": "1355",
+  "videoJuegoId": "355",
+  "ubicacionId": "2",
+  "Año": "2016",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1610"
+}, {
+  "id": "1356",
+  "videoJuegoId": "356",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "670"
+}, {
+  "id": "1357",
+  "videoJuegoId": "357",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1020"
+}, {
+  "id": "1358",
+  "videoJuegoId": "358",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1350"
+}, {
+  "id": "1359",
+  "videoJuegoId": "359",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1790"
+}, {
+  "id": "1360",
+  "videoJuegoId": "360",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1580"
+}, {
+  "id": "1361",
+  "videoJuegoId": "361",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1770"
+}, {
+  "id": "1362",
+  "videoJuegoId": "362",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1400"
+}, {
+  "id": "1363",
+  "videoJuegoId": "363",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1130"
+}, {
+  "id": "1364",
+  "videoJuegoId": "364",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1140"
+}, {
+  "id": "1365",
+  "videoJuegoId": "365",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "2400"
+}, {
+  "id": "1366",
+  "videoJuegoId": "366",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1080"
+}, {
+  "id": "1367",
+  "videoJuegoId": "367",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1210"
+}, {
+  "id": "1368",
+  "videoJuegoId": "368",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1330"
+}, {
+  "id": "1369",
+  "videoJuegoId": "369",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "500"
+}, {
+  "id": "1370",
+  "videoJuegoId": "370",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1660"
+}, {
+  "id": "1371",
+  "videoJuegoId": "371",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "500"
+}, {
+  "id": "1372",
+  "videoJuegoId": "372",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "940"
+}, {
+  "id": "1373",
+  "videoJuegoId": "373",
+  "ubicacionId": "2",
+  "Año": "1985",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "380"
+}, {
+  "id": "1374",
+  "videoJuegoId": "374",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1830"
+}, {
+  "id": "1375",
+  "videoJuegoId": "375",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "970"
+}, {
+  "id": "1376",
+  "videoJuegoId": "376",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "390"
+}, {
+  "id": "1377",
+  "videoJuegoId": "377",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1220"
+}, {
+  "id": "1378",
+  "videoJuegoId": "378",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1010"
+}, {
+  "id": "1379",
+  "videoJuegoId": "379",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1020"
+}, {
+  "id": "1380",
+  "videoJuegoId": "380",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "890"
+}, {
+  "id": "1381",
+  "videoJuegoId": "381",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1750"
+}, {
+  "id": "1382",
+  "videoJuegoId": "382",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1270"
+}, {
+  "id": "1383",
+  "videoJuegoId": "383",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "730"
+}, {
+  "id": "1384",
+  "videoJuegoId": "384",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "0"
+}, {
+  "id": "1385",
+  "videoJuegoId": "385",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1540"
+}, {
+  "id": "1386",
+  "videoJuegoId": "386",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "0"
+}, {
+  "id": "1387",
+  "videoJuegoId": "387",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "2070"
+}, {
+  "id": "1388",
+  "videoJuegoId": "388",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1070"
+}, {
+  "id": "1389",
+  "videoJuegoId": "389",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "690"
+}, {
+  "id": "1390",
+  "videoJuegoId": "390",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1200"
+}, {
+  "id": "1391",
+  "videoJuegoId": "391",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "2280"
+}, {
+  "id": "1392",
+  "videoJuegoId": "392",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1470"
+}, {
+  "id": "1393",
+  "videoJuegoId": "393",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1030"
+}, {
+  "id": "1394",
+  "videoJuegoId": "394",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "940"
+}, {
+  "id": "1395",
+  "videoJuegoId": "395",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1350"
+}, {
+  "id": "1396",
+  "videoJuegoId": "396",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "760"
+}, {
+  "id": "1397",
+  "videoJuegoId": "397",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "670"
+}, {
+  "id": "1398",
+  "videoJuegoId": "398",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1610"
+}, {
+  "id": "1399",
+  "videoJuegoId": "399",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1530"
+}, {
+  "id": "1400",
+  "videoJuegoId": "400",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1140"
+}, {
+  "id": "1401",
+  "videoJuegoId": "401",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1290"
+}, {
+  "id": "1402",
+  "videoJuegoId": "402",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1010"
+}, {
+  "id": "1403",
+  "videoJuegoId": "403",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "990"
+}, {
+  "id": "1404",
+  "videoJuegoId": "404",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1390"
+}, {
+  "id": "1405",
+  "videoJuegoId": "405",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1170"
+}, {
+  "id": "1406",
+  "videoJuegoId": "406",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1050"
+}, {
+  "id": "1407",
+  "videoJuegoId": "407",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1280"
+}, {
+  "id": "1408",
+  "videoJuegoId": "408",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "920"
+}, {
+  "id": "1409",
+  "videoJuegoId": "409",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1920"
+}, {
+  "id": "1410",
+  "videoJuegoId": "410",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1050"
+}, {
+  "id": "1411",
+  "videoJuegoId": "411",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1130"
+}, {
+  "id": "1412",
+  "videoJuegoId": "412",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1590"
+}, {
+  "id": "1413",
+  "videoJuegoId": "413",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "190"
+}, {
+  "id": "1414",
+  "videoJuegoId": "414",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1300"
+}, {
+  "id": "1415",
+  "videoJuegoId": "415",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1330"
+}, {
+  "id": "1416",
+  "videoJuegoId": "416",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "2110"
+}, {
+  "id": "1417",
+  "videoJuegoId": "417",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "0"
+}, {
+  "id": "1418",
+  "videoJuegoId": "418",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "300"
+}, {
+  "id": "1419",
+  "videoJuegoId": "419",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1330"
+}, {
+  "id": "1420",
+  "videoJuegoId": "420",
+  "ubicacionId": "2",
+  "Año": "1983",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "100"
+}, {
+  "id": "1421",
+  "videoJuegoId": "421",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "720"
+}, {
+  "id": "1422",
+  "videoJuegoId": "422",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1210"
+}, {
+  "id": "1423",
+  "videoJuegoId": "423",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "0"
+}, {
+  "id": "1424",
+  "videoJuegoId": "424",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "600"
+}, {
+  "id": "1425",
+  "videoJuegoId": "425",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1010"
+}, {
+  "id": "1426",
+  "videoJuegoId": "426",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "770"
+}, {
+  "id": "1427",
+  "videoJuegoId": "427",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1120"
+}, {
+  "id": "1428",
+  "videoJuegoId": "428",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "870"
+}, {
+  "id": "1429",
+  "videoJuegoId": "429",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "560"
+}, {
+  "id": "1430",
+  "videoJuegoId": "430",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "510"
+}, {
+  "id": "1431",
+  "videoJuegoId": "431",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1080"
+}, {
+  "id": "1432",
+  "videoJuegoId": "432",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "980"
+}, {
+  "id": "1433",
+  "videoJuegoId": "433",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "160"
+}, {
+  "id": "1434",
+  "videoJuegoId": "434",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1570"
+}, {
+  "id": "1435",
+  "videoJuegoId": "435",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1060"
+}, {
+  "id": "1436",
+  "videoJuegoId": "436",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "970"
+}, {
+  "id": "1437",
+  "videoJuegoId": "437",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "990"
+}, {
+  "id": "1438",
+  "videoJuegoId": "438",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "0"
+}, {
+  "id": "1439",
+  "videoJuegoId": "439",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1250"
+}, {
+  "id": "1440",
+  "videoJuegoId": "440",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "0"
+}, {
+  "id": "1441",
+  "videoJuegoId": "441",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "860"
+}, {
+  "id": "1442",
+  "videoJuegoId": "442",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "620"
+}, {
+  "id": "1443",
+  "videoJuegoId": "443",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1000"
+}, {
+  "id": "1444",
+  "videoJuegoId": "444",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "870"
+}, {
+  "id": "1445",
+  "videoJuegoId": "445",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1270"
+}, {
+  "id": "1446",
+  "videoJuegoId": "446",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "820"
+}, {
+  "id": "1447",
+  "videoJuegoId": "447",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "2020"
+}, {
+  "id": "1448",
+  "videoJuegoId": "448",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "280"
+}, {
+  "id": "1449",
+  "videoJuegoId": "449",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "450"
+}, {
+  "id": "1450",
+  "videoJuegoId": "450",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "160"
+}, {
+  "id": "1451",
+  "videoJuegoId": "451",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "620"
+}, {
+  "id": "1452",
+  "videoJuegoId": "452",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1210"
+}, {
+  "id": "1453",
+  "videoJuegoId": "453",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "910"
+}, {
+  "id": "1454",
+  "videoJuegoId": "454",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "860"
+}, {
+  "id": "1455",
+  "videoJuegoId": "455",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "990"
+}, {
+  "id": "1456",
+  "videoJuegoId": "456",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "840"
+}, {
+  "id": "1457",
+  "videoJuegoId": "457",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "640"
+}, {
+  "id": "1458",
+  "videoJuegoId": "458",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1350"
+}, {
+  "id": "1459",
+  "videoJuegoId": "459",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1330"
+}, {
+  "id": "1460",
+  "videoJuegoId": "460",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "800"
+}, {
+  "id": "1461",
+  "videoJuegoId": "461",
+  "ubicacionId": "2",
+  "Año": "1987",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "470"
+}, {
+  "id": "1462",
+  "videoJuegoId": "462",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1040"
+}, {
+  "id": "1463",
+  "videoJuegoId": "463",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1130"
+}, {
+  "id": "1464",
+  "videoJuegoId": "464",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1070"
+}, {
+  "id": "1465",
+  "videoJuegoId": "465",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "0"
+}, {
+  "id": "1466",
+  "videoJuegoId": "466",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "210"
+}, {
+  "id": "1467",
+  "videoJuegoId": "467",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "320"
+}, {
+  "id": "1468",
+  "videoJuegoId": "468",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "510"
+}, {
+  "id": "1469",
+  "videoJuegoId": "469",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1180"
+}, {
+  "id": "1470",
+  "videoJuegoId": "470",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "860"
+}, {
+  "id": "1471",
+  "videoJuegoId": "471",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1260"
+}, {
+  "id": "1472",
+  "videoJuegoId": "472",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1410"
+}, {
+  "id": "1473",
+  "videoJuegoId": "473",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1000"
+}, {
+  "id": "1474",
+  "videoJuegoId": "474",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1120"
+}, {
+  "id": "1475",
+  "videoJuegoId": "475",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1010"
+}, {
+  "id": "1476",
+  "videoJuegoId": "476",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1720"
+}, {
+  "id": "1477",
+  "videoJuegoId": "477",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1150"
+}, {
+  "id": "1478",
+  "videoJuegoId": "478",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1370"
+}, {
+  "id": "1479",
+  "videoJuegoId": "479",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "40"
+}, {
+  "id": "1480",
+  "videoJuegoId": "480",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "710"
+}, {
+  "id": "1481",
+  "videoJuegoId": "481",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "580"
+}, {
+  "id": "1482",
+  "videoJuegoId": "482",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "770"
+}, {
+  "id": "1483",
+  "videoJuegoId": "483",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "510"
+}, {
+  "id": "1484",
+  "videoJuegoId": "484",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1110"
+}, {
+  "id": "1485",
+  "videoJuegoId": "485",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "690"
+}, {
+  "id": "1486",
+  "videoJuegoId": "486",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "800"
+}, {
+  "id": "1487",
+  "videoJuegoId": "487",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1060"
+}, {
+  "id": "1488",
+  "videoJuegoId": "488",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "450"
+}, {
+  "id": "1489",
+  "videoJuegoId": "489",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1130"
+}, {
+  "id": "1490",
+  "videoJuegoId": "490",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1240"
+}, {
+  "id": "1491",
+  "videoJuegoId": "491",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1140"
+}, {
+  "id": "1492",
+  "videoJuegoId": "492",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "860"
+}, {
+  "id": "1493",
+  "videoJuegoId": "493",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1850"
+}, {
+  "id": "1494",
+  "videoJuegoId": "494",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "800"
+}, {
+  "id": "1495",
+  "videoJuegoId": "495",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "320"
+}, {
+  "id": "1496",
+  "videoJuegoId": "496",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1120"
+}, {
+  "id": "1497",
+  "videoJuegoId": "497",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1510"
+}, {
+  "id": "1498",
+  "videoJuegoId": "498",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "720"
+}, {
+  "id": "1499",
+  "videoJuegoId": "499",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1270"
+}, {
+  "id": "1500",
+  "videoJuegoId": "500",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "1070"
+}, {
+  "id": "1501",
+  "videoJuegoId": "501",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "2430"
+}, {
+  "id": "1502",
+  "videoJuegoId": "502",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "630"
+}, {
+  "id": "1503",
+  "videoJuegoId": "503",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "160"
+}, {
+  "id": "1504",
+  "videoJuegoId": "504",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "770"
+}, {
+  "id": "1505",
+  "videoJuegoId": "505",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "510"
+}, {
+  "id": "1506",
+  "videoJuegoId": "506",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1340"
+}, {
+  "id": "1507",
+  "videoJuegoId": "507",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "530"
+}, {
+  "id": "1508",
+  "videoJuegoId": "508",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "550"
+}, {
+  "id": "1509",
+  "videoJuegoId": "509",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1140"
+}, {
+  "id": "1510",
+  "videoJuegoId": "510",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1980"
+}, {
+  "id": "1511",
+  "videoJuegoId": "511",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "570"
+}, {
+  "id": "1512",
+  "videoJuegoId": "512",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1080"
+}, {
+  "id": "1513",
+  "videoJuegoId": "513",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "860"
+}, {
+  "id": "1514",
+  "videoJuegoId": "514",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "90"
+}, {
+  "id": "1515",
+  "videoJuegoId": "515",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1050"
+}, {
+  "id": "1516",
+  "videoJuegoId": "516",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "670"
+}, {
+  "id": "1517",
+  "videoJuegoId": "517",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1050"
+}, {
+  "id": "1518",
+  "videoJuegoId": "518",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "2790"
+}, {
+  "id": "1519",
+  "videoJuegoId": "519",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1190"
+}, {
+  "id": "1520",
+  "videoJuegoId": "520",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1250"
+}, {
+  "id": "1521",
+  "videoJuegoId": "521",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1060"
+}, {
+  "id": "1522",
+  "videoJuegoId": "522",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "70"
+}, {
+  "id": "1523",
+  "videoJuegoId": "523",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "800"
+}, {
+  "id": "1524",
+  "videoJuegoId": "524",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "0"
+}, {
+  "id": "1525",
+  "videoJuegoId": "525",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "700"
+}, {
+  "id": "1526",
+  "videoJuegoId": "526",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "200"
+}, {
+  "id": "1527",
+  "videoJuegoId": "527",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "720"
+}, {
+  "id": "1528",
+  "videoJuegoId": "528",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1150"
+}, {
+  "id": "1529",
+  "videoJuegoId": "529",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "220"
+}, {
+  "id": "1530",
+  "videoJuegoId": "530",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1470"
+}, {
+  "id": "1531",
+  "videoJuegoId": "531",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "880"
+}, {
+  "id": "1532",
+  "videoJuegoId": "532",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1430"
+}, {
+  "id": "1533",
+  "videoJuegoId": "533",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "290"
+}, {
+  "id": "1534",
+  "videoJuegoId": "534",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "740"
+}, {
+  "id": "1535",
+  "videoJuegoId": "535",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "830"
+}, {
+  "id": "1536",
+  "videoJuegoId": "536",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "980"
+}, {
+  "id": "1537",
+  "videoJuegoId": "537",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "970"
+}, {
+  "id": "1538",
+  "videoJuegoId": "538",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1120"
+}, {
+  "id": "1539",
+  "videoJuegoId": "539",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1200"
+}, {
+  "id": "1540",
+  "videoJuegoId": "540",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1150"
+}, {
+  "id": "1541",
+  "videoJuegoId": "541",
+  "ubicacionId": "2",
+  "Año": "1980",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "170"
+}, {
+  "id": "1542",
+  "videoJuegoId": "542",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "540"
+}, {
+  "id": "1543",
+  "videoJuegoId": "543",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1310"
+}, {
+  "id": "1544",
+  "videoJuegoId": "544",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "310"
+}, {
+  "id": "1545",
+  "videoJuegoId": "545",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "360"
+}, {
+  "id": "1546",
+  "videoJuegoId": "546",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "940"
+}, {
+  "id": "1547",
+  "videoJuegoId": "547",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "930"
+}, {
+  "id": "1548",
+  "videoJuegoId": "548",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "530"
+}, {
+  "id": "1549",
+  "videoJuegoId": "549",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "480"
+}, {
+  "id": "1550",
+  "videoJuegoId": "550",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "520"
+}, {
+  "id": "1551",
+  "videoJuegoId": "551",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "760"
+}, {
+  "id": "1552",
+  "videoJuegoId": "552",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "640"
+}, {
+  "id": "1553",
+  "videoJuegoId": "553",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "120"
+}, {
+  "id": "1554",
+  "videoJuegoId": "554",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "520"
+}, {
+  "id": "1555",
+  "videoJuegoId": "555",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "110"
+}, {
+  "id": "1556",
+  "videoJuegoId": "556",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "1110"
+}, {
+  "id": "1557",
+  "videoJuegoId": "557",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1410"
+}, {
+  "id": "1558",
+  "videoJuegoId": "558",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "980"
+}, {
+  "id": "1559",
+  "videoJuegoId": "559",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "750"
+}, {
+  "id": "1560",
+  "videoJuegoId": "560",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "0"
+}, {
+  "id": "1561",
+  "videoJuegoId": "561",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "630"
+}, {
+  "id": "1562",
+  "videoJuegoId": "562",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1090"
+}, {
+  "id": "1563",
+  "videoJuegoId": "563",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "920"
+}, {
+  "id": "1564",
+  "videoJuegoId": "564",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "640"
+}, {
+  "id": "1565",
+  "videoJuegoId": "565",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "580"
+}, {
+  "id": "1566",
+  "videoJuegoId": "566",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "0"
+}, {
+  "id": "1567",
+  "videoJuegoId": "567",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "500"
+}, {
+  "id": "1568",
+  "videoJuegoId": "568",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1110"
+}, {
+  "id": "1569",
+  "videoJuegoId": "569",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "800"
+}, {
+  "id": "1570",
+  "videoJuegoId": "570",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1110"
+}, {
+  "id": "1571",
+  "videoJuegoId": "571",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "880"
+}, {
+  "id": "1572",
+  "videoJuegoId": "572",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "870"
+}, {
+  "id": "1573",
+  "videoJuegoId": "573",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "470"
+}, {
+  "id": "1574",
+  "videoJuegoId": "574",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1100"
+}, {
+  "id": "1575",
+  "videoJuegoId": "575",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "820"
+}, {
+  "id": "1576",
+  "videoJuegoId": "576",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "460"
+}, {
+  "id": "1577",
+  "videoJuegoId": "577",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "120"
+}, {
+  "id": "1578",
+  "videoJuegoId": "578",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "1060"
+}, {
+  "id": "1579",
+  "videoJuegoId": "579",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1790"
+}, {
+  "id": "1580",
+  "videoJuegoId": "580",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "810"
+}, {
+  "id": "1581",
+  "videoJuegoId": "581",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "140"
+}, {
+  "id": "1582",
+  "videoJuegoId": "582",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1220"
+}, {
+  "id": "1583",
+  "videoJuegoId": "583",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "840"
+}, {
+  "id": "1584",
+  "videoJuegoId": "584",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "550"
+}, {
+  "id": "1585",
+  "videoJuegoId": "585",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "520"
+}, {
+  "id": "1586",
+  "videoJuegoId": "586",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "210"
+}, {
+  "id": "1587",
+  "videoJuegoId": "587",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "1120"
+}, {
+  "id": "1588",
+  "videoJuegoId": "588",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1630"
+}, {
+  "id": "1589",
+  "videoJuegoId": "589",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "880"
+}, {
+  "id": "1590",
+  "videoJuegoId": "590",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "270"
+}, {
+  "id": "1591",
+  "videoJuegoId": "591",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1240"
+}, {
+  "id": "1592",
+  "videoJuegoId": "592",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1240"
+}, {
+  "id": "1593",
+  "videoJuegoId": "593",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1330"
+}, {
+  "id": "1594",
+  "videoJuegoId": "594",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "740"
+}, {
+  "id": "1595",
+  "videoJuegoId": "595",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "80"
+}, {
+  "id": "1596",
+  "videoJuegoId": "596",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "560"
+}, {
+  "id": "1597",
+  "videoJuegoId": "597",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1680"
+}, {
+  "id": "1598",
+  "videoJuegoId": "598",
+  "ubicacionId": "2",
+  "Año": "1987",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "0"
+}, {
+  "id": "1599",
+  "videoJuegoId": "599",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "590"
+}, {
+  "id": "1600",
+  "videoJuegoId": "600",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "230"
+}, {
+  "id": "1601",
+  "videoJuegoId": "601",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "570"
+}, {
+  "id": "1602",
+  "videoJuegoId": "602",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "870"
+}, {
+  "id": "1603",
+  "videoJuegoId": "603",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "120"
+}, {
+  "id": "1604",
+  "videoJuegoId": "604",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "0"
+}, {
+  "id": "1605",
+  "videoJuegoId": "605",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "750"
+}, {
+  "id": "1606",
+  "videoJuegoId": "606",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1120"
+}, {
+  "id": "1607",
+  "videoJuegoId": "607",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "780"
+}, {
+  "id": "1608",
+  "videoJuegoId": "608",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1310"
+}, {
+  "id": "1609",
+  "videoJuegoId": "609",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "140"
+}, {
+  "id": "1610",
+  "videoJuegoId": "610",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "20"
+}, {
+  "id": "1611",
+  "videoJuegoId": "611",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "70"
+}, {
+  "id": "1612",
+  "videoJuegoId": "612",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "520"
+}, {
+  "id": "1613",
+  "videoJuegoId": "613",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "560"
+}, {
+  "id": "1614",
+  "videoJuegoId": "614",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "970"
+}, {
+  "id": "1615",
+  "videoJuegoId": "615",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "1060"
+}, {
+  "id": "1616",
+  "videoJuegoId": "616",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "1140"
+}, {
+  "id": "1617",
+  "videoJuegoId": "617",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "850"
+}, {
+  "id": "1618",
+  "videoJuegoId": "618",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "850"
+}, {
+  "id": "1619",
+  "videoJuegoId": "619",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "440"
+}, {
+  "id": "1620",
+  "videoJuegoId": "620",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "360"
+}, {
+  "id": "1621",
+  "videoJuegoId": "621",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "200"
+}, {
+  "id": "1622",
+  "videoJuegoId": "622",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "580"
+}, {
+  "id": "1623",
+  "videoJuegoId": "623",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "0"
+}, {
+  "id": "1624",
+  "videoJuegoId": "624",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "120"
+}, {
+  "id": "1625",
+  "videoJuegoId": "625",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "540"
+}, {
+  "id": "1626",
+  "videoJuegoId": "626",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "250"
+}, {
+  "id": "1627",
+  "videoJuegoId": "627",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "980"
+}, {
+  "id": "1628",
+  "videoJuegoId": "628",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "730"
+}, {
+  "id": "1629",
+  "videoJuegoId": "629",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "820"
+}, {
+  "id": "1630",
+  "videoJuegoId": "630",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1190"
+}, {
+  "id": "1631",
+  "videoJuegoId": "631",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "320"
+}, {
+  "id": "1632",
+  "videoJuegoId": "632",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "610"
+}, {
+  "id": "1633",
+  "videoJuegoId": "633",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "610"
+}, {
+  "id": "1634",
+  "videoJuegoId": "634",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1180"
+}, {
+  "id": "1635",
+  "videoJuegoId": "635",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "760"
+}, {
+  "id": "1636",
+  "videoJuegoId": "636",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "260"
+}, {
+  "id": "1637",
+  "videoJuegoId": "637",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "220"
+}, {
+  "id": "1638",
+  "videoJuegoId": "638",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "0"
+}, {
+  "id": "1639",
+  "videoJuegoId": "639",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "760"
+}, {
+  "id": "1640",
+  "videoJuegoId": "640",
+  "ubicacionId": "2",
+  "Año": "1987",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "180"
+}, {
+  "id": "1641",
+  "videoJuegoId": "641",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "240"
+}, {
+  "id": "1642",
+  "videoJuegoId": "642",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "100"
+}, {
+  "id": "1643",
+  "videoJuegoId": "643",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "80"
+}, {
+  "id": "1644",
+  "videoJuegoId": "644",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "810"
+}, {
+  "id": "1645",
+  "videoJuegoId": "645",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "480"
+}, {
+  "id": "1646",
+  "videoJuegoId": "646",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "710"
+}, {
+  "id": "1647",
+  "videoJuegoId": "647",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "870"
+}, {
+  "id": "1648",
+  "videoJuegoId": "648",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1490"
+}, {
+  "id": "1649",
+  "videoJuegoId": "649",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "390"
+}, {
+  "id": "1650",
+  "videoJuegoId": "650",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "910"
+}, {
+  "id": "1651",
+  "videoJuegoId": "651",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "610"
+}, {
+  "id": "1652",
+  "videoJuegoId": "652",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "970"
+}, {
+  "id": "1653",
+  "videoJuegoId": "653",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "150"
+}, {
+  "id": "1654",
+  "videoJuegoId": "654",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "460"
+}, {
+  "id": "1655",
+  "videoJuegoId": "655",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "540"
+}, {
+  "id": "1656",
+  "videoJuegoId": "656",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "760"
+}, {
+  "id": "1657",
+  "videoJuegoId": "657",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "20"
+}, {
+  "id": "1658",
+  "videoJuegoId": "658",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1080"
+}, {
+  "id": "1659",
+  "videoJuegoId": "659",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "860"
+}, {
+  "id": "1660",
+  "videoJuegoId": "660",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "10"
+}, {
+  "id": "1661",
+  "videoJuegoId": "661",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "130"
+}, {
+  "id": "1662",
+  "videoJuegoId": "662",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "140"
+}, {
+  "id": "1663",
+  "videoJuegoId": "663",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "740"
+}, {
+  "id": "1664",
+  "videoJuegoId": "664",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "480"
+}, {
+  "id": "1665",
+  "videoJuegoId": "665",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "0"
+}, {
+  "id": "1666",
+  "videoJuegoId": "666",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "460"
+}, {
+  "id": "1667",
+  "videoJuegoId": "667",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1050"
+}, {
+  "id": "1668",
+  "videoJuegoId": "668",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "700"
+}, {
+  "id": "1669",
+  "videoJuegoId": "669",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "0"
+}, {
+  "id": "1670",
+  "videoJuegoId": "670",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "900"
+}, {
+  "id": "1671",
+  "videoJuegoId": "671",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "830"
+}, {
+  "id": "1672",
+  "videoJuegoId": "672",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "860"
+}, {
+  "id": "1673",
+  "videoJuegoId": "673",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1350"
+}, {
+  "id": "1674",
+  "videoJuegoId": "674",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "400"
+}, {
+  "id": "1675",
+  "videoJuegoId": "675",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "560"
+}, {
+  "id": "1676",
+  "videoJuegoId": "676",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "540"
+}, {
+  "id": "1677",
+  "videoJuegoId": "677",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "140"
+}, {
+  "id": "1678",
+  "videoJuegoId": "678",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "0"
+}, {
+  "id": "1679",
+  "videoJuegoId": "679",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "460"
+}, {
+  "id": "1680",
+  "videoJuegoId": "680",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "640"
+}, {
+  "id": "1681",
+  "videoJuegoId": "681",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "1060"
+}, {
+  "id": "1682",
+  "videoJuegoId": "682",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "450"
+}, {
+  "id": "1683",
+  "videoJuegoId": "683",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "540"
+}, {
+  "id": "1684",
+  "videoJuegoId": "684",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "1060"
+}, {
+  "id": "1685",
+  "videoJuegoId": "685",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "850"
+}, {
+  "id": "1686",
+  "videoJuegoId": "686",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "1250"
+}, {
+  "id": "1687",
+  "videoJuegoId": "687",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "750"
+}, {
+  "id": "1688",
+  "videoJuegoId": "688",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "680"
+}, {
+  "id": "1689",
+  "videoJuegoId": "689",
+  "ubicacionId": "2",
+  "Año": "1983",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "120"
+}, {
+  "id": "1690",
+  "videoJuegoId": "690",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "2000"
+}, {
+  "id": "1691",
+  "videoJuegoId": "691",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "800"
+}, {
+  "id": "1692",
+  "videoJuegoId": "692",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "70"
+}, {
+  "id": "1693",
+  "videoJuegoId": "693",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "900"
+}, {
+  "id": "1694",
+  "videoJuegoId": "694",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1270"
+}, {
+  "id": "1695",
+  "videoJuegoId": "695",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "770"
+}, {
+  "id": "1696",
+  "videoJuegoId": "696",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "980"
+}, {
+  "id": "1697",
+  "videoJuegoId": "697",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "0"
+}, {
+  "id": "1698",
+  "videoJuegoId": "698",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "100"
+}, {
+  "id": "1699",
+  "videoJuegoId": "699",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "920"
+}, {
+  "id": "1700",
+  "videoJuegoId": "700",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "620"
+}, {
+  "id": "1701",
+  "videoJuegoId": "701",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "390"
+}, {
+  "id": "1702",
+  "videoJuegoId": "702",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "730"
+}, {
+  "id": "1703",
+  "videoJuegoId": "703",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "540"
+}, {
+  "id": "1704",
+  "videoJuegoId": "704",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "570"
+}, {
+  "id": "1705",
+  "videoJuegoId": "705",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "460"
+}, {
+  "id": "1706",
+  "videoJuegoId": "706",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "440"
+}, {
+  "id": "1707",
+  "videoJuegoId": "707",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "250"
+}, {
+  "id": "1708",
+  "videoJuegoId": "708",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "510"
+}, {
+  "id": "1709",
+  "videoJuegoId": "709",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "410"
+}, {
+  "id": "1710",
+  "videoJuegoId": "710",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "150"
+}, {
+  "id": "1711",
+  "videoJuegoId": "711",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "790"
+}, {
+  "id": "1712",
+  "videoJuegoId": "712",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "710"
+}, {
+  "id": "1713",
+  "videoJuegoId": "713",
+  "ubicacionId": "2",
+  "Año": "1990",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "250"
+}, {
+  "id": "1714",
+  "videoJuegoId": "714",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "830"
+}, {
+  "id": "1715",
+  "videoJuegoId": "715",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "610"
+}, {
+  "id": "1716",
+  "videoJuegoId": "716",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "850"
+}, {
+  "id": "1717",
+  "videoJuegoId": "717",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "630"
+}, {
+  "id": "1718",
+  "videoJuegoId": "718",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1030"
+}, {
+  "id": "1719",
+  "videoJuegoId": "719",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "320"
+}, {
+  "id": "1720",
+  "videoJuegoId": "720",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "980"
+}, {
+  "id": "1721",
+  "videoJuegoId": "721",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "620"
+}, {
+  "id": "1722",
+  "videoJuegoId": "722",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "820"
+}, {
+  "id": "1723",
+  "videoJuegoId": "723",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "550"
+}, {
+  "id": "1724",
+  "videoJuegoId": "724",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "550"
+}, {
+  "id": "1725",
+  "videoJuegoId": "725",
+  "ubicacionId": "2",
+  "Año": "1981",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "120"
+}, {
+  "id": "1726",
+  "videoJuegoId": "726",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "0"
+}, {
+  "id": "1727",
+  "videoJuegoId": "727",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "510"
+}, {
+  "id": "1728",
+  "videoJuegoId": "728",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "20"
+}, {
+  "id": "1729",
+  "videoJuegoId": "729",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "910"
+}, {
+  "id": "1730",
+  "videoJuegoId": "730",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "240"
+}, {
+  "id": "1731",
+  "videoJuegoId": "731",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "680"
+}, {
+  "id": "1732",
+  "videoJuegoId": "732",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "170"
+}, {
+  "id": "1733",
+  "videoJuegoId": "733",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "720"
+}, {
+  "id": "1734",
+  "videoJuegoId": "734",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "440"
+}, {
+  "id": "1735",
+  "videoJuegoId": "735",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "780"
+}, {
+  "id": "1736",
+  "videoJuegoId": "736",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "970"
+}, {
+  "id": "1737",
+  "videoJuegoId": "737",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "1070"
+}, {
+  "id": "1738",
+  "videoJuegoId": "738",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "0"
+}, {
+  "id": "1739",
+  "videoJuegoId": "739",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "200"
+}, {
+  "id": "1740",
+  "videoJuegoId": "740",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "40"
+}, {
+  "id": "1741",
+  "videoJuegoId": "741",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "780"
+}, {
+  "id": "1742",
+  "videoJuegoId": "742",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "70"
+}, {
+  "id": "1743",
+  "videoJuegoId": "743",
+  "ubicacionId": "2",
+  "Año": "1984",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "110"
+}, {
+  "id": "1744",
+  "videoJuegoId": "744",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "460"
+}, {
+  "id": "1745",
+  "videoJuegoId": "745",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "170"
+}, {
+  "id": "1746",
+  "videoJuegoId": "746",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "680"
+}, {
+  "id": "1747",
+  "videoJuegoId": "747",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "830"
+}, {
+  "id": "1748",
+  "videoJuegoId": "748",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "470"
+}, {
+  "id": "1749",
+  "videoJuegoId": "749",
+  "ubicacionId": "2",
+  "Año": "1987",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "30"
+}, {
+  "id": "1750",
+  "videoJuegoId": "750",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "550"
+}, {
+  "id": "1751",
+  "videoJuegoId": "751",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1410"
+}, {
+  "id": "1752",
+  "videoJuegoId": "752",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1160"
+}, {
+  "id": "1753",
+  "videoJuegoId": "753",
+  "ubicacionId": "2",
+  "Año": "1983",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "0"
+}, {
+  "id": "1754",
+  "videoJuegoId": "754",
+  "ubicacionId": "2",
+  "Año": "1988",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "380"
+}, {
+  "id": "1755",
+  "videoJuegoId": "755",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "840"
+}, {
+  "id": "1756",
+  "videoJuegoId": "756",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "0"
+}, {
+  "id": "1757",
+  "videoJuegoId": "757",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "1030"
+}, {
+  "id": "1758",
+  "videoJuegoId": "758",
+  "ubicacionId": "2",
+  "Año": "1981",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "120"
+}, {
+  "id": "1759",
+  "videoJuegoId": "759",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "370"
+}, {
+  "id": "1760",
+  "videoJuegoId": "760",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "810"
+}, {
+  "id": "1761",
+  "videoJuegoId": "761",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "70"
+}, {
+  "id": "1762",
+  "videoJuegoId": "762",
+  "ubicacionId": "2",
+  "Año": "2016",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "1160"
+}, {
+  "id": "1763",
+  "videoJuegoId": "763",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "330"
+}, {
+  "id": "1764",
+  "videoJuegoId": "764",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "610"
+}, {
+  "id": "1765",
+  "videoJuegoId": "765",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "50"
+}, {
+  "id": "1766",
+  "videoJuegoId": "766",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "970"
+}, {
+  "id": "1767",
+  "videoJuegoId": "767",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "90"
+}, {
+  "id": "1768",
+  "videoJuegoId": "768",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "400"
+}, {
+  "id": "1769",
+  "videoJuegoId": "769",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "310"
+}, {
+  "id": "1770",
+  "videoJuegoId": "770",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "210"
+}, {
+  "id": "1771",
+  "videoJuegoId": "771",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1340"
+}, {
+  "id": "1772",
+  "videoJuegoId": "772",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "620"
+}, {
+  "id": "1773",
+  "videoJuegoId": "773",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "450"
+}, {
+  "id": "1774",
+  "videoJuegoId": "774",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "270"
+}, {
+  "id": "1775",
+  "videoJuegoId": "775",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "330"
+}, {
+  "id": "1776",
+  "videoJuegoId": "776",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "70"
+}, {
+  "id": "1777",
+  "videoJuegoId": "777",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "720"
+}, {
+  "id": "1778",
+  "videoJuegoId": "778",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "440"
+}, {
+  "id": "1779",
+  "videoJuegoId": "779",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "130"
+}, {
+  "id": "1780",
+  "videoJuegoId": "780",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "510"
+}, {
+  "id": "1781",
+  "videoJuegoId": "781",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "0"
+}, {
+  "id": "1782",
+  "videoJuegoId": "782",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "600"
+}, {
+  "id": "1783",
+  "videoJuegoId": "783",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "630"
+}, {
+  "id": "1784",
+  "videoJuegoId": "784",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "650"
+}, {
+  "id": "1785",
+  "videoJuegoId": "785",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "940"
+}, {
+  "id": "1786",
+  "videoJuegoId": "786",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "0"
+}, {
+  "id": "1787",
+  "videoJuegoId": "787",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "120"
+}, {
+  "id": "1788",
+  "videoJuegoId": "788",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "420"
+}, {
+  "id": "1789",
+  "videoJuegoId": "789",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "930"
+}, {
+  "id": "1790",
+  "videoJuegoId": "790",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "1080"
+}, {
+  "id": "1791",
+  "videoJuegoId": "791",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "40"
+}, {
+  "id": "1792",
+  "videoJuegoId": "792",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "710"
+}, {
+  "id": "1793",
+  "videoJuegoId": "793",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "330"
+}, {
+  "id": "1794",
+  "videoJuegoId": "794",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "520"
+}, {
+  "id": "1795",
+  "videoJuegoId": "795",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1020"
+}, {
+  "id": "1796",
+  "videoJuegoId": "796",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "320"
+}, {
+  "id": "1797",
+  "videoJuegoId": "797",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "990"
+}, {
+  "id": "1798",
+  "videoJuegoId": "798",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "940"
+}, {
+  "id": "1799",
+  "videoJuegoId": "799",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "360"
+}, {
+  "id": "1800",
+  "videoJuegoId": "800",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "460"
+}, {
+  "id": "1801",
+  "videoJuegoId": "801",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "390"
+}, {
+  "id": "1802",
+  "videoJuegoId": "802",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "420"
+}, {
+  "id": "1803",
+  "videoJuegoId": "803",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "540"
+}, {
+  "id": "1804",
+  "videoJuegoId": "804",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "460"
+}, {
+  "id": "1805",
+  "videoJuegoId": "805",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "620"
+}, {
+  "id": "1806",
+  "videoJuegoId": "806",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "770"
+}, {
+  "id": "1807",
+  "videoJuegoId": "807",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "520"
+}, {
+  "id": "1808",
+  "videoJuegoId": "808",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "800"
+}, {
+  "id": "1809",
+  "videoJuegoId": "809",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "970"
+}, {
+  "id": "1810",
+  "videoJuegoId": "810",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "630"
+}, {
+  "id": "1811",
+  "videoJuegoId": "811",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "570"
+}, {
+  "id": "1812",
+  "videoJuegoId": "812",
+  "ubicacionId": "2",
+  "Año": "1992",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "250"
+}, {
+  "id": "1813",
+  "videoJuegoId": "813",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "480"
+}, {
+  "id": "1814",
+  "videoJuegoId": "814",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "60"
+}, {
+  "id": "1815",
+  "videoJuegoId": "815",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "920"
+}, {
+  "id": "1816",
+  "videoJuegoId": "816",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "1290"
+}, {
+  "id": "1817",
+  "videoJuegoId": "817",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "640"
+}, {
+  "id": "1818",
+  "videoJuegoId": "818",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "330"
+}, {
+  "id": "1819",
+  "videoJuegoId": "819",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "830"
+}, {
+  "id": "1820",
+  "videoJuegoId": "820",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "480"
+}, {
+  "id": "1821",
+  "videoJuegoId": "821",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1020"
+}, {
+  "id": "1822",
+  "videoJuegoId": "822",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "20"
+}, {
+  "id": "1823",
+  "videoJuegoId": "823",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "1090"
+}, {
+  "id": "1824",
+  "videoJuegoId": "824",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "270"
+}, {
+  "id": "1825",
+  "videoJuegoId": "825",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "420"
+}, {
+  "id": "1826",
+  "videoJuegoId": "826",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1060"
+}, {
+  "id": "1827",
+  "videoJuegoId": "827",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "610"
+}, {
+  "id": "1828",
+  "videoJuegoId": "828",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "180"
+}, {
+  "id": "1829",
+  "videoJuegoId": "829",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "400"
+}, {
+  "id": "1830",
+  "videoJuegoId": "830",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "250"
+}, {
+  "id": "1831",
+  "videoJuegoId": "831",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "50"
+}, {
+  "id": "1832",
+  "videoJuegoId": "832",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "670"
+}, {
+  "id": "1833",
+  "videoJuegoId": "833",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "980"
+}, {
+  "id": "1834",
+  "videoJuegoId": "834",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "90"
+}, {
+  "id": "1835",
+  "videoJuegoId": "835",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1270"
+}, {
+  "id": "1836",
+  "videoJuegoId": "836",
+  "ubicacionId": "2",
+  "Año": "2016",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "620"
+}, {
+  "id": "1837",
+  "videoJuegoId": "837",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "160"
+}, {
+  "id": "1838",
+  "videoJuegoId": "838",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "300"
+}, {
+  "id": "1839",
+  "videoJuegoId": "839",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "450"
+}, {
+  "id": "1840",
+  "videoJuegoId": "840",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "850"
+}, {
+  "id": "1841",
+  "videoJuegoId": "841",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "1310"
+}, {
+  "id": "1842",
+  "videoJuegoId": "842",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "300"
+}, {
+  "id": "1843",
+  "videoJuegoId": "843",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "640"
+}, {
+  "id": "1844",
+  "videoJuegoId": "844",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "640"
+}, {
+  "id": "1845",
+  "videoJuegoId": "845",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "270"
+}, {
+  "id": "1846",
+  "videoJuegoId": "846",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1090"
+}, {
+  "id": "1847",
+  "videoJuegoId": "847",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "630"
+}, {
+  "id": "1848",
+  "videoJuegoId": "848",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "580"
+}, {
+  "id": "1849",
+  "videoJuegoId": "849",
+  "ubicacionId": "2",
+  "Año": "1981",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "110"
+}, {
+  "id": "1850",
+  "videoJuegoId": "850",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "950"
+}, {
+  "id": "1851",
+  "videoJuegoId": "851",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "580"
+}, {
+  "id": "1852",
+  "videoJuegoId": "852",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "590"
+}, {
+  "id": "1853",
+  "videoJuegoId": "853",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "640"
+}, {
+  "id": "1854",
+  "videoJuegoId": "854",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "800"
+}, {
+  "id": "1855",
+  "videoJuegoId": "855",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "860"
+}, {
+  "id": "1856",
+  "videoJuegoId": "856",
+  "ubicacionId": "2",
+  "Año": "1985",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "230"
+}, {
+  "id": "1857",
+  "videoJuegoId": "857",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "370"
+}, {
+  "id": "1858",
+  "videoJuegoId": "858",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "500"
+}, {
+  "id": "1859",
+  "videoJuegoId": "859",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "30"
+}, {
+  "id": "1860",
+  "videoJuegoId": "860",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "650"
+}, {
+  "id": "1861",
+  "videoJuegoId": "861",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "570"
+}, {
+  "id": "1862",
+  "videoJuegoId": "862",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "770"
+}, {
+  "id": "1863",
+  "videoJuegoId": "863",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "1010"
+}, {
+  "id": "1864",
+  "videoJuegoId": "864",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "200"
+}, {
+  "id": "1865",
+  "videoJuegoId": "865",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "610"
+}, {
+  "id": "1866",
+  "videoJuegoId": "866",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "490"
+}, {
+  "id": "1867",
+  "videoJuegoId": "867",
+  "ubicacionId": "2",
+  "Año": "1989",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "380"
+}, {
+  "id": "1868",
+  "videoJuegoId": "868",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "420"
+}, {
+  "id": "1869",
+  "videoJuegoId": "869",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "0"
+}, {
+  "id": "1870",
+  "videoJuegoId": "870",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1230"
+}, {
+  "id": "1871",
+  "videoJuegoId": "871",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "400"
+}, {
+  "id": "1872",
+  "videoJuegoId": "872",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "740"
+}, {
+  "id": "1873",
+  "videoJuegoId": "873",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "150"
+}, {
+  "id": "1874",
+  "videoJuegoId": "874",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "1260"
+}, {
+  "id": "1875",
+  "videoJuegoId": "875",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "390"
+}, {
+  "id": "1876",
+  "videoJuegoId": "876",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "260"
+}, {
+  "id": "1877",
+  "videoJuegoId": "877",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "600"
+}, {
+  "id": "1878",
+  "videoJuegoId": "878",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "720"
+}, {
+  "id": "1879",
+  "videoJuegoId": "879",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "560"
+}, {
+  "id": "1880",
+  "videoJuegoId": "880",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "240"
+}, {
+  "id": "1881",
+  "videoJuegoId": "881",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "0"
+}, {
+  "id": "1882",
+  "videoJuegoId": "882",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "610"
+}, {
+  "id": "1883",
+  "videoJuegoId": "883",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "890"
+}, {
+  "id": "1884",
+  "videoJuegoId": "884",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "160"
+}, {
+  "id": "1885",
+  "videoJuegoId": "885",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "530"
+}, {
+  "id": "1886",
+  "videoJuegoId": "886",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "960"
+}, {
+  "id": "1887",
+  "videoJuegoId": "887",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "800"
+}, {
+  "id": "1888",
+  "videoJuegoId": "888",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "730"
+}, {
+  "id": "1889",
+  "videoJuegoId": "889",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "850"
+}, {
+  "id": "1890",
+  "videoJuegoId": "890",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "970"
+}, {
+  "id": "1891",
+  "videoJuegoId": "891",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "670"
+}, {
+  "id": "1892",
+  "videoJuegoId": "892",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "870"
+}, {
+  "id": "1893",
+  "videoJuegoId": "893",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "160"
+}, {
+  "id": "1894",
+  "videoJuegoId": "894",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "570"
+}, {
+  "id": "1895",
+  "videoJuegoId": "895",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "440"
+}, {
+  "id": "1896",
+  "videoJuegoId": "896",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "660"
+}, {
+  "id": "1897",
+  "videoJuegoId": "897",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "780"
+}, {
+  "id": "1898",
+  "videoJuegoId": "898",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "750"
+}, {
+  "id": "1899",
+  "videoJuegoId": "899",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "920"
+}, {
+  "id": "1900",
+  "videoJuegoId": "900",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "150"
+}, {
+  "id": "1901",
+  "videoJuegoId": "901",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "910"
+}, {
+  "id": "1902",
+  "videoJuegoId": "902",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "300"
+}, {
+  "id": "1903",
+  "videoJuegoId": "903",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "360"
+}, {
+  "id": "1904",
+  "videoJuegoId": "904",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "440"
+}, {
+  "id": "1905",
+  "videoJuegoId": "905",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "120"
+}, {
+  "id": "1906",
+  "videoJuegoId": "906",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "720"
+}, {
+  "id": "1907",
+  "videoJuegoId": "907",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "690"
+}, {
+  "id": "1908",
+  "videoJuegoId": "908",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "540"
+}, {
+  "id": "1909",
+  "videoJuegoId": "909",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "1470"
+}, {
+  "id": "1910",
+  "videoJuegoId": "910",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "160"
+}, {
+  "id": "1911",
+  "videoJuegoId": "911",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "530"
+}, {
+  "id": "1912",
+  "videoJuegoId": "912",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "80"
+}, {
+  "id": "1913",
+  "videoJuegoId": "913",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "620"
+}, {
+  "id": "1914",
+  "videoJuegoId": "914",
+  "ubicacionId": "2",
+  "Año": "1997",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "410"
+}, {
+  "id": "1915",
+  "videoJuegoId": "915",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "440"
+}, {
+  "id": "1916",
+  "videoJuegoId": "916",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "420"
+}, {
+  "id": "1917",
+  "videoJuegoId": "917",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "520"
+}, {
+  "id": "1918",
+  "videoJuegoId": "918",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "710"
+}, {
+  "id": "1919",
+  "videoJuegoId": "919",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "690"
+}, {
+  "id": "1920",
+  "videoJuegoId": "920",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "1370"
+}, {
+  "id": "1921",
+  "videoJuegoId": "921",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "30"
+}, {
+  "id": "1922",
+  "videoJuegoId": "922",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "370"
+}, {
+  "id": "1923",
+  "videoJuegoId": "923",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "710"
+}, {
+  "id": "1924",
+  "videoJuegoId": "924",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "920"
+}, {
+  "id": "1925",
+  "videoJuegoId": "925",
+  "ubicacionId": "2",
+  "Año": "1984",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "190"
+}, {
+  "id": "1926",
+  "videoJuegoId": "926",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "490"
+}, {
+  "id": "1927",
+  "videoJuegoId": "927",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "180"
+}, {
+  "id": "1928",
+  "videoJuegoId": "928",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "820"
+}, {
+  "id": "1929",
+  "videoJuegoId": "929",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "490"
+}, {
+  "id": "1930",
+  "videoJuegoId": "930",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "590"
+}, {
+  "id": "1931",
+  "videoJuegoId": "931",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "1100"
+}, {
+  "id": "1932",
+  "videoJuegoId": "932",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "50"
+}, {
+  "id": "1933",
+  "videoJuegoId": "933",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "340"
+}, {
+  "id": "1934",
+  "videoJuegoId": "934",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "70"
+}, {
+  "id": "1935",
+  "videoJuegoId": "935",
+  "ubicacionId": "2",
+  "Año": "1995",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "330"
+}, {
+  "id": "1936",
+  "videoJuegoId": "936",
+  "ubicacionId": "2",
+  "Año": "1996",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "400"
+}, {
+  "id": "1937",
+  "videoJuegoId": "937",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "60"
+}, {
+  "id": "1938",
+  "videoJuegoId": "938",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "490"
+}, {
+  "id": "1939",
+  "videoJuegoId": "939",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "540"
+}, {
+  "id": "1940",
+  "videoJuegoId": "940",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "760"
+}, {
+  "id": "1941",
+  "videoJuegoId": "941",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "1020"
+}, {
+  "id": "1942",
+  "videoJuegoId": "942",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "430"
+}, {
+  "id": "1943",
+  "videoJuegoId": "943",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "70"
+}, {
+  "id": "1944",
+  "videoJuegoId": "944",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "0"
+}, {
+  "id": "1945",
+  "videoJuegoId": "945",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "740"
+}, {
+  "id": "1946",
+  "videoJuegoId": "946",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "340"
+}, {
+  "id": "1947",
+  "videoJuegoId": "947",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "510"
+}, {
+  "id": "1948",
+  "videoJuegoId": "948",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "440"
+}, {
+  "id": "1949",
+  "videoJuegoId": "949",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "590"
+}, {
+  "id": "1950",
+  "videoJuegoId": "950",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "690"
+}, {
+  "id": "1951",
+  "videoJuegoId": "951",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "210"
+}, {
+  "id": "1952",
+  "videoJuegoId": "952",
+  "ubicacionId": "2",
+  "Año": "2014",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "840"
+}, {
+  "id": "1953",
+  "videoJuegoId": "953",
+  "ubicacionId": "2",
+  "Año": "1999",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "680"
+}, {
+  "id": "1954",
+  "videoJuegoId": "954",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "590"
+}, {
+  "id": "1955",
+  "videoJuegoId": "955",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "0"
+}, {
+  "id": "1956",
+  "videoJuegoId": "956",
+  "ubicacionId": "2",
+  "Año": "2008",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "30"
+}, {
+  "id": "1957",
+  "videoJuegoId": "957",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "210"
+}, {
+  "id": "1958",
+  "videoJuegoId": "958",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "390"
+}, {
+  "id": "1959",
+  "videoJuegoId": "959",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "880"
+}, {
+  "id": "1960",
+  "videoJuegoId": "960",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "960"
+}, {
+  "id": "1961",
+  "videoJuegoId": "961",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "580"
+}, {
+  "id": "1962",
+  "videoJuegoId": "962",
+  "ubicacionId": "2",
+  "Año": "2003",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "290"
+}, {
+  "id": "1963",
+  "videoJuegoId": "963",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "1010"
+}, {
+  "id": "1964",
+  "videoJuegoId": "964",
+  "ubicacionId": "2",
+  "Año": "2006",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "30"
+}, {
+  "id": "1965",
+  "videoJuegoId": "965",
+  "ubicacionId": "2",
+  "Año": "2010",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "940"
+}, {
+  "id": "1966",
+  "videoJuegoId": "966",
+  "ubicacionId": "2",
+  "Año": "2011",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "950"
+}, {
+  "id": "1967",
+  "videoJuegoId": "967",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "570"
+}, {
+  "id": "1968",
+  "videoJuegoId": "968",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "460"
+}, {
+  "id": "1969",
+  "videoJuegoId": "969",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "90"
+}, {
+  "id": "1970",
+  "videoJuegoId": "970",
+  "ubicacionId": "2",
+  "Año": "2000",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "60"
+}, {
+  "id": "1971",
+  "videoJuegoId": "971",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "290"
+}, {
+  "id": "1972",
+  "videoJuegoId": "972",
+  "ubicacionId": "2",
+  "Año": "2005",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "760"
+}, {
+  "id": "1973",
+  "videoJuegoId": "973",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "450"
+}, {
+  "id": "1974",
+  "videoJuegoId": "974",
+  "ubicacionId": "2",
+  "Año": "2009",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "450"
+}, {
+  "id": "1975",
+  "videoJuegoId": "975",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "570"
+}, {
+  "id": "1976",
+  "videoJuegoId": "976",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "540"
+}, {
+  "id": "1977",
+  "videoJuegoId": "977",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "16:00",
+  "cantidad": "30"
+}, {
+  "id": "1978",
+  "videoJuegoId": "978",
+  "ubicacionId": "2",
+  "Año": "1986",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "17:00",
+  "cantidad": "120"
+}, {
+  "id": "1979",
+  "videoJuegoId": "979",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "18:00",
+  "cantidad": "310"
+}, {
+  "id": "1980",
+  "videoJuegoId": "980",
+  "ubicacionId": "2",
+  "Año": "1994",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "19:00",
+  "cantidad": "470"
+}, {
+  "id": "1981",
+  "videoJuegoId": "981",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "20:00",
+  "cantidad": "420"
+}, {
+  "id": "1982",
+  "videoJuegoId": "982",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "21:00",
+  "cantidad": "380"
+}, {
+  "id": "1983",
+  "videoJuegoId": "983",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "22:00",
+  "cantidad": "870"
+}, {
+  "id": "1984",
+  "videoJuegoId": "984",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "23:00",
+  "cantidad": "460"
+}, {
+  "id": "1985",
+  "videoJuegoId": "985",
+  "ubicacionId": "2",
+  "Año": "2002",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "0:00",
+  "cantidad": "670"
+}, {
+  "id": "1986",
+  "videoJuegoId": "986",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "1:00",
+  "cantidad": "540"
+}, {
+  "id": "1987",
+  "videoJuegoId": "987",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "2:00",
+  "cantidad": "670"
+}, {
+  "id": "1988",
+  "videoJuegoId": "988",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "3:00",
+  "cantidad": "950"
+}, {
+  "id": "1989",
+  "videoJuegoId": "989",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "4:00",
+  "cantidad": "470"
+}, {
+  "id": "1990",
+  "videoJuegoId": "990",
+  "ubicacionId": "2",
+  "Año": "2007",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "5:00",
+  "cantidad": "1070"
+}, {
+  "id": "1991",
+  "videoJuegoId": "991",
+  "ubicacionId": "2",
+  "Año": "2012",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "6:00",
+  "cantidad": "900"
+}, {
+  "id": "1992",
+  "videoJuegoId": "992",
+  "ubicacionId": "2",
+  "Año": "2013",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "7:00",
+  "cantidad": "690"
+}, {
+  "id": "1993",
+  "videoJuegoId": "993",
+  "ubicacionId": "2",
+  "Año": "2015",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "8:00",
+  "cantidad": "480"
+}, {
+  "id": "1994",
+  "videoJuegoId": "994",
+  "ubicacionId": "2",
+  "Año": "1991",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "9:00",
+  "cantidad": "130"
+}, {
+  "id": "1995",
+  "videoJuegoId": "995",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "10:00",
+  "cantidad": "340"
+}, {
+  "id": "1996",
+  "videoJuegoId": "996",
+  "ubicacionId": "2",
+  "Año": "1993",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "11:00",
+  "cantidad": "140"
+}, {
+  "id": "1997",
+  "videoJuegoId": "997",
+  "ubicacionId": "2",
+  "Año": "1998",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "12:00",
+  "cantidad": "40"
+}, {
+  "id": "1998",
+  "videoJuegoId": "998",
+  "ubicacionId": "2",
+  "Año": "2001",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "13:00",
+  "cantidad": "900"
+}, {
+  "id": "1999",
+  "videoJuegoId": "999",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "14:00",
+  "cantidad": "450"
+}, {
+  "id": "2000",
+  "videoJuegoId": "1000",
+  "ubicacionId": "2",
+  "Año": "2004",
+  "Mes": "1",
+  "Dia": "1",
+  "Hora": "15:00",
+  "cantidad": "460"
+}]

@@ -7,7 +7,7 @@ class ventasController {
 
   async listVentas(res) {
     const querySpec = {
-      query: "SELECT * FROM root"
+      query: "SELECT * FROM c" // OFFSET 0 LIMIT 10
     };
     const items = await this.ventas.find(querySpec);
     res({

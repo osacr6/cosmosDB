@@ -1,0 +1,37 @@
+[{
+  "id": "1",
+  "Nombre": "Sports"
+}, {
+  "id": "2",
+  "Nombre": "Platform"
+}, {
+  "id": "3",
+  "Nombre": "Racing"
+}, {
+  "id": "4",
+  "Nombre": "Role-Playing"
+}, {
+  "id": "5",
+  "Nombre": "Puzzle"
+}, {
+  "id": "6",
+  "Nombre": "Misc"
+}, {
+  "id": "7",
+  "Nombre": "Shooter"
+}, {
+  "id": "8",
+  "Nombre": "Simulation"
+}, {
+  "id": "9",
+  "Nombre": "Action"
+}, {
+  "id": "10",
+  "Nombre": "Fighting"
+}, {
+  "id": "11",
+  "Nombre": "Adventure"
+}, {
+  "id": "12",
+  "Nombre": "Strategy"
+}]

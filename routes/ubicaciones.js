@@ -9,7 +9,6 @@ router.get('/', function(req, res, next) {
   controller.listUbicaciones(({
     data
   }) => {
-    console.log(data);
     res.render('ubicaciones', {
       title: 'Ubicaciones',
       ubicaciones: data
@@ -29,7 +28,7 @@ router.post('/create', function(req, res, next) {
   console.log(req.body);
   controller.addUbicacion(req.body, ({status, message}) => {
     console.log(status, message);
-    res.redirect('/');
+    res.redirect('/ubicaciones');
   });
 });
 
@@ -37,7 +36,7 @@ router.post('/update', function(req, res, next) {
   console.log(req.body);
   controller.updateUbicacion(req.body, ({status, message}) => {
     console.log(status, message)
-    res.redirect('/');
+    res.redirect('/ubicaciones');
   });
 });
 
@@ -46,7 +45,7 @@ router.get('/delete/:id', function(req, res, next) {
   console.log('delete: ', id)
   controller.deleteUbicacion(id, ({status, message}) => {
     console.log(status, message)
-    res.redirect('/');
+    res.redirect('/ubicaciones');
   });
 });
 

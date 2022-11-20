@@ -1,13 +1,13 @@
 // https://www.npmjs.com/package/@azure/cosmos/v/3.17.1
 // https://learn.microsoft.com/en-us/javascript/api/overview/azure/cosmos-readme?view=azure-node-latest#insert-items
 // https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app#create-new-app
-// https://learn.microsoft.com/en-us/azure/cosmos-db/index-overview
+// https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/query/getting-started
 // @ts-check
 const CosmosClient = require('@azure/cosmos').CosmosClient;
 const config = require('../config');
 
 // For simplicity we'll set a constant partition key
-const partitionKey = 'id';
+const partitionKey = '/id';
 
 class Model {
   /**
@@ -47,13 +47,17 @@ class Model {
 
   async find(querySpec) {
     console.log('Querying for items from the database')
-    if (!this.container) {
-      throw new Error('Collection is not initialized.')
+    try {
+      if (!this.container) {
+        throw new Error('Collection is not initialized.')
+      }
+      const response = await this.container.items.query(querySpec).fetchAll();
+      //console.log(response);
+      return response.resources;
+    } catch (error) {
+      console.log("Theres an Error: ", error);
+      return null;
     }
-    const {
-      resources
-    } = await this.container.items.query(querySpec).fetchAll()
-    return resources
   }
 
   async addItem(item) {
@@ -97,6 +101,7 @@ class Model {
       const {
         resource
       } = await this.container.item(itemId, partitionKey).read();
+      console.log(resource);
       return resource;
     } catch (error) {
       console.log("Theres an Error: ", error);
@@ -107,12 +112,12 @@ class Model {
   async deleteItem(itemId) {
     try {
       console.log('Delete an item from the database');
-      //const readResources = await this.container.item(itemId, partitionKey).read();
-      //console.log("readResources", readResources);
+      const readResources = await this.container.item("lahsjuyl", partitionKey).read();
+      console.log("readResources", readResources);
       //const deleteResource = await this.container.item(itemId, partitionKey).delete();
       //console.log("deleteResource", deleteResource);
-      const queryResources = await this.container.items.query("DELETE * FROM root v where v.id = 'lahsjuyl'").fetchAll();
-      console.log("queryResources", queryResources);
+      //const queryResources = await this.container.items.query("DELETE * FROM root v where v.id = 'lahsjuyl'").fetchAll();
+      //console.log("queryResources", queryResources);
       return resource;
     } catch (error) {
       console.log("Theres an Error: ", error);

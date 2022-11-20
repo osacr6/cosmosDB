@@ -27,6 +27,7 @@ app.use('/', require('./routes/index'));
 app.use('/videoJuegos', require('./routes/videoJuegos'));
 app.use('/ubicaciones', require('./routes/ubicaciones'));
 app.use('/ventas', require('./routes/ventas'));
+app.use('/reportes', require('./routes/reportes'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) { 

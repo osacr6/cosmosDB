@@ -1,0 +1,50 @@
+<div>
+  <div class="modal fade" id="createModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2 class="modal-title fs-5" id="exampleModalLabel">Agregar Venta</h2>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+        </div>
+        <div class="modal-body">
+          <div class="container">
+            <form action="/ventas/create" class="my-2" method="POST">
+              <input
+                type="hidden"
+                placeholder="video Juego"
+                class="form-control my-2"
+                name="videoJuegoId"
+              >
+              <input
+                type="hidden"
+                placeholder="ubicacion"
+                class="form-control my-2"
+                name="ubicacionId"
+              >
+              <input
+                type="text"
+                placeholder="video Juego"
+                class="form-control my-2"
+              >
+              <input
+                type="text"
+                placeholder="ubicacion"
+                class="form-control my-2"
+              >
+              <input
+                type="number"
+                placeholder="cantidad"
+                class="form-control my-2"
+                name="cantidad"
+              >
+              <button type="submit" class="btn btn-primary">Agregar</button>
+            </form>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
