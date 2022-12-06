@@ -24,6 +24,7 @@ El proyecto se deberá de ejecutar de manera locan en el URl http://localhost:30
 ```
 SELECT * FROM videoJuegos
 SELECT * FROM videoJuegos vj WHERE vj.Plataforma = "Wii"
+SELECT * FROM ventas v WHERE v.videoJuegoId = "1"
 ```
 https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/query/getting-started
 
