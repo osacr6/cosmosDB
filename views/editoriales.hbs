@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{> styles }}
+    <title> {{ title }} </title>
+  </head>
+  <body>
+     {{> navegacion }}
+    <div class="container mt-2">
+      <h1>{{ title }}</h1>
+      <hr>
+      <div class="btn-group" role="group">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">Agregar nueva ubicacion</button>
+      </div>
+      {{> ubicacionCreateModal }}
+      <hr>
+      <div>
+        <table class="table table-striped table-bordered" id="videoJuegosTable">
+          <thead>
+            <tr>
+              <th scope="col">Nombre</th>
+              <th scope="col">Acciones</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each ubicaciones}}
+            <tr>
+              <td>{{this.Nombre}}</td>
+              <td>
+                <div class="btn-group" role="group">
+                  <a class="btn btn-secondary" href="/ubicaciones/delete/{{this.id}}">Eliminar</a>
+                  <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#updateModal-{{this.id}}">Actualizar</button>
+                  {{> ubicacionUpdateModal ubicacion=this }}
+                </div>
+              </td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+      <hr>
+    </div>
+    {{> scripts }}
+  </body>
+</html> 

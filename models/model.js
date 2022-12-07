@@ -7,7 +7,7 @@ const CosmosClient = require('@azure/cosmos').CosmosClient;
 const config = require('../config');
 
 // For simplicity we'll set a constant partition key
-const partitionKey = '/id';
+const partitionKey = undefined;
 
 class Model {
   /**
@@ -83,6 +83,7 @@ class Model {
         ...doc,
         ...item
       };
+      console.log(doc);
       const {
         resource: replaced
       } = await this.container
@@ -97,7 +98,7 @@ class Model {
 
   async getItem(itemId) {
     try {
-      console.log('Getting an item from the database')
+      console.log('Getting an item from the database: ' + itemId)
       const {
         resource
       } = await this.container.item(itemId, partitionKey).read();
@@ -111,14 +112,15 @@ class Model {
 
   async deleteItem(itemId) {
     try {
-      console.log('Delete an item from the database');
-      const readResources = await this.container.item("lahsjuyl", partitionKey).read();
+      this.container.partitionKey = itemId;
+      console.log('Delete an item from the database: ' + itemId);
+      const readResources = await this.getItem(itemId);;
       console.log("readResources", readResources);
-      //const deleteResource = await this.container.item(itemId, partitionKey).delete();
-      //console.log("deleteResource", deleteResource);
-      //const queryResources = await this.container.items.query("DELETE * FROM root v where v.id = 'lahsjuyl'").fetchAll();
+      const deleteResource = await this.container.item(itemId).delete( { partitionKey : itemId });
+      console.log("deleteResource", deleteResource);
+      //const queryResources = await this.container.items.query("DELETE * FROM root v where v.id = '"+itemId+"'").fetchAll();
       //console.log("queryResources", queryResources);
-      return resource;
+      return deleteResource;
     } catch (error) {
       console.log("Theres an Error: ", error);
       return null;
