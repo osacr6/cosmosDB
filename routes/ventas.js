@@ -55,7 +55,7 @@ router.get('/delete/:id', function(req, res, next) {
     message
   }) => {
     console.log(status, message)
-    res.redirect('/');
+    res.redirect('/ventas');
   });
 });
 

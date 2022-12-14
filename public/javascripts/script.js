@@ -23,4 +23,52 @@ $(document).ready(function() {
       }
     }
   });
+
+  $.typeahead({
+    input: ".ubicaciones-typeahead",
+    order: "asc",
+    display: "Nombre",
+    hint: true,
+    minLength: 0,
+    searchOnFocus: true,
+    generateOnLoad: true,
+    template: '<span data-ubicaciones="{{Nombre}}">{{Nombre}}</span>',
+    source: {
+      data: () => {
+        return $.getJSON('/ubicaciones/list', function(data) {
+            return data;
+        });
+      }
+    },
+    callback: {
+      onClickBefore: function(node, a, item, event) {
+        $('[name=ubicacionId]').val(item.id);
+      }
+    }
+  });
+
+  $.typeahead({
+    input: ".videoJuego-typeahead",
+    order: "asc",
+    display: "Nombre",
+    hint: true,
+    minLength: 0,
+    searchOnFocus: true,
+    generateOnLoad: true,
+    template: '<span data-videoJuego="{{Nombre}}">{{Nombre}}</span>',
+    source: {
+      data: () => {
+        return $.getJSON('/videoJuegos/list', function(data) {
+            return data;
+        });
+      }
+    },
+    callback: {
+      onClickBefore: function(node, a, item, event) {
+        $('[name=videoJuegoId]').val(item.id);
+      }
+    }
+  });
+
+
 });

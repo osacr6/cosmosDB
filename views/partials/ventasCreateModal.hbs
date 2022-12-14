@@ -7,7 +7,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
         </div>
         <div class="modal-body">
-          <div class="container">
+          <div class="container typeahead__container">
             <form action="/ventas/create" class="my-2" method="POST">
               <input
                 type="hidden"
@@ -18,19 +18,33 @@
               <input
                 type="hidden"
                 placeholder="ubicacion"
-                class="form-control my-2"
+                class="form-control my-2 "
                 name="ubicacionId"
               >
-              <input
-                type="text"
-                placeholder="video Juego"
-                class="form-control my-2"
-              >
-              <input
-                type="text"
-                placeholder="ubicacion"
-                class="form-control my-2"
-              >
+              <div class="typeahead__container">
+                <div class="typeahead__field">
+                  <div class="typeahead__query">
+                    <input
+                      type="text"
+                      placeholder="ubicacion"
+                      class="form-control my-2 ubicaciones-typeahead"
+                      autocomplete="on"
+                    >
+                  </div>
+                </div>
+              </div>
+              <div class="typeahead__container">
+                <div class="typeahead__field">
+                  <div class="typeahead__query">
+                    <input
+                      type="text"
+                      placeholder="video Juego"
+                      class="form-control my-2 videoJuego-typeahead"
+                      autocomplete="on"
+                    >
+                  </div>
+                </div>
+              </div>
               <input
                 type="number"
                 placeholder="cantidad"

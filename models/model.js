@@ -63,7 +63,7 @@ class Model {
   async addItem(item) {
     console.log('Adding an item to the database')
     try {
-      item.id = (new Date().getTime()).toString(36);
+      item.id = new Date().valueOf().toString()
       console.log(item);
       const {
         resource: doc
